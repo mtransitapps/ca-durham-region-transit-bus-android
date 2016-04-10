@@ -1,17 +1,17 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10301,0,'Pickering Pkwy Terminal',103
-10300,0,'Rouge Hl Sta',103
+10300,0,'Pickering Pkwy Terminal',103
+10301,0,'Rouge Hl Sta',103
 10700,0,'Pickering Sta',107
 10701,0,'Rougemount Dr',107
-11001,0,'Pickering Sta',110
-11000,0,'Pine Grv Ave',110
-11100,0,'Finch Ave',111
-11101,0,'Pickering Pkwy Terminal',111
+11000,0,'Pickering Sta',110
+11001,0,'Pine Grv Ave',110
+11101,0,'Finch Ave',111
+11100,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
 11201,0,'William Jackson Dr',112
-12000,0,'Pickering Sta',120
-12001,0,'Sunbird Trl',120
+12001,0,'Pickering Sta',120
+12000,0,'Sunbird Trl',120
 19901,0,'Claremont',199
 19900,0,'Pickering Town Ctr',199
 21803,0,'Ajax Sta',218
@@ -88,6 +88,7 @@
 70102,0,'West Uxbridge Loop',701
 80101,1,'E',801
 80102,1,'W',801
+89004,0,'Pickering Sta',890
 90000,0,'Downtown Oshawa',900
 90001,0,'U Of T Scarborough Campus',900
 91003,0,'Durham College UOIT',910
@@ -100,8 +101,8 @@
 92200,0,'Whitby Sta',922
 92300,0,'Ajax Sta',923
 92301,0,'U Of T Scarborough Campus',923
-95001,0,'Durham College UOIT',950
-95000,0,'Port Perry / Uxbridge',950
+95000,0,'Durham College UOIT',950
+95001,0,'Port Perry / Uxbridge',950
 1010101,0,'Montgomery Pk Rd',10101
 1010100,0,'Pickering Sta',10101
 1011000,0,'Pickering Pkwy Terminal',10110
@@ -116,18 +117,18 @@
 2011000,0,'Pickering Pkwy Terminal',20110
 2011001,0,'Sheppard Ave',20110
 2019301,0,'Brock Finch Liverpool',20193
-2040100,0,'Downtown Oshawa',20401
-2040101,0,'Durham College UOIT',20401
+2040101,0,'Downtown Oshawa',20401
+2040100,0,'Durham College UOIT',20401
 2040201,0,'Courtice Rd',20402
 2040200,0,'Oshawa Ctr Terminal',20402
 2092200,0,'Harmony Terminal',20922
 2092201,0,'Nash Rd',20922
 3040100,0,'Durham College UOIT',30401
 3040101,0,'Oshawa Sta',30401
-3091001,0,'UOIT',30910
-3091000,0,'Whitby Sta',30910
-4021804,0,' Audley Rd',40218
+3091000,0,'UOIT',30910
+3091001,0,'Whitby Sta',30910
 4021803,0,'Ajax Sta',40218
+4021804,0,'Audley Rd',40218
 4021904,0,'Ajax Sta',40219
 4021903,0,'North Ajax',40219
 4022104,0,'Ajax Sta',40221
