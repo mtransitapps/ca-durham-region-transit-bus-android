@@ -1,35 +1,40 @@
-10101,0,'Montgomery Pk Rd',101
-10100,0,'Pickering Sta',101
+10101,0,'Pickering Sta',101
 10300,0,'Pickering Pkwy Terminal',103
 10301,0,'Rouge Hl Sta',103
 10700,0,'Pickering Sta',107
 10701,0,'Rougemount Dr',107
-11000,0,'Pickering Sta',110
-11001,0,'Pine Grv Ave',110
-11101,0,'Finch Ave',111
-11100,0,'Pickering Pkwy Terminal',111
+11001,0,'Pickering Sta',110
+11101,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
 11201,0,'William Jackson Dr',112
-12001,0,'Pickering Sta',120
-12000,0,'Sunbird Trl',120
-19901,0,'Claremont',199
-19900,0,'Pickering Town Ctr',199
+12000,0,'Pickering Sta',120
+12001,0,'Sunbird Trl',120
+18101,0,'Pickering West',181
+18201,0,'Late Night Shuttle East Pickering',182
+19900,0,'Claremont',199
+19901,0,'Pickering Town Ctr',199
+21501,0,'Ajax Sta',215
+21500,0,'Taunton',215
+21601,0,'Ajax Sta',216
+21600,0,'Taunton',216
+21701,0,'Ajax Sta',217
+21700,0,'Pickering Beach',217
 21803,0,'Ajax Sta',218
-21804,0,'Pickering Beach Rd',218
+21804,0,'Harwood',218
 21904,0,'Ajax Sta',219
-21903,0,'North Ajax',219
-22104,0,'Ajax Sta',221
-22103,0,'Central Ajax Loop',221
-22203,0,'Ajax Sta',222
-22204,0,'Audley South',222
-22403,0,'Ajax Sta',224
-22404,0,'Lk Driveway',224
+21903,0,'Taunton',219
+22301,0,'Pickering Beach',223
+22300,0,'Pickering Pkwy Terminal',223
+22402,0,'Ajax Sta',224
+22401,0,'Kerrison',224
 22504,0,'Ajax Sta',225
 22503,0,'Taunton',225
 22603,0,'Ajax Sta',226
-22604,0,'Lk Driveway',226
+22604,0,'Harwood',226
 23204,0,'Ajax Sta',232
-23203,0,'Rossland',232
+23203,0,'Strickland',232
+28301,0,'North Ajax',283
+28401,0,'South Ajax',284
 29101,0,'Pickering Town Ctr',291
 29100,0,'Westwood',291
 29200,0,'Pickering Town Ctr',292
@@ -44,7 +49,7 @@
 30404,0,'Whitby Sta',304
 30503,0,'Taunton',305
 30504,0,'Whitby Sta',305
-30804,0,'Whitby Shrs',308
+30804,0,'Ontario Shrs',308
 30803,0,'Whitby Sta',308
 31001,0,'Baldwin St',310
 31000,0,'Durham College UOIT',310
@@ -52,66 +57,55 @@
 31202,0,'Whitby',312
 31803,0,'Taunton',318
 31804,0,'Whitby Shrs',318
-38001,0,'Ajax',380
-38000,0,'Whitby',380
+38501,0,'Whitby',385
 40100,0,'Durham College UOIT',401
 40101,0,'Lakeview Pk & Ritson',401
-40201,0,'Courtice Rd',402
-40200,0,'Oshawa Ctr Terminal',402
-40300,0,'Oshawa Ctr Terminal',403
-40301,0,'Oshawa Sta',403
+40200,0,'Courtice Rd',402
+40201,0,'Oshawa Ctr Terminal',402
+40301,0,'Oshawa Ctr Terminal',403
+40300,0,'Oshawa Sta',403
 40500,0,'Harmony Terminal',405
 40501,0,'Oshawa Sta',405
 40701,0,'Colonel Sam Dr',407
 40700,0,'Harmony Terminal',407
 40900,0,'Oshawa Ctr Terminal',409
 40901,0,'Taunton Rd',409
-41000,0,'Harmony Terminal',410
-41001,0,'Oshawa Ctr Terminal',410
-41101,0,'Courtice Rd',411
-41100,0,'Oshawa Ctr Terminal',411
-41200,0,'Courtice Rd',412
-41201,0,'Oshawa Ctr Terminal',412
+41001,0,'Harmony Terminal',410
+41000,0,'Oshawa Ctr Terminal',410
+41100,0,'Courtice Rd',411
+41101,0,'Oshawa Ctr Terminal',411
+41201,0,'Courtice Rd',412
+41200,0,'Oshawa Ctr Terminal',412
 41403,0,'Nonquon',414
 41404,0,'Oshawa Ctr Terminal',414
 41600,0,'Durham College UOIT',416
 41601,0,'Harmony Terminal',416
-50101,0,'Aspen Spgs Loop',501
-50102,0,'Clarington Mall',501
-50202,0,'Liberty Loop',502
-50201,0,'Scugog & Bons',502
+50102,0,'Bowmanville P&R',501
+50101,0,'Liberty',501
+50202,0,'Brookhill',502
+50201,0,'Liberty',502
 50601,0,'Bowmanville',506
 50602,0,'Orono',506
 60103,0,'Beaverton',601
 60104,0,'Uxbridge',601
-70101,0,'East Uxbridge Loop',701
-70102,0,'West Uxbridge Loop',701
-80101,1,'E',801
-80102,1,'W',801
-89004,0,'Pickering Sta',890
 90000,0,'Downtown Oshawa',900
 90001,0,'U Of T Scarborough Campus',900
 91003,0,'Durham College UOIT',910
 91004,0,'Whitby Sta',910
-91500,0,'Ajax Sta',915
-91501,0,'Durham College UOIT',915
-91600,0,'Ajax Sta',916
-91601,0,'Harmony Terminal',916
+91501,0,'Ajax Sta',915
+91500,0,'Durham College UOIT',915
+91601,0,'Ajax Sta',916
+91600,0,'Harmony Terminal',916
 92201,0,'Harmony Terminal',922
 92200,0,'Whitby Sta',922
-92300,0,'Ajax Sta',923
-92301,0,'U Of T Scarborough Campus',923
 95000,0,'Durham College UOIT',950
-95001,0,'Port Perry / Uxbridge',950
-1010101,0,'Montgomery Pk Rd',10101
-1010100,0,'Pickering Sta',10101
-1011000,0,'Pickering Pkwy Terminal',10110
-1011001,0,'Pine Grv Ave',10110
-1011101,0,'Finch Ave',10111
-1011100,0,'Pickering Pkwy Terminal',10111
+95001,0,'Uxbridge',950
+96001,0,'Newmarket - Davis Dr',960
+96000,0,'Uxbridge - Brock & Toronto',960
+1010101,0,'Pickering Sta',10101
+1011001,0,'Pickering Pkwy Terminal',10110
+1011101,0,'Pickering Pkwy Terminal',10111
 1019301,0,'Finch Whites Rd',10193
-1022504,0,'Ajax Sta',10225
-1022503,0,'Taunton',10225
 2010300,0,'Pickering Sta',20103
 2010301,0,'Rosebank Rd',20103
 2011000,0,'Pickering Pkwy Terminal',20110
@@ -119,37 +113,10 @@
 2019301,0,'Brock Finch Liverpool',20193
 2040101,0,'Downtown Oshawa',20401
 2040100,0,'Durham College UOIT',20401
-2040201,0,'Courtice Rd',20402
-2040200,0,'Oshawa Ctr Terminal',20402
 2092200,0,'Harmony Terminal',20922
 2092201,0,'Nash Rd',20922
 3040100,0,'Durham College UOIT',30401
 3040101,0,'Oshawa Sta',30401
+3040701,0,'Harmony Terminal',30407
 3091000,0,'UOIT',30910
 3091001,0,'Whitby Sta',30910
-4021803,0,'Ajax Sta',40218
-4021804,0,'Audley Rd',40218
-4021904,0,'Ajax Sta',40219
-4021903,0,'North Ajax',40219
-4022104,0,'Ajax Sta',40221
-4022103,0,'Central Ajax Loop',40221
-4022403,0,'Ajax Sta',40224
-4022404,0,'Lk Driveway',40224
-19011101,0,'Liverpool North',190111
-19011100,0,'Pickering Sta',190111
-19022601,0,'Finley Ave / Lk Driveway',190226
-19023201,0,'Church St / Rossland Rd / Delaney Dr',190232
-19040701,0,'ColdStream Dr / Harmony Terminal',190407
-19041001,0,'Dean & Normandy',190410
-19041000,0,'Harmony & Adelaide',190410
-19041100,0,'Ritson & Conant',190411
-19041101,0,'Townline & Bloor',190411
-19041201,0,'Adelaide Ave / Townline Rd',190412
-308011201,0,'Pickering',3080112
-308040701,0,'ColdStream Dr',3080407
-308041201,0,'Townline Rd / Adelaide Ave',3080412
-1908011001,0,'Pickering West',19080110
-1908011201,0,'Pickering East',19080112
-1908021901,0,'Ajax North',19080219
-1908022401,0,'Ajax South',19080224
-1908031801,0,'Whitby',19080318
