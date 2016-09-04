@@ -1,4 +1,4 @@
-10101,0,'Pickering Sta',101
+10101,0,'Montgomery Pk Rd',101
 10300,0,'Pickering Pkwy Terminal',103
 10301,0,'Rouge Hl Sta',103
 10700,0,'Pickering Sta',107
@@ -9,16 +9,16 @@
 11201,0,'William Jackson Dr',112
 12000,0,'Pickering Sta',120
 12001,0,'Sunbird Trl',120
-18101,0,'Pickering West',181
+18101,0,'Late Night Shuttle Pickering',181
 18201,0,'Late Night Shuttle East Pickering',182
-19900,0,'Claremont',199
-19901,0,'Pickering Town Ctr',199
+19901,0,'Claremont',199
+19900,0,'Pickering Town Ctr',199
 21501,0,'Ajax Sta',215
 21500,0,'Taunton',215
 21601,0,'Ajax Sta',216
 21600,0,'Taunton',216
-21701,0,'Ajax Sta',217
-21700,0,'Pickering Beach',217
+21700,0,'Ajax Sta',217
+21701,0,'Pickering Beach',217
 21803,0,'Ajax Sta',218
 21804,0,'Harwood',218
 21904,0,'Ajax Sta',219
@@ -80,6 +80,9 @@
 41404,0,'Oshawa Ctr Terminal',414
 41600,0,'Durham College UOIT',416
 41601,0,'Harmony Terminal',416
+41700,0,'Durham College / UOIT',417
+41701,0,'Harmony Terminal',417
+46601,0,'Special',466
 50102,0,'Bowmanville P&R',501
 50101,0,'Liberty',501
 50202,0,'Brookhill',502
@@ -88,8 +91,8 @@
 50602,0,'Orono',506
 60103,0,'Beaverton',601
 60104,0,'Uxbridge',601
-90000,0,'Downtown Oshawa',900
-90001,0,'U Of T Scarborough Campus',900
+90001,0,'Downtown Oshawa',900
+90000,0,'U Of T Scarborough Campus',900
 91003,0,'Durham College UOIT',910
 91004,0,'Whitby Sta',910
 91501,0,'Ajax Sta',915
@@ -111,12 +114,22 @@
 2011000,0,'Pickering Pkwy Terminal',20110
 2011001,0,'Sheppard Ave',20110
 2019301,0,'Brock Finch Liverpool',20193
-2040101,0,'Downtown Oshawa',20401
-2040100,0,'Durham College UOIT',20401
+2040100,0,'Downtown Oshawa',20401
+2040101,0,'Durham College UOIT',20401
 2092200,0,'Harmony Terminal',20922
 2092201,0,'Nash Rd',20922
+3021900,0,'Ajax Sta',30219
+3021901,0,'Taunton',30219
+3030804,0,'Ontario Shrs',30308
+3030803,0,'Whitby Sta',30308
 3040100,0,'Durham College UOIT',30401
 3040101,0,'Oshawa Sta',30401
 3040701,0,'Harmony Terminal',30407
 3091000,0,'UOIT',30910
 3091001,0,'Whitby Sta',30910
+19022601,0,'Finley Ave / Lk Driveway',190226
+19040701,0,'Ritson',190407
+19041001,0,'Dean & Normandy',190410
+19041101,0,'Townline & Bloor',190411
+308040701,0,'Ritson',3080407
+308041201,0,'Townline Rd / Adelaide Ave',3080412
