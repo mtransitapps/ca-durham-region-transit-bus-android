@@ -82,7 +82,6 @@
 41601,0,'Harmony Terminal',416
 41700,0,'Durham College / UOIT',417
 41701,0,'Harmony Terminal',417
-46601,0,'Special',466
 50102,0,'Bowmanville P&R',501
 50101,0,'Liberty',501
 50202,0,'Brookhill',502
@@ -97,10 +96,14 @@
 91004,0,'Whitby Sta',910
 91501,0,'Ajax Sta',915
 91500,0,'Durham College UOIT',915
-91601,0,'Ajax Sta',916
 91600,0,'Harmony Terminal',916
+91601,0,'Pickering Pkwy Terminal',916
 92201,0,'Harmony Terminal',922
 92200,0,'Whitby Sta',922
+93003,0,'Cannington',930
+93004,0,'Deer Creek',930
+93103,0,'Beaverton',931
+93104,0,'Deer Creek',931
 95000,0,'Durham College UOIT',950
 95001,0,'Uxbridge',950
 96001,0,'Newmarket - Davis Dr',960
