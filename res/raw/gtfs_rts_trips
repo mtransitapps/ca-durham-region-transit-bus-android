@@ -11,8 +11,8 @@
 12001,0,'Sunbird Trl',120
 18101,0,'Late Night Shuttle Pickering',181
 18201,0,'Late Night Shuttle East Pickering',182
-19901,0,'Claremont',199
-19900,0,'Pickering Town Ctr',199
+19900,0,'Claremont',199
+19901,0,'Pickering Town Ctr',199
 21501,0,'Ajax Sta',215
 21500,0,'Taunton',215
 21601,0,'Ajax Sta',216
@@ -90,6 +90,8 @@
 50602,0,'Orono',506
 60103,0,'Beaverton',601
 60104,0,'Uxbridge',601
+88901,0,'Shuttle',889
+89004,0,'Ajax Sta',890
 90001,0,'Downtown Oshawa',900
 90000,0,'U Of T Scarborough Campus',900
 91003,0,'Durham College UOIT',910
@@ -100,10 +102,6 @@
 91601,0,'Pickering Pkwy Terminal',916
 92201,0,'Harmony Terminal',922
 92200,0,'Whitby Sta',922
-93003,0,'Cannington',930
-93004,0,'Deer Creek',930
-93103,0,'Beaverton',931
-93104,0,'Deer Creek',931
 95000,0,'Durham College UOIT',950
 95001,0,'Uxbridge',950
 96001,0,'Newmarket - Davis Dr',960
