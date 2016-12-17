@@ -1280,7 +1280,7 @@
 1727,'1727','Brock Rd SB @ Pickering Pkwy',43.843116,-79.072239
 1728,'1728','Brock Rd SB @ Plummer',43.835328,-79.068879
 1729,'1729','Liverpool NB @ Pickering Pkwy',43.833073,-79.089131
-1730,'1730','Liverpool NB @ Kingston',43.835305,-79.090151
+1730,'1730','Liverpool NB @ Kingston',43.8352456255,-79.0902319692
 1731,'1731','Liverpool NB @ 1851 Liverpool',43.837307,-79.09107
 1732,'1732','Liverpool NB @ Glenanna',43.839378,-79.091944
 1733,'1733','Liverpool NB @ 1917 Liverpool',43.840787,-79.092623
@@ -2133,7 +2133,7 @@
 3329,'3329','Kitney @ 40 Kitney S Ns',43.841898,-79.020169
 3333,'3333','1st Ave @ Brock N Fs',44.109995,-79.119091
 3334,'3334','Main @ Brock S Nsmb',44.109928,-79.120795
-3335,'3335','Bolton @ Quaker Vlg W Ns',44.1121297,-79.139502
+3335,'3335','Bolton @ Quaker Vlg W Ns',44.112197,-79.139502
 3336,'3336','Bolton @ Quaker Vlg E Fs',44.112219,-79.139024
 3337,'3337','Quaker Vlg @ Widdifield N Nsx',44.106209,-79.139215
 3338,'3338','Quaker Vlg @ Harman S Ns',44.106133,-79.139391
@@ -2315,7 +2315,7 @@
 93108,'93108','University Of Toronto Scarborough Campus',43.78456,-79.18477
 93109,'93109','Lazio NB @ Toscana',43.9239,-78.93747
 93111,'93111','Hwy 2 EB @ Sandringham',43.909489,-78.794667
-93112,'93112','Pickering Pkwy Terminal',43.832968,-79.0851
+93112,'93112','Pickering Pkwy Terminal',43.832925601,-79.0850240138
 93115,'93115','Victoria EB @ Gordon (Abilities Ctr)',43.86017,-78.94426
 93116,'93116','Reach WB @ 1017 Reach',44.10009,-79.00694
 93117,'93117','Reach EB @1016 Reach',44.1,-79.00689
