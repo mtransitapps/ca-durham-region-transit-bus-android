@@ -39,10 +39,9 @@
 42,'42','Victoria WB @ Brock St',43.862229,-78.935434
 43,'43','Victoria WB @ Henry',43.861485,-78.938856
 44,'44','Victoria WB @ 544 Victoria',43.860846,-78.94172
-45,'45','Victoria WB @ Montecorte',43.859292,-78.949061
+45,'45','Victoria WB @ Montecorte',43.859114,-78.949545
 47,'47','Seaboard SB @ Whitby Shrs',43.856552,-78.953655
 54,'54','Scadding EB @ Whitby Shrs',43.853335,-78.947173
-55,'55','Scadding EB @ Hanlan',43.853595,-78.945841
 56,'56','Scadding EB @ Gordon',43.853927,-78.941958
 57,'57','Gordon SB @ 652 Gordon',43.851303,-78.940748
 58,'58','Gordon SB @ Southshore (West Side Stop)',43.84825,-78.94539
@@ -247,7 +246,7 @@
 267,'267','Wentworth WB @ Scotia',43.859508,-78.897536
 268,'268','Wentworth WB @ Thickson',43.859031,-78.899876
 269,'269','Thickson NB @ Tricont',43.86266,-78.902289
-270,'270','Thickson NB @ Victoria',43.865355,-78.903349
+270,'270','Thickson NB @ Victoria',43.865547,-78.903392
 272,'272','Thickson NB @ Burns',43.877058,-78.908542
 273,'273','Thickson NB @ Bellwood',43.878497,-78.909203
 274,'274','Thickson NB @ Nichol',43.882116,-78.910842
@@ -256,9 +255,9 @@
 277,'277','Thickson NB @ Crawforth',43.888526,-78.913508
 278,'278','Thickson NB @ Pine Hls',43.89153,-78.914804
 279,'279','Thickson NB @ Dalton',43.893721,-78.915756
-280,'280','Thickson NB @ Graymar',43.896781,-78.917224
+280,'280','Thickson NB @ Graymar',43.897055,-78.917175
 281,'281','Thickson NB @ Canadian Oaks',43.899509,-78.918233
-282,'282','Thickson NB @ William Stephenson',43.901824,-78.919232
+282,'282','Thickson NB @ William Stephenson',43.902014,-78.919314
 283,'283','Thickson NB @ Rossland',43.903729,-78.920065
 290,'290','Thickson NB @ Dryden',43.916314,-78.925599
 292,'292','Thickson NB @ Cathedral',43.919271,-78.926892
@@ -983,7 +982,7 @@
 1242,'1242','King EB @ Simcoe St',43.897623,-78.863176
 1243,'1243','King EB @ Charles',43.898673,-78.858612
 1244,'1244','Hwy 2 EB @ Prestonvale',43.908429,-78.797456
-1245,'1245','Hwy 2 EB @ Trulls',43.910827,-78.788557
+1245,'1245','Hwy 2 EB @ Trulls',43.910829,-78.787906
 1247,'1247','Grandview SB @ Carolyn',43.895811,-78.819527
 1248,'1248','Grandview SB @ Augusta',43.893753,-78.817702
 1249,'1249','Grandview SB @ Cherrydown',43.892807,-78.815799
@@ -1507,7 +1506,7 @@
 2061,'2061','Clover Rdg SB @ Lk Driveway',43.82116,-79.014541
 2062,'2062','Lk Driveway EB @ Harwood',43.821489,-79.012673
 2063,'2063','Harwood NB @ Mcrae',43.822912,-79.01264
-2064,'2064','Harwood NB @ Clover Rdg',43.826053,-79.013319
+2064,'2064','Harwood NB @ Clover Rdg',43.825457,-79.013211
 2065,'2065','Harwood NB @ Gorton',43.828177,-79.013822
 2066,'2066','Harwood NB @ 819 Harwood',43.83001,-79.014268
 2067,'2067','Harwood NB @ 721 Harwood',43.833888,-79.015002
@@ -1515,7 +1514,7 @@
 2069,'2069','Harwood NB @ Emperor',43.837528,-79.01542
 2070,'2070','Harwood NB @ Falby',43.839992,-79.017956
 2072,'2072','Harwood NB @ Bayly',43.843789,-79.018082
-2073,'2073','Harwood NB @ Kings',43.846133,-79.019069
+2073,'2073','Harwood NB @ Kings',43.846645,-79.019272
 2074,'2074','Harwood NB @ Kings',43.849732,-79.020558
 2076,'2076','Harwood SB @ Kings',43.849235,-79.020696
 2078,'2078','Harwood SB @ Bayly',43.844243,-79.018636
@@ -1524,10 +1523,10 @@
 2081,'2081','Harwood SB @ Clements',43.834988,-79.015122
 2082,'2082','Harwood SB @ 766 Harwood',43.832348,-79.015003
 2083,'2083','Harwood SB @ Westney',43.831109,-79.014812
-2084,'2084','Dreyer EB @ Pickering Beach',43.830739,-79.002116
+2084,'2084','Dreyer EB @ Pickering Beach',43.830365,-79.001747
 2088,'2088','Range Line WB @ Mayor',43.830363,-78.993318
 2089,'2089','Range WB @ Ruthel',43.829526,-78.996998
-2092,'2092','Pickering Beach NB @ Rollo (North Side Stop)',43.832529,-79.002523
+2092,'2092','Pickering Beach NB @ Rollo (North Side Stop)',43.831756,-79.002184
 2093,'2093','Pickering Beach NB @ 727 Pickering Beach',43.83484,-79.003515
 2094,'2094','Pickering Beach NB @ Rollo',43.836665,-79.004301
 2095,'2095','Pickering Beach NB @ Greenhalf (North Side Stop)',43.841101,-79.006067
@@ -1593,6 +1592,7 @@
 2192,'2192','Magill WB @ Coles',43.868287,-79.034545
 2193,'2193','Coles SB @ Cornwall',43.865741,-79.033866
 2194,'2194','Coles SB @ Chapman',43.863396,-79.032832
+2195,'2195','Rotherglen NB @ Lachlan',43.857876,-79.046102
 2204,'2204','Church SB @ Strickland',43.868838,-79.061829
 2205,'2205','Church SB @ 570 Church',43.86716,-79.061098
 2206,'2206','Church SB @ Delaney',43.864955,-79.060139
@@ -1657,8 +1657,7 @@
 2285,'2285','Westney NB @ Ravenscroft',43.861546,-79.040329
 2286,'2286','Westney NB @ Magill',43.866181,-79.038754
 2287,'2287','Westney NB @ Ivers',43.870289,-79.040561
-2288,'2288','Westney NB @ Sullivan',43.872197,-79.041387
-2289,'2289','Westney NB @ Rossland',43.87606766,-79.04300533
+2288,'2288','Westney NB @ Sullivan',43.873221,-79.041835
 2294,'2294','Seggar SB @ Goodhart',43.884282,-79.04423
 2295,'2295','Seggar SB @ Sabbe',43.88146,-79.041448
 2296,'2296','Seggar SB @ Hopkinson',43.879976,-79.039481
@@ -1858,7 +1857,7 @@
 2750,'2750','Reach WB @ Carlan',44.111917,-78.953783
 2753,'2753','Reach EB @ Carlan',44.111683,-78.954558
 3001,'3001','Waterford @ Woodview W Ns',43.820346,-79.144548
-3002,'3002','Waterford @ Oakburn E Ns',43.820552,-79.143179
+3002,'3002','Waterford @ Senator E Nsx',43.820552,-79.143179
 3003,'3003','Waterford @ Valleyview W Ns',43.820753,-79.139423
 3004,'3004','Waterford @ Forestview E Ns',43.820443,-79.140253
 3005,'3005','Liverpool @ Annland N Fs',43.817082,-79.082148
@@ -1882,7 +1881,7 @@
 3026,'3026','Kerrison @ Harwood E Fsmb',43.869924,-79.022904
 3027,'3027','Kerrison @ Salem W Ns',43.87063,-79.017397
 3028,'3028','Kerrison @ Salem E Ns',43.870723,-79.018196
-3029,'3029','Kingston @ Westney Hts Plz E Ns',43.858132,-79.039026
+3029,'3029','Kingston @ Westney Hts Plz E Ns',43.858316,-79.038196
 3031,'3031','Audley @ Bambridge S Ns',43.877215,-79.000209
 3033,'3033','Rushworth @ Rossland S Nsmb',43.884211,-79.011277
 3034,'3034','Rushworth @ Soloway S Ns',43.887551,-79.012022
@@ -1907,7 +1906,7 @@
 3056,'3056','Pickering Beach @ Emperor S Ns',43.840676,-79.006118
 3057,'3057','Pickering Beach @ Foord S Ns',43.837128,-79.004638
 3058,'3058','Pickering Beach @ 722 Pickering Beach S Nsmb',43.834673,-79.003576
-3059,'3059','Pickering Beach @ Rollo S Ns',43.832033,-79.002444
+3059,'3059','Pickering Beach @ Rollo S Fsx',43.831646,-79.002282
 3060,'3060','Bayly @ 479 Bayly E Ns',43.849424,-78.993442
 3061,'3061','Bayly @ Audley E Ns',43.850332,-78.989176
 3062,'3062','Bayly @ Audley E Ns',43.848222,-78.987917
@@ -1962,18 +1961,18 @@
 3112,'3112','Ritson @ Wentworth S Ns',43.87567,-78.843167
 3113,'3113','Colonel Sam @ Farewell W Ns',43.87933,-78.82801
 3114,'3114','Farewell @ Raleigh N Fs',43.882025,-78.829371
-3115,'3115','Ritson @ 206 Ritson S Ns',43.9039406,-78.8557913
+3115,'3115','Ritson @ 206 Ritson S Fs',43.9039406,-78.8557913
 3116,'3116','Ritson @ 205 Ritson N Ns',43.904205,-78.855635
 3117,'3117','Ritson @ Bond S Ns',43.901042,-78.854433
 3118,'3118','Ritson @ Richmond N Ns',43.901499,-78.854417
 3120,'3120','Wilson @ Bond N Ns',43.903539,-78.844486
-3121,'3121','Wilson @ Colborne S Ns',43.905655,-78.845558
-3122,'3122','Wilson @ Colborne N Nsx',43.90632,-78.845715
+3121,'3121','Wilson @ Landsdowne S Nsx',43.907543,-78.846403
+3122,'3122','Wilson @ Landsdowne N Ns',43.907374,-78.846196
 3123,'3123','Wilson @ Adelaide S Ns',43.909548,-78.847296
 3124,'3124','Wilson @ Adelaide N Ns',43.909099,-78.846953
 3125,'3125','Wilson @ Hillcroft S Ns',43.913777,-78.849168
 3126,'3126','Wilson @ Hillcroft N Ns',43.913236,-78.848778
-3127,'3127','Britannia @ Simcoe E Fsmb',43.956173,-78.898998
+3127,'3127','Britannia @ Steeplechase E Fs',43.956367,-78.896306
 3128,'3128','Britannia @ Bridle E Ns',43.956006,-78.893574
 3129,'3129','Bridle @ Northern Dancer S Fs',43.952956,-78.892595
 3130,'3130','Bridle @ Woodbine S Ns',43.951405,-78.891697
@@ -2066,8 +2065,7 @@
 3237,'3237','Regional Rd 8 @ Mill Run W Fsx',44.083998,-79.233654
 3238,'3238','Regional Rd 8 @ Mill Run E Ns',44.083897,-79.233607
 3241,'3241','Davis And 404 Pk And Ride',44.067497,-79.422311
-3242,'3242','Dreyer @ Graham W Ns',43.830875,-79.003056
-3244,'3244','Grn @ Mcbride N Fs',43.900924,-78.708373
+3244,'3244','Grn @ Mcbride N Ns',43.900276,-78.708095
 3246,'3246','Liberty @ Church N Ns',43.911453,-78.680556
 3247,'3247','Brookhill @ Meachin Gt E Nsx',43.913376,-78.71623
 3249,'3249','Mearns @ Apple Blossom N Nsx',43.924495,-78.675239
@@ -2129,8 +2127,14 @@
 3320,'3320','Baseline @ Spry W Fs',43.898815,-78.68634
 3322,'3322','Westney @ Kingston S Fs',43.8568676,-79.0418045
 3323,'3323','Liverpool @ Tatra S Ns',43.827539,-79.086882
+3324,'3324','1792 Liverpool',43.832882,-79.091106
 3325,'3325','Faylee @ 1910 Faylee S Ns',43.840747,-79.091862
+3327,'3327','Harwood Plz',43.846366,-79.02108
+3328,'3328','Rouge Vly Ajax Pickeirng Hosp',43.837056,-79.017931
 3329,'3329','Kitney @ 40 Kitney S Ns',43.841898,-79.020169
+3330,'3330','75 Centennial',43.839528,-79.020064
+3331,'3331','95 Bayly',43.842375,-79.021441
+3332,'3332','Harwood Plz',43.846469,-79.021094
 3333,'3333','1st Ave @ Brock N Fs',44.109995,-79.119091
 3334,'3334','Main @ Brock S Nsmb',44.109928,-79.120795
 3335,'3335','Bolton @ Quaker Vlg W Ns',44.112197,-79.139502
@@ -2138,10 +2142,9 @@
 3337,'3337','Quaker Vlg @ Widdifield N Nsx',44.106209,-79.139215
 3338,'3338','Quaker Vlg @ Harman S Ns',44.106133,-79.139391
 3339,'3339','Queen @ Simcoe W Ns',44.103727,-78.947011
-3340,'3340','Queen @ Simcoe E Fs',44.103666,-78.946737
 3341,'3341','Wilson @ Ter N Fs',43.9226613,-78.852739
 3342,'3342','Wilson @ Ter S Ns',43.9229138,-78.8530041
-3343,'3343','Wilson @ Tiffany N Fs',43.929131,-78.8556
+3343,'3343','Wilson @ Tiffany N Ns',43.929131,-78.8556
 3344,'3344','Wilson @ Tiffany S Ns',43.92931,-78.855818
 3345,'3345','Baseline @ Martin W Ns',43.8967609,-78.6952935
 33069,'33069','Range Line @ Cherry E Ns',43.829985,-78.99477
@@ -2312,7 +2315,7 @@
 93103,'93103','Athol EB @ Charles',43.8974251,-78.85914993
 93104,'93104','Ravenscroft NB @ Dent',43.87526,-79.05345
 93106,'93106','Scugog EB @ High',44.10026,-78.94311
-93108,'93108','University Of Toronto Scarborough Campus',43.78456,-79.18477
+93108,'93108','University Of Toronto Scarborough Campus',43.784608509,-79.1848908474
 93109,'93109','Lazio NB @ Toscana',43.9239,-78.93747
 93111,'93111','Hwy 2 EB @ Sandringham',43.909489,-78.794667
 93112,'93112','Pickering Pkwy Terminal',43.832925601,-79.0850240138
@@ -2341,7 +2344,7 @@
 93140,'93140','Harwood NB @ Taunton',43.895046,-79.042096
 93141,'93141','Harwood NB @ Haskell',43.891243,-79.038663
 93142,'93142','Harwood SB @ Williamson',43.88848,-79.03766
-93143,'93143','Rossland WB @ Westney',43.876421,-79.042777
+93143,'93143','Rossland WB @ Westney',43.876133,-79.044178
 93144,'93144','Rossland EB @ 89 Rossland',43.880183,-79.025375
 93145,'93145','Salem SB @ 964 Salem',43.880865,-79.018423
 93146,'93146','Salem NB @ 967 Salem',43.879476,-79.017567
@@ -2354,6 +2357,7 @@
 93153,'93153','Williamson EB @ Audley',43.898757,-79.009646
 93158,'93158','Audley SB @ Bayly',43.850479,-78.989691
 93159,'93159','Bayly WB @ 508 Bayly',43.8496,-78.99341
+93160,'93160','Salem SB @ 1508 Salem',43.890577,-79.027818
 93161,'93161','Salem NB @ Williamson',43.8932137633,-79.0287898456
 93162,'93162','Gillett WB @ Salem',43.889147,-79.026949
 93163,'93163','Bayly WB @ Whites',43.81352,-79.11303
@@ -2631,7 +2635,7 @@
 93509,'93509','Sandy Beach @ Parkham N Ns',43.819466,-79.072332
 93510,'93510','Lublin @ Balaton N Nsx',43.822082,-79.074392
 93511,'93511','Alysumm @ Krosno W Ns',43.824136,-79.07606
-93512,'93512','Krosno @ Modlin W Ns',43.82202,-79.078791
+93512,'93512','Krosno @ Modlin W Fs',43.8219172,-79.0792351
 93514,'93514','Liverpool @ Ilona Pk S Ns',43.820179,-79.08366
 93515,'93515','Liverpool @ Annland S Ns',43.816974,-79.082271
 93519,'93519','Montgomery Pk @ O P G Pickering W Ns',43.814834,-79.06348
