@@ -767,7 +767,7 @@
 941,'941','Stevenson NB @ Laval',43.879816,-78.877188
 942,'942','Stevenson NB @ Gibb',43.885744,-78.879867
 943,'943','Stevenson NB @ Cartier',43.888123,-78.881025
-944,'944','Stevenson NB @ Cartier (North Side Stop)',43.889745,-78.881759
+944,'944','Stevenson NB @ Cartier (North Side Stop)',43.8898473,-78.881804
 945,'945','Stevenson NB @ Montcalm',43.892039,-78.882817
 952,'952','Stevenson SB @ Marion',43.907006,-78.889543
 953,'953','Stevenson SB @ King',43.893374,-78.883644
@@ -909,7 +909,7 @@
 1152,'1152','Harmony SB @ Florell',43.896955,-78.830782
 1153,'1153','Harmony NB @ Old Harmony',43.89775,-78.830938
 1154,'1154','Harmony NB @ Hoskin',43.899752,-78.831838
-1155,'1155','Harmony NB @ Palace',43.903761,-78.833589
+1155,'1155','Harmony NB @ Palace',43.9037359127,-78.8337064775
 1156,'1156','King WB @ Harmony',43.904248,-78.835009
 1157,'1157','Bond NB @ Riverside',43.904185,-78.837534
 1158,'1158','Bond WB @ Claymore',43.90453,-78.84239
@@ -1326,7 +1326,7 @@
 1781,'1781','Kingston EB @ Fairport',43.823526,-79.1066
 1782,'1782','Kingston EB @ Dixie',43.828459,-79.098733
 1783,'1783','Kingston EB @ Walnut',43.830837,-79.096536
-1785,'1785','Kingston EB @ Glendale',43.834666,-79.09164
+1785,'1785','Kingston EB @ Glendale',43.83387,-79.092674
 1786,'1786','Kingston EB @ Glenanna',43.838707,-79.086373
 1787,'1787','Kingston EB @ Vly Farm',43.842456,-79.081877
 1789,'1789','Kingston EB @ Brock Rd',43.848238,-79.073243
@@ -1687,7 +1687,7 @@
 2324,'2324','Bayly WB @ Church',43.83755071,-79.04777984
 2326,'2326','Hunt WB @ Mills',43.846722,-79.023348
 2327,'2327','Hunt WB @ Dowty',43.845931,-79.026917
-2328,'2328','Fairall WB @ Dowty',43.84887,-79.0297
+2328,'2328','Fairall WB @ Dowty',43.848622,-79.030842
 2329,'2329','Fairall WB @ Mcmaster',43.847858,-79.034274
 2330,'2330','Fairall WB @ Westney',43.84696,-79.038432
 2331,'2331','Fairall EB @ Westney (East Side Stop)',43.846851,-79.03836
@@ -2142,7 +2142,7 @@
 3343,'3343','Wilson @ Tiffany N Ns',43.929131,-78.8556
 3344,'3344','Wilson @ Tiffany S Ns',43.92931,-78.855818
 3345,'3345','Baseline @ Martin W Ns',43.8967609,-78.6952935
-3348,'3348','Annland @ Commerce N Nsx',43.8188518,-79.0791509
+3348,'3348','Annland @ Commerce N Nsx',43.818852,-79.079151
 33069,'33069','Range Line @ Cherry E Ns',43.829985,-78.99477
 90003,'90003','Durham Ctr WB @ Harwood',43.8645589,-79.02437412
 90007,'90007','Victoria WB @ Gordon (Abilities Ctr)',43.860235,-78.944301
@@ -2349,7 +2349,7 @@
 93151,'93151','Salem SB @ Kingston',43.86358,-79.016129
 93152,'93152','Salem NB @ Kingston',43.863688,-79.015986
 93153,'93153','Williamson EB @ Audley',43.898757,-79.009646
-93158,'93158','Audley SB @ Bayly',43.850479,-78.989691
+93158,'93158','Bayly WB @ Audley',43.850479,-78.989691
 93159,'93159','Bayly WB @ 508 Bayly',43.8496,-78.99341
 93160,'93160','Salem SB @ 1508 Salem',43.890577,-79.027818
 93161,'93161','Salem NB @ Williamson',43.8932137633,-79.0287898456
@@ -2375,7 +2375,7 @@
 93195,'93195','Pickering Pkwy SB @ Portland',43.839944,-79.073091
 93196,'93196','Pickering Pkwy WB @ 1538 Pickering',43.837285,-79.077508
 93197,'93197','Pickering Pkwy WB @ Vly Farm',43.836377,-79.079469
-93198,'93198','Esplanade North WB @ 1292 The Esplanade',43.838479,-79.083295
+93198,'93198','Esplanade North WB @ 1292 The Esplanade',43.838785,-79.082682
 93199,'93199','Vly Farm NB @ 1909 Vly Farm',43.843341,-79.082913
 93206,'93206','Finch WB @ Altona',43.835364,-79.143082
 93207,'93207','Altona SB @ Sparrow',43.830809,-79.142614
@@ -2460,7 +2460,7 @@
 93315,'93315','Victoria WB @ Hopkins',43.866937,-78.913883
 93321,'93321','Altona NB @ Sparrow',43.829695,-79.141957
 93322,'93322','Altona SB @ Sparrow',43.829703,-79.14212
-93323,'93323','Coutrice NB @ Moyse',43.914284,-78.778853
+93323,'93323','Courtice NB @ Moyse',43.914284,-78.778853
 93324,'93324','Courtice SB @ Nash',43.916442,-78.77997
 93325,'93325','Courtice NB @ Nash',43.916109,-78.779658
 93326,'93326','Courtice NB @ George Reynolds',43.920355,-78.781595
