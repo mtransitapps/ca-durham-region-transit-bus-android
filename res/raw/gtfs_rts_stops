@@ -36,6 +36,8 @@
 37,'37','Gdn SB @ Colette',43.877201,-78.93037115
 38,'38','Gdn SB @ Hyland',43.876249,-78.929931
 39,'39','Gdn SB @ Reynolds',43.874853,-78.929357
+40,'40','Gdn SB @ Burns',43.87256,-78.928356
+41,'41','Gdn SB @ 14 Gdn',43.870376,-78.928759
 42,'42','Victoria WB @ Brock St',43.862229,-78.935434
 43,'43','Victoria WB @ Henry',43.861485,-78.938856
 44,'44','Victoria WB @ 544 Victoria',43.860846,-78.94172
@@ -203,7 +205,6 @@
 221,'221','Victoria WB @ 1582 Victoria',43.865322,-78.906195
 222,'222','Victoria NB @ Thickson',43.866246,-78.908922
 223,'223','Victoria WB @ South Blair',43.865427,-78.920996
-224,'224','Burns WB @ Gdn',43.873093,-78.929331
 225,'225','Anderson NB @ Dundas',43.884831,-78.922613
 226,'226','Anderson NB @ Crawforth',43.886903,-78.923509
 227,'227','Anderson NB @ Frederick',43.890994,-78.925314
@@ -523,7 +524,6 @@
 602,'602','Rossland WB @ Stevenson',43.910599,-78.891821
 603,'603','Rossland WB @ Waverly',43.909586,-78.896599
 604,'604','Rossland WB @ Thornton',43.908595,-78.901271
-605,'605','Simcoe St NB @ Rossland',43.915536,-78.871221
 608,'608','Athol EB @ 165 Athol',43.897866,-78.857357
 609,'609','Athol EB @ Drew',43.898288,-78.855575
 618,'618','Central Pk NB @ Mayfair',43.920599,-78.859332
@@ -584,9 +584,6 @@
 680,'680','Simcoe St NB @ Parkwood (Lakeridge Health Oshawa)',43.905794,-78.867149
 681,'681','Simcoe St NB @ Connaught',43.909059,-78.868609
 682,'682','Simcoe St NB @ Hillcroft',43.9108,-78.869386
-683,'683','Simcoe St NB @ Arlington (North Side Stop)',43.912612,-78.870167
-684,'684','Simcoe St NB @ Darcy',43.918607,-78.872582
-685,'685','Simcoe St NB @ Switzer',43.921189,-78.873688
 686,'686','Simcoe St NB @ Sunset',43.923155,-78.874567
 687,'687','Simcoe St NB @ Beatrice',43.925811,-78.875722
 688,'688','Simcoe St NB @ Byng',43.92787,-78.876705
@@ -611,9 +608,6 @@
 713,'713','Simcoe St SB @ Orchard Vw',43.929238,-78.877548
 714,'714','Simcoe St SB @ Beatrice',43.926397,-78.876283
 715,'715','Simcoe St SB @ Sunset',43.922899,-78.874674
-716,'716','Simcoe St SB @ Switzer',43.921148,-78.873886
-717,'717','Simcoe St SB @ Darcy',43.918635,-78.872784
-718,'718','Simcoe St SB @ Jones',43.916708,-78.871921
 719,'719','Adelaide EB @ Kaiser',43.902369,-78.870727
 720,'720','Adelaide EB @ Simcoe St',43.903236,-78.866944
 721,'721','Adelaide EB @ Kendal',43.904587,-78.864226
@@ -883,6 +877,7 @@
 1117,'1117','Harmony SB @ Bloor',43.888716,-78.827207
 1118,'1118','Farewell SB @ Bloor',43.884732,-78.830694
 1119,'1119','Farewell SB @ Raleigh',43.881319,-78.829233
+1120,'1120','Farewell SB @ Wentworth',43.879838,-78.828606
 1121,'1121','Mcnaughton WB @ Ritson',43.886338,-78.848509
 1122,'1122','First WB @ Howard',43.885365,-78.851959
 1123,'1123','First WB @ Simcoe St',43.884288,-78.856773
@@ -1179,7 +1174,6 @@
 1570,'1570','Highview WB @ Woodside',43.832809,-79.128116
 1571,'1571','Highview WB @ Montclair',43.832955,-79.129976
 1572,'1572','Highview WB @ Rosebank',43.832475,-79.132126
-1573,'1573','Strouds EB @ Broadoak',43.826662,-79.128398
 1574,'1574','Strouds NB @ Fernam',43.827652,-79.126176
 1575,'1575','Strouds EB @ Foxwood',43.828696,-79.124103
 1576,'1576','Foxwood SB @ Norfolk',43.827629,-79.122741
@@ -1467,8 +1461,6 @@
 2004,'2004','Bayly EB @ Squires Beach',43.83516542,-79.05785441
 2011,'2011','Rands WB @ Agate',43.829069,-79.019722
 2012,'2012','Rands WB @ Swanston',43.827974,-79.023536
-2013,'2013','Finley SB @ Bashford',43.826141,-79.02609
-2014,'2014','Finley SB @ Parkes',43.823437,-79.026053
 2015,'2015','Finley SB @ Burden',43.821244,-79.022832
 2016,'2016','Finley SB @ Lk Driveway',43.819269,-79.019469
 2022,'2022','Lk Driveway NB @ Hawkins',43.823774,-79.034075
@@ -1481,6 +1473,11 @@
 2030,'2030','Clover Rdg SB @ Gregory',43.829063,-79.00503
 2031,'2031','Clover Rdg WB @ Crawford',43.827197,-79.007535
 2032,'2032','Clover Rdg WB @ Dorling',43.826658,-79.009997
+2033,'2033','Shoal Pt SB @ Wilkie',43.847445,-78.998269
+2034,'2034','Shoal Pt SB @ Marjoram',43.845775,-78.99755
+2036,'2036','Shoal Pt SB @ Salt',43.842736,-78.996247
+2037,'2037','Shoal Pt SB @ Callander',43.836227,-78.993458
+2038,'2038','Shoal Pt SB @ Hillman',43.834696,-78.992801
 2039,'2039','Ashbury EB @ Wiseman',43.832912,-78.990826
 2040,'2040','Ashbury EB @ Mullord',43.832732,-78.989178
 2041,'2041','Ashbury EB @ Audley',43.832005,-78.985365
@@ -1644,6 +1641,7 @@
 2270,'2270','Westney SB @ Bayly St',43.84046,-79.035459
 2276,'2276','Westney EB @ Harwood',43.830755,-79.016374
 2277,'2277','Westney NB @ Clements',43.831821,-79.032781
+2278,'2278','Westney NB @ Fuller',43.837907,-79.034896
 2279,'2279','Westney NB @ Bayly',43.839963,-79.035146
 2280,'2280','Westney NB @ Bayly (North Side Stop)',43.841355,-79.035376
 2281,'2281','Westney NB @ Obrien',43.843068,-79.036025
@@ -2029,6 +2027,7 @@
 3193,'3193','Albert @ Jones S Fs',44.261313,-79.066342
 3194,'3194','Regional Rd 1 @ Ravenshoe N Ns',44.256316,-79.183315
 3195,'3195','Regional Rd 1 @ Ravenshoe S Fs',44.256174,-79.183397
+3196,'3196','Regional Rd 1 @ Regional Rd 13 N Ns',44.204609,-79.161275
 3197,'3197','Regional Rd 1 @ Regional Rd 13 S Fsx',44.204431,-79.161359
 3198,'3198','Regional Rd 1 @ Harrison N Ns',44.202225,-79.160263
 3199,'3199','Regional Rd 1 @ Harrison N Ns',44.2025,-79.160487
@@ -2066,6 +2065,7 @@
 3249,'3249','Mearns @ Apple Blossom N Nsx',43.924495,-78.675239
 3250,'3250','Mearns @ Sprucewood N Ns',43.928385,-78.676991
 3251,'3251','Longworth @ Rickaby W Fs',43.932056,-78.682305
+3252,'3252','Williamson @ Montebello W Ns',43.887078,-79.040385
 3253,'3253','Clover Rdg @ Andrea E Fs',43.82622,-79.012367
 3254,'3254','Gdn @ Irwin N Fsmb',43.870171,-78.92866
 3255,'3255','Gdn @ Burns N Ns',43.872873,-78.928262
@@ -2142,7 +2142,21 @@
 3343,'3343','Wilson @ Tiffany N Ns',43.929131,-78.8556
 3344,'3344','Wilson @ Tiffany S Ns',43.92931,-78.855818
 3345,'3345','Baseline @ Martin W Ns',43.8967609,-78.6952935
+3346,'3346','Grn NB @ Hwy 2',43.9087386,-78.711744
+3347,'3347','Clarington Blvd SB @ Stevens',43.9129222,-78.7090942
 3348,'3348','Annland @ Commerce N Nsx',43.818852,-79.079151
+3349,'3349','Thornton NB @ Cartref',43.9117531,-78.9019343
+3350,'3350','Thornton NB @ Deer Vly',43.9149235,-78.9033089
+3351,'3351','Thornton NB @ Dryden',43.9188329,-78.9050287
+3353,'3353','Robert EB @ Mary',43.922126,-78.871923
+3354,'3354','Mary SB @ Darcy',43.919385,-78.8704091
+3356,'3356','Mary NB @ Rossland',43.9152612,-78.8684323
+3357,'3357','Mary NB @ Darcy',43.9190869,-78.8701449
+3358,'3358','Mary NB @ Robert',43.9217599,-78.8713433
+3359,'3359','Shoal Pt NB @ Duckfield',43.836306,-78.993372
+3360,'3360','Shoal Pt NB @ Salt',43.8423098,-78.9959641
+3362,'3362','Shoal Pt NB @ Wilkie',43.84719,-78.998057
+3365,'3365','Shoal Pt NB @ Warwick',43.8344788,-78.9925885
 33069,'33069','Range Line @ Cherry E Ns',43.829985,-78.99477
 90003,'90003','Durham Ctr WB @ Harwood',43.8645589,-79.02437412
 90007,'90007','Victoria WB @ Gordon (Abilities Ctr)',43.860235,-78.944301
@@ -2215,7 +2229,7 @@
 92014,'92014','Church NB @ Strickland',43.869412,-79.061926
 92015,'92015','Rossland EB @ 575 Rossland',43.871325,-79.061348
 92016,'92016','Rossland EB @ Harkins',43.87201788,-79.05834218
-92017,'92017','Rossland EB @ Marsh',43.873582,-79.054766
+92017,'92017','Rossland EB @ Ravenscroft',43.873877,-79.053354
 92018,'92018','Ravenscroft SB @ Rossland',43.87384,-79.052967
 92019,'92019','Ravenscroft SB @ Hyde',43.871479,-79.052139
 92020,'92020','Ravenscroft SB @ Delaney',43.869943,-79.051501
@@ -2317,6 +2331,7 @@
 93115,'93115','Victoria EB @ Gordon (Abilities Ctr)',43.86017,-78.94426
 93116,'93116','Reach WB @ 1017 Reach',44.10009,-79.00694
 93117,'93117','Reach EB @1016 Reach',44.1,-79.00689
+93118,'93118','Audley SB @ Formosa',43.88317,-79.002819
 93119,'93119','Audley NB @ Formosa',43.8832009,-79.002605
 93121,'93121','Sta WB @ Harwood',43.85151,-79.02188
 93122,'93122','Sta WB @ Mills',43.85056,-79.02586
@@ -2549,7 +2564,7 @@
 93421,'93421','Altona NB @ Strouds',43.822599,-79.138737
 93422,'93422','Altona NB @ Pine Grv',43.828518,-79.141415
 93424,'93424','Coldstream EB @ Clearbrook',43.945067,-78.856919
-93425,'93425','Coldstream EB @ Harmony',43.944354,-78.851868
+93425,'93425','Harmony SB @ Coldstream',43.9442960943,-78.851598859
 93426,'93426','Ritson NB @ Coldstream',43.9443315765,-78.8724112874
 93427,'93427','Garrard NB @ Gagnon',43.919759,-78.916302
 93428,'93428','Thornton SB @ Taunton',43.925489,-78.908248
@@ -2605,9 +2620,6 @@
 93485,'93485','Carnwith @ Thickson E Ns',43.967981,-78.948566
 93486,'93486','Winchester @ Cachet E Nsmb',43.958492,-78.937872
 93487,'93487','Thickson @ Winchester S Nsmb',43.958532,-78.944068
-93488,'93488','Burns @ Sawdon W Ns',43.877547,-78.902517
-93489,'93489','Burns @ Devon Port E Ns',43.877309,-78.90302
-93490,'93490','Burns @ Murkar W Nsx',43.87758,-78.906143
 93491,'93491','Audley @ Crellin N Ns',43.843501,-78.986419
 93492,'93492','Townline @ Bloor N Ns',43.891001,-78.806506
 93493,'93493','Coldstream @ Wilson E Ns',43.945803,-78.863295
@@ -2633,7 +2645,6 @@
 93514,'93514','Liverpool @ Ilona Pk S Ns',43.820179,-79.08366
 93515,'93515','Liverpool @ Annland S Ns',43.816974,-79.082271
 93519,'93519','Montgomery Pk @ O P G Pickering W Ns',43.814834,-79.06348
-93520,'93520','Burns @ Mt Pleasant E Ns',43.878326,-78.898663
 93521,'93521','Adelaide @ Fernhill W Ns',43.899535,-78.883283
 93522,'93522','Townline @ Bloor S Fsmb',43.890704,-78.806551
 93523,'93523','Rosebank @ Springview N Ns',43.830867,-79.131535
@@ -2654,7 +2665,6 @@
 93540,'93540','Audley @ Hornett N Ns',43.881186,-79.001739
 93541,'93541','Audley @ Hornett S Ns',43.88135,-79.001987
 93542,'93542','Kingston @ Liverpool E Fs',43.835851,-79.09007
-93543,'93543','Strouds @ Treetop W Fs',43.824069,-79.134146
 93545,'93545','Wilson @ Shakespeare S Nsx',43.89002,-78.838535
 93546,'93546','Main @ Dallas S Fsmb',44.11425,-79.1227
 93547,'93547','Brock St @ Quaker Vlg W Ns',44.105252,-79.138577
@@ -2665,3 +2675,4 @@
 99997,'99997','Wilmot Crk SB @ Hinkley',43.89698,-78.63284
 99998,'99998','Thornton NB @ Gibb',43.884012,-78.890004
 1000000014,'','Baseline @ Regional Rd 57 W Ns',43.897897,-78.690488
+1000000015,'','Shoal Pt NB @ Marjoram',43.8455205,-78.9973384
