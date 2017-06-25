@@ -1,9 +1,9 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10301,0,'Pickering Pkwy Terminal',103
-10300,0,'Rouge Hl Sta',103
-10700,0,'Pickering Sta',107
-10701,0,'Rougemount',107
+10300,0,'Pickering Pkwy Terminal',103
+10301,0,'Rouge Hl Sta',103
+10701,0,'Pickering Sta',107
+10700,0,'Rougemount',107
 11001,0,'Pickering Sta',110
 11101,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
@@ -91,8 +91,8 @@
 50602,0,'Orono',506
 60103,0,'Beaverton',601
 60104,0,'Uxbridge',601
-90001,0,'Oshawa',900
-90000,0,'UofT Scarborough',900
+90000,0,'Oshawa',900
+90001,0,'UofT Scarborough',900
 91003,0,'Durham College UOIT',910
 91004,0,'Whitby Sta',910
 91501,0,'Ajax Sta',915
@@ -125,9 +125,3 @@
 3040101,0,'Oshawa Sta',30401
 3040100,0,'UOIT / DC North Campus',30401
 3040701,0,'Harmony Terminal',30407
-19022601,0,'Bayly & Burcher',190226
-19040701,0,'Harmony Terminal',190407
-19041001,0,'Dean & Normandy',190410
-19041101,0,'Townline & Bloor',190411
-308040701,0,'Harmony Terminal',3080407
-308041201,0,'Adelaide & Harmony',3080412
