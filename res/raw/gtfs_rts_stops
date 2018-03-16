@@ -499,7 +499,7 @@
 581,'581','Rossland EB @ Wilson',43.919845,-78.85053
 582,'582','Rossland EB @ Camelot',43.92071,-78.84681
 583,'583','Rossland EB @ Harmony',43.92152,-78.843256
-584,'584','Harmony NB @ Rossland (South Side Stop)',43.9216874811,-78.8416770838
+584,'584','Harmony NB @ Rossland (South Side Stop)',43.92168748,-78.84167708
 585,'585','Rossland WB @ Harmony',43.922433,-78.840092
 586,'586','Rossland WB @ Gladfern',43.921478,-78.843935
 587,'587','Rossland WB @ Attersley',43.920769,-78.846996
@@ -907,7 +907,7 @@
 1152,'1152','Harmony SB @ Florell',43.896955,-78.830782
 1153,'1153','Harmony NB @ Old Harmony',43.89775,-78.830938
 1154,'1154','Harmony NB @ Hoskin',43.899752,-78.831838
-1155,'1155','Harmony NB @ Palace',43.9037359127,-78.8337064775
+1155,'1155','Harmony NB @ Palace',43.90373591,-78.83370648
 1156,'1156','King WB @ Harmony',43.904248,-78.835009
 1157,'1157','Bond NB @ Riverside',43.904185,-78.837534
 1158,'1158','Bond WB @ Claymore (East Side Stop)',43.90453,-78.84239
@@ -1272,7 +1272,7 @@
 1727,'1727','Brock Rd SB @ Pickering Pkwy',43.843116,-79.072239
 1728,'1728','Brock Rd SB @ Plummer',43.835328,-79.068879
 1729,'1729','Liverpool NB @ Pickering Pkwy',43.833073,-79.089131
-1730,'1730','Liverpool NB @ Kingston',43.8352456255,-79.0902319692
+1730,'1730','Liverpool NB @ Kingston',43.83524563,-79.09023197
 1731,'1731','NB @ 1851 Liverpool',43.837307,-79.09107
 1732,'1732','Liverpool NB @ Glenanna',43.839378,-79.091944
 1733,'1733','NB @ 1917 Liverpool',43.840787,-79.092623
@@ -1340,7 +1340,7 @@
 1841,'1841','Liverpool NB @ Old Orchard',43.821572,-79.084168
 1842,'1842','Liverpool SB @ Haller',43.822874,-79.084823
 1846,'1846','NB @ 2059 Brock Rd',43.85225,-79.076319
-1847,'1847','Brock Rd NB @ Major Oaks',43.8543654473,-79.0772649081
+1847,'1847','Brock Rd NB @ Major Oaks',43.85436545,-79.07726491
 1849,'1849','Dellbrook WB @ Melman',43.858563,-79.080418
 1850,'1850','Dellbrook WB @ Denby',43.858383,-79.081826
 1851,'1851','Dellbrook NB @ Melman',43.859982,-79.08332
@@ -2120,6 +2120,7 @@
 3316,'3316','Glenabbey EB @ Bruntsfield',43.894594,-78.802985
 3319,'3319','Liberty SB @ Baseline',43.901376,-78.676291
 3320,'3320','Baseline WB @ Spry',43.898815,-78.68634
+3321,'3321','Baseline WB @ Regional Rd 57',43.897897,-78.690488
 3322,'3322','Westney SB @ Kingston (South Side Stop)',43.8568676,-79.0418045
 3323,'3323','Liverpool SB @ Tatra',43.827539,-79.086882
 3324,'3324','1792 Liverpool',43.832882,-79.091106
@@ -2151,6 +2152,7 @@
 3351,'3351','Thornton NB @ Dryden',43.9188329,-78.9050287
 3359,'3359','Shoal Pt NB @ Duckfield',43.836306,-78.993372
 3360,'3360','Shoal Pt NB @ Salt',43.8423098,-78.9959641
+3361,'3361','Shoal Pt NB @ Majoram',43.8455205,-78.9973384
 3362,'3362','Shoal Pt NB @ Wilkie',43.84719,-78.998057
 3365,'3365','Shoal Pt NB @ Warwick',43.8344788,-78.9925885
 3366,'3366','Britannia WB @ Kentucky Derby',43.95475,-78.90575
@@ -2222,6 +2224,8 @@
 3506,'3506','EB @ 462 Paxton (Lakeridge Health Port Perry)',44.1044819,-78.9542876
 3507,'3507','Paxton EB @ Cochrane',44.105177,-78.951278
 3508,'3508','Paxton WB @ Cochrane',44.105392,-78.950709
+3509,'3509','Audley SB @ Donahoe',43.8381,-78.9855
+3510,'3510','Rossland WB @ Southcott',43.868662,-79.079043
 3512,'3512','Lk Rdg EB @ Concession 7 (Vallentyne)',44.261334,-79.136245
 3513,'3513','Lk Rdg NB @ Concession 7 (Vallentyne)',44.261186,-79.135493
 3514,'3514','Cochrane NB @ Medland',43.908605,-78.965474
@@ -2246,7 +2250,7 @@
 90033,'90033','Bons WB @ Gimblett',43.932278,-78.695427
 90034,'90034','Scugog SB @ Bons',43.930751,-78.699722
 90035,'90035','Scugog SB @ Somerscales',43.927613,-78.698374
-90038,'90038','Coldstream EB @ Harmony',43.9446355885,-78.8508582232
+90038,'90038','Coldstream EB @ Harmony',43.94463559,-78.85085822
 90039,'90039','Coldstream EB @ Grandview',43.946972,-78.841041
 90040,'90040','Coldstream WB @ Harmony (East Side Stop)',43.944657,-78.851117
 90041,'90041','Coldstream WB @ Harmony (West Side Stop)',43.944277,-78.852735
@@ -2322,7 +2326,7 @@
 92060,'92060','Williamson EB @ Portelli',43.896458,-79.019841
 92061,'92061','Williamson WB @ Warner',43.897858,-79.014983
 92062,'92062','Williamson WB @ Portelli',43.89654533,-79.01991919
-92064,'92064','Salem SB @ Williamson',43.893217507,-79.0288275094
+92064,'92064','Salem SB @ Williamson',43.89321751,-79.02882751
 92067,'92067','Turnerbury SB @ Byram Downs',43.876074,-79.003024
 92068,'92068','Turnerbury SB @ Kerrison',43.873905,-79.002662
 92071,'92071','Salem SB @ Twilley',43.86138006,-79.01519547
@@ -2397,7 +2401,7 @@
 93106,'93106','Scugog EB @ High',44.10026,-78.94311
 93109,'93109','Lazio NB @ Toscana',43.9239,-78.93747
 93111,'93111','Hwy 2 EB @ Sandringham',43.909489,-78.794667
-93112,'93112','Pickering Pkwy Terminal',43.832925601,-79.0850240138
+93112,'93112','Pickering Pkwy Terminal',43.8329256,-79.08502401
 93115,'93115','Victoria EB @ Gordon (Abilities Ctr)',43.86017,-78.94426
 93116,'93116','WB @ 1017 Reach',44.10009,-79.00694
 93117,'93117','EB @ 1016 Reach',44.1,-79.00689
@@ -2437,12 +2441,12 @@
 93158,'93158','Bayly WB @ Audley',43.850479,-78.989691
 93159,'93159','WB @ 508 Bayly',43.8496,-78.99341
 93160,'93160','SB @ 1508 Salem',43.890577,-79.027818
-93161,'93161','Salem NB @ Williamson',43.8932137633,-79.0287898456
+93161,'93161','Salem NB @ Williamson',43.89321376,-79.02878985
 93162,'93162','Gillett WB @ Salem',43.889147,-79.026949
 93163,'93163','Bayly WB @ Whites',43.81352,-79.11303
 93174,'93174','EB @ 716 Highview',43.8333366,-79.122908
 93175,'93175','WB @ 715 Highview',43.833442,-79.123268
-93176,'93176','William Jackson NB @ Misthollow',43.8766935497,-79.0840618458
+93176,'93176','William Jackson NB @ Misthollow',43.87669355,-79.08406185
 93177,'93177','Harmony NB @ Taunton (South Side Stop)',43.939112,-78.849112
 93178,'93178','Simcoe NB @ Athol',43.89651,-78.86306
 93179,'93179','EB @ 933 Bloor St West',43.87191,-78.89141
@@ -2524,12 +2528,12 @@
 93276,'93276','Champlain WB @ Fox',43.876345,-78.878626
 93277,'93277','EB @ 1559 Nichol',43.882415,-78.912172
 93278,'93278','Cochrane NB @ White Ash',43.89154,-78.95782
-93279,'93279','William Jackson EB @ Brock Rd',43.8752878557,-79.08494418
-93280,'93280','William Jackson SB @ Misthollow',43.8762863002,-79.0839780472
-93281,'93281','William Jackson WB @ Brock Rd',43.8754051107,-79.0848209488
+93279,'93279','William Jackson EB @ Brock Rd',43.87528786,-79.08494418
+93280,'93280','William Jackson SB @ Misthollow',43.8762863,-79.08397805
+93281,'93281','William Jackson WB @ Brock Rd',43.87540511,-79.08482095
 93282,'93282','Tillings NB @ Scenic',43.87501,-79.09117
-93283,'93283','Tillings NB @ Zents',43.8781868221,-79.092706378
-93284,'93284','Zents EB @ Brock Rd',43.8794124181,-79.0891974205
+93283,'93283','Tillings NB @ Zents',43.87818682,-79.09270638
+93284,'93284','Zents EB @ Brock Rd',43.87941242,-79.08919742
 93285,'93285','SB @ 2772 Prestonvale',43.90772,-78.79763
 93293,'93293','Rosswell SB @ Gord Vinson',43.891066,-78.798693
 93298,'93298','Prestonvale NB @ Southfield',43.888669,-78.793924
@@ -2634,8 +2638,8 @@
 93421,'93421','Altona NB @ Strouds',43.822599,-79.138737
 93422,'93422','Altona NB @ Pine Grv',43.828518,-79.141415
 93424,'93424','Coldstream EB @ Clearbrook',43.945067,-78.856919
-93425,'93425','Harmony SB @ Coldstream',43.9442960943,-78.851598859
-93426,'93426','Coldstream EB @ Ritson',43.9443315765,-78.8724112874
+93425,'93425','Harmony SB @ Coldstream',43.94429609,-78.85159886
+93426,'93426','Coldstream EB @ Ritson',43.94433158,-78.87241129
 93428,'93428','Thornton SB @ Taunton',43.925489,-78.908248
 93429,'93429','Stevenson SB @ Adelaide',43.899038,-78.886147
 93431,'93431','Thornton SB @ Rossland (North Side Stop)',43.909955,-78.901388
@@ -2695,7 +2699,7 @@
 93494,'93494','Major Oaks NB @ Wildwood (South Stop)',43.854584,-79.082419
 93495,'93495','Brock Rd SB @ Orangebrook',43.83056,-79.066528
 93496,'93496','Brock Rd SB @ Quigley',43.828737,-79.065713
-93497,'93497','Clements EB @ Brock Rd',43.8251357675,-79.0629574333
+93497,'93497','Clements EB @ Brock Rd',43.82513577,-79.06295743
 93498,'93498','EB @ 1845 Clements',43.825721,-79.060064
 93499,'93499','EB @ 1885 Clements',43.826562,-79.05629
 93500,'93500','Clements EB @ Squires Beach',43.826981,-79.054408
@@ -2742,7 +2746,3 @@
 93553,'93553','Winchester WB @ Cachet',43.959011,-78.936321
 99997,'99997','Wilmot Crk SB @ Hinkley',43.89698,-78.63284
 99998,'99998','Thornton NB @ Gibb',43.884012,-78.890004
-1000000014,'','Baseline WB @ Regional Rd 57',43.897897,-78.690488
-1000000015,'','Shoal Pt NB @ Majoram',43.8455205,-78.9973384
-1000000018,'','Audley SB @ Donahoe',43.8381,-78.9855
-1000000019,'','Rossland WB @ Southcott',43.868662,-79.079043
