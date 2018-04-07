@@ -1,7 +1,7 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10301,0,'Pickering Pkwy Terminal',103
-10300,0,'Rouge Hl Sta',103
+10300,0,'Pickering Pkwy Terminal',103
+10301,0,'Rouge Hl Sta',103
 10700,0,'Pickering Sta',107
 10701,0,'Rougemount',107
 11001,0,'Pickering Sta',110
@@ -10,8 +10,6 @@
 11201,0,'Zents',112
 12001,0,'Pickering Sta',120
 12000,0,'Sunbird Trl',120
-18101,0,'Pickering',181
-18201,0,'East Pickering',182
 21501,0,'Ajax Sta',215
 21500,0,'Taunton',215
 21601,0,'Ajax Sta',216
@@ -32,8 +30,6 @@
 22604,0,'Harwood',226
 23204,0,'Ajax Sta',232
 23203,0,'Strickland',232
-28301,0,'North Ajax',283
-28401,0,'South Ajax',284
 29101,0,'Pickering Town Ctr',291
 29100,0,'Westwood',291
 29200,0,'Pickering Town Ctr',292
@@ -54,9 +50,6 @@
 31000,0,'UOIT / DC North Campus',310
 31201,0,'Oshawa Ctr Terminal',312
 31202,0,'Whitby',312
-31803,0,'Taunton',318
-31804,0,'Whitby Shrs',318
-38501,0,'Whitby',385
 40101,0,'Lakeview Pk',401
 40100,0,'UOIT / DC North Campus',401
 40201,0,'Courtice Rd',402
@@ -120,7 +113,7 @@
 2010300,0,'Pickering Sta',20103
 2010301,0,'Rosebank',20103
 2011000,0,'Pickering Pkwy Terminal',20110
-2011001,0,'Sheppard & Kingston Rd',20110
+2011001,0,'Sheppard & Whites',20110
 2019301,0,'Pickering Town Ctr',20193
 2040101,0,'King',20401
 2040100,0,'UOIT / DC North Campus',20401

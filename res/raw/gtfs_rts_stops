@@ -102,11 +102,6 @@
 117,'117','Country Ln NB @ Twin Streams',43.903168,-78.971643
 118,'118','Country Ln NB @ Medland',43.907044,-78.973335
 119,'119','Country Ln NB @ Taunton',43.91057,-78.976611
-120,'120','Country Ln SB @ Taunton',43.910012,-78.976497
-121,'121','Country Ln SB @ Pardon',43.906045,-78.973027
-122,'122','Country Ln SB @ Twin Streams',43.903513,-78.971922
-123,'123','Country Ln SB @ Constance',43.89964,-78.970338
-124,'124','Country Ln SB @ Tidewater',43.896839,-78.968252
 125,'125','Taunton EB @ Cochrane',43.912853,-78.967458
 126,'126','Cochrane SB @ Connie',43.91147,-78.966854
 127,'127','Cochrane SB @ Medland',43.909537,-78.966002
@@ -187,7 +182,7 @@
 203,'203','Brock St SB @ Palmerston',43.89499,-78.948676
 204,'204','Brock St SB @ Starr (North Side Stop)',43.892863,-78.947754
 205,'205','Brock St SB @ Starr (South Side Stop)',43.89159,-78.947226
-206,'206','SB @ 814 Brock St (Centennial Pk)',43.890137,-78.946612
+206,'206','SB @ 814 Brock St',43.890137,-78.946612
 207,'207','Brock St SB @ Maple',43.886977,-78.945274
 208,'208','Brock St SB @ Chestnut',43.884855,-78.944315
 209,'209','Brock St SB @ Walnut',43.883763,-78.943838
@@ -367,7 +362,7 @@
 419,'419','Dundas EB @ Wellington',43.876625,-78.95627
 422,'422','Dundas EB @ Annes',43.877869,-78.950641
 423,'423','Dundas EB @ Frances',43.878279,-78.948728
-424,'424','Dundas EB @ King (Whitby Central Library)',43.878862,-78.946203
+424,'424','Dundas EB @ King',43.878862,-78.946203
 425,'425','Dundas EB @ Brock St',43.879715,-78.94255
 426,'426','Dundas EB @ Perry',43.880187,-78.94046
 427,'427','Dundas EB @ Hickory',43.880647,-78.938417
@@ -422,7 +417,6 @@
 486,'486','Rossland EB @ Orvis',43.905718,-78.913457
 487,'487','Rossland EB @ Garrard',43.906151,-78.911489
 488,'488','Rossland EB @ William Davidson',43.907152,-78.907339
-489,'489','Robert Attersley WB @ Archstone',43.922851,-78.958029
 490,'490','Baldwin NB @ Roybrook',43.951339,-78.961822
 491,'491','Baldwin NB @ Winchester',43.953127,-78.962199
 492,'492','Baldwin NB @ Cassels',43.955803,-78.961218
@@ -684,7 +678,7 @@
 809,'809','Grandview SB @ Rossland',43.922773,-78.838531
 810,'810','Harmony NB @ Taunton (North Side Stop)',43.940279,-78.849628
 812,'812','Harmony Terminal',43.942387,-78.848863
-815,'815','Harmony Terminal @ Taunton',43.940333,-78.847847
+815,'815','SB @ Harmony Terminal @ Taunton',43.940333,-78.847847
 817,'817','Legends Ctr',43.947501,-78.850743
 823,'823','Taunton WB @ Harmony',43.939344,-78.850735
 824,'824','Taunton WB @ Clearbrook',43.9384,-78.854926
@@ -1421,7 +1415,7 @@
 1936,'1936','Glenanna SB @ Kingston',43.838996,-79.088068
 1940,'1940','Walmart WB @ Kingston',43.866833,-79.013503
 1941,'1941','Bainbridge SB @ Kingston',43.849848,-79.070113
-1942,'1942','NB @ 1798 Bainbridge',43.849283,-79.06979
+1942,'1942','NB @ 1802 Bainbridge',43.849283,-79.06979
 1943,'1943','Bainbridge EB @ Burnside',43.847531,-79.068619
 1944,'1944','Bainbridge EB @ Fairfield',43.848043,-79.066569
 1945,'1945','Marshcourt SB @ Beechlawn',43.846591,-79.064582
@@ -1523,7 +1517,7 @@
 2089,'2089','Range Line WB @ Ruthel',43.829526,-78.996998
 2092,'2092','Pickering Beach NB @ Rollo (South Stop)',43.831756,-79.002184
 2093,'2093','NB @ 727 Pickering Beach',43.83484,-79.003515
-2094,'2094','Pickering Beach SB @ Rollo',43.836665,-79.004301
+2094,'2094','Pickering Beach NB @ Rollo (North Stop)',43.836665,-79.004301
 2095,'2095','Pickering Beach NB @ Howling Cr',43.841101,-79.006067
 2096,'2096','Pickering Beach NB @ Greenhalf',43.843665,-79.006018
 2097,'2097','Pickering Beach NB @ Powers Vly',43.845395,-79.005575
@@ -1544,7 +1538,7 @@
 2139,'2139','Harwood NB @ Williamson',43.887365,-79.037012
 2140,'2140','SB @ 1532 Harwood',43.886603,-79.036797
 2141,'2141','Harwood SB @ Woodcock',43.885184,-79.032344
-2142,'2142','SB @ 1370 Harwood',43.884354,-79.029381
+2142,'2142','SB @ 1370 Harwood',43.88480463,-79.03013578
 2143,'2143','Harwood SB @ Biggs',43.88223,-79.028197
 2144,'2144','Harwood SB @ Rossland',43.880135,-79.027294
 2145,'2145','Harwood SB @ Fishlock',43.877704,-79.026265
@@ -1622,7 +1616,7 @@
 2247,'2247','Westney SB @ Williamson',43.885296,-79.047027
 2248,'2248','SB @ 1328 Westney',43.88187,-79.045539
 2249,'2249','Westney SB @ Telford',43.880125,-79.044848
-2250,'2250','Westney SB @ 1062 Rossland',43.877313,-79.043716
+2250,'2250','Westney SB @ Rossland (North Side Stop)',43.877313,-79.043716
 2252,'2252','Westney NB @ Rossland',43.876875,-79.043276
 2253,'2253','Westney NB @ Telford',43.879672,-79.044521
 2254,'2254','NB @ 1331 Westney',43.881871,-79.045445
@@ -1741,8 +1735,8 @@
 2441,'2441','Franklin SB @ Brock St',44.10972,-79.117235
 2442,'2442','SB @ 72 Franklin',44.107774,-79.116345
 2443,'2443','Brock St WB @ Main St',44.109472,-79.120325
-2444,'2444','Reach WB @ Marsh Hl',44.093705,-79.035732
-2445,'2445','Reach EB @ Marsh Hl',44.093585,-79.035966
+2444,'2444','Reach WB @ Marsh Hl (Epsom)',44.093705,-79.035732
+2445,'2445','Reach EB @ Marsh Hl (Epsom)',44.093585,-79.035966
 2446,'2446','Reach EB @ Reach Industrial Pk',44.104969,-78.985241
 2447,'2447','Reach WB @ Reach Industrial Pk',44.105095,-78.985008
 2448,'2448','Reach EB @ North Port',44.106497,-78.978346
@@ -1753,18 +1747,18 @@
 2453,'2453','Reach EB @ Simcoe',44.1122,-78.951756
 2454,'2454','Reach WB @ Simcoe',44.112316,-78.951684
 2455,'2455','Reach WB @ Old Simcoe',44.111107,-78.957656
-2456,'2456','Simcoe NB @ Steepleview',43.979013,-78.909819
-2457,'2457','Simcoe NB @ Columbus',43.98291,-78.911494
-2458,'2458','Simcoe SB @ Columbus',43.982203,-78.911351
-2459,'2459','Simcoe SB @ Westview',43.979472,-78.910124
+2456,'2456','Simcoe NB @ Steepleview (Columbus)',43.979013,-78.909819
+2457,'2457','Simcoe NB @ Columbus Rd (Columbus)',43.98291,-78.911494
+2458,'2458','Simcoe SB @ Columbus Rd (Columbus)',43.982203,-78.911351
+2459,'2459','Simcoe SB @ Westview (Columbus)',43.979472,-78.910124
 2460,'2460','Simcoe NB @ Howden',43.999617,-78.919108
 2461,'2461','Simcoe SB @ Howden',43.999914,-78.919399
-2462,'2462','Simcoe NB @ Raglan',44.017775,-78.925672
+2462,'2462','Simcoe NB @ Raglan Rd (Raglan)',44.017775,-78.925672
 2463,'2463','Simcoe NB @ Snow Rdg',44.024868,-78.924563
 2464,'2464','Simcoe SB @ Snow Rdg',44.024706,-78.924782
-2465,'2465','Simcoe SB @ Raglan',44.018378,-78.925944
-2466,'2466','Simcoe NB @ Shirley',44.04992,-78.923906
-2467,'2467','Simcoe SB @ Shirley',44.049921,-78.92377
+2465,'2465','Simcoe SB @ Raglan Rd (Raglan)',44.018378,-78.925944
+2466,'2466','Simcoe NB @ Shirley (Shirley Rd Commuter Pkng)',44.04992,-78.923906
+2467,'2467','Simcoe SB @ Shirley (Shirley Rd Commuter Pkng)',44.049921,-78.92377
 2468,'2468','Simcoe NB @ Scugog Line 4',44.074326,-78.936022
 2469,'2469','Simcoe SB @ Scugog Line 4',44.074635,-78.9362
 2473,'2473','King WB @ Old Simcoe',44.08405984,-78.95354168
@@ -1793,13 +1787,13 @@
 2515,'2515','Simcoe NB @ Beech',44.110223,-78.95
 2516,'2516','Old Simcoe SB @ Scugog St',44.096969,-78.955784
 2517,'2517','Old Simcoe SB @ Victoria',44.093814,-78.955567
-2528,'2528','Albert SB @ Hwy 7 / 12',44.253269,-79.065204
-2529,'2529','Albert NB @ Hwy 7 / 12',44.253582,-79.065464
-2530,'2530','Albert NB @ River',44.262508,-79.066245
+2528,'2528','Albert SB @ Hwy 7 / 12 (Sunderland)',44.253269,-79.065204
+2529,'2529','Albert NB @ Hwy 7 / 12 (Sunderland)',44.253582,-79.065464
+2530,'2530','Albert NB @ River (Sunderland)',44.262508,-79.066245
 2531,'2531','EB @ 1590 Regional Rd 12 (Brock High School)',44.343709,-79.067339
-2532,'2532','Cameron EB @ Prince',44.348837,-79.04452
-2533,'2533','Cameron EB @ Ann',44.349824,-79.040202
-2534,'2534','Cameron WB @ Country Ln',44.349029,-79.044017
+2532,'2532','Cameron EB @ Prince (Cannington)',44.348837,-79.04452
+2533,'2533','Cameron EB @ Ann (Cannington)',44.349824,-79.040202
+2534,'2534','Cameron WB @ Country Ln (Cannington)',44.349029,-79.044017
 2535,'2535','WB @ 1603 Regional Rd 12 (Brock High School)',44.34382,-79.067188
 2536,'2536','Simcoe SB @ Mara',44.429695,-79.15444
 2537,'2537','Simcoe SB @ John',44.429118,-79.152487
@@ -1993,8 +1987,8 @@
 3155,'3155','Liberty NB @ Freeland',43.9318219,-78.6893809
 3156,'3156','Regional Rd 57 NB @ Stevens',43.912404,-78.702319
 3157,'3157','Clarington Blvd SB @ Uptown',43.911114,-78.708357
-3159,'3159','Cameron EB @ Peace',44.350738,-79.036084
-3160,'3160','Cameron WB @ Adelaide',44.350991,-79.035361
+3159,'3159','Cameron EB @ Peace (Cannington)',44.350738,-79.036084
+3160,'3160','Cameron WB @ Adelaide (Cannington)',44.350991,-79.035361
 3161,'3161','Mearns NB @ Concession',43.921138,-78.673813
 3162,'3162','Stevens WB @ Clarington Blvd',43.912283,-78.708388
 3163,'3163','Grn NB @ Hwy 2 (North Side Stop)',43.909994,-78.712264
@@ -2013,8 +2007,8 @@
 3179,'3179','Wilson SB @ Attersley',43.926015,-78.854372
 3180,'3180','Regional Rd 23 NB @ Hwy 48',44.337032,-79.188694
 3181,'3181','Regional Rd 23 SB @ Hwy 48',44.337561,-79.189165
-3182,'3182','Regional Rd 23 NB @ Concession 2',44.371759,-79.181438
-3183,'3183','Regional Rd 23 SB @ Concession 2',44.372038,-79.181681
+3182,'3182','Regional Rd 23 NB @ Concession 2 (Maple Beach)',44.371759,-79.181438
+3183,'3183','Regional Rd 23 SB @ Concession 2 (Maple Beach)',44.372038,-79.181681
 3184,'3184','Regional Rd 23 NB @ Concession 3',44.389926,-79.171772
 3185,'3185','Regional Rd 23 SB @ Concession 3',44.390165,-79.171783
 3186,'3186','Regional Rd 23 NB @ Concession 4',44.402707,-79.165064
@@ -2022,15 +2016,15 @@
 3188,'3188','Regional Rd 23 NB @ Sarah',44.422581,-79.154015
 3189,'3189','Regional Rd 23 SB @ Sarah',44.422503,-79.154219
 3190,'3190','9 Mile Rd NB @ Lakeview Mannor',44.427779,-79.164836
-3191,'3191','Simcoe SB @ Hwy 7',44.308745,-78.989284
-3192,'3192','Simcoe NB @ Hwy 7',44.309302,-78.98941
-3193,'3193','Albert SB @ Jones',44.261313,-79.066342
-3194,'3194','Regional Rd 1 NB @ Ravenshoe',44.256316,-79.183315
-3195,'3195','Regional Rd 1 SB @ Ravenshoe',44.256174,-79.183397
-3196,'3196','Regional Rd 1 NB @ Regional Rd 13',44.204609,-79.161275
-3197,'3197','Regional Rd 1 SB @ Regional Rd 13',44.204431,-79.161359
-3198,'3198','Regional Rd 1 NB @ Harrison',44.202225,-79.160263
-3199,'3199','Regional Rd 1 SB @ Harrison',44.2025,-79.160487
+3191,'3191','Simcoe SB @ Hwy 7 (Manilla)',44.308745,-78.989284
+3192,'3192','Simcoe NB @ Hwy 7 (Manilla)',44.309302,-78.98941
+3193,'3193','Albert SB @ Jones (Sunderland)',44.261313,-79.066342
+3194,'3194','Regional Rd 1 NB @ Ravenshoe (Udora)',44.256316,-79.183315
+3195,'3195','Regional Rd 1 SB @ Ravenshoe (Udora)',44.256174,-79.183397
+3196,'3196','Regional Rd 1 NB @ Regional Rd 13 (Leaskdale)',44.204609,-79.161275
+3197,'3197','Regional Rd 1 SB @ Regional Rd 13 (Leaskdale)',44.204431,-79.161359
+3198,'3198','Regional Rd 1 NB @ Harrison (Leaskdale)',44.202225,-79.160263
+3199,'3199','Regional Rd 1 SB @ Harrison (Leaskdale)',44.2025,-79.160487
 3200,'3200','Regional Rd 1 NB @ Davis',44.133423,-79.130982
 3201,'3201','Regional Rd 1 SB @ Davis',44.133761,-79.131293
 3206,'3206','Brock St WB @ Cedar',44.107573,-79.128448
@@ -2053,11 +2047,11 @@
 3229,'3229','Church NB @ Sherwood',43.855437,-79.055896
 3230,'3230','Doric WB @ Harwood',43.857172,-79.022779
 3231,'3231','Harwood NB @ Dreyer',43.830787,-79.014381
-3234,'3234','Regional Rd 12 WB @ Brock Rd',44.32059,-79.174561
-3235,'3235','Regional Rd 12 EB @ Brock Rd',44.320562,-79.174349
+3234,'3234','Regional Rd 12 WB @ Brock Rd (Wilfrid)',44.32059,-79.174561
+3235,'3235','Regional Rd 12 EB @ Brock Rd (Wilfrid)',44.320562,-79.174349
 3236,'3236','Main EB @ Simcoe',44.430364,-79.158278
-3237,'3237','Regional Rd 8 WB @ Mill Run Gt',44.083998,-79.233654
-3238,'3238','Regional Rd 8 EB @ Mill Run Gt',44.083897,-79.233607
+3237,'3237','Regional Rd 8 WB @ Mill Run Gt (Siloam)',44.085234,-79.228035
+3238,'3238','Regional Rd 8 EB @ Mill Run Gt (Siloam)',44.085074,-79.228333
 3241,'3241','Davis Dr & Hwy 404 Pk And Ride',44.067497,-79.422311
 3244,'3244','Grn NB @ Mcbride',43.900276,-78.708095
 3246,'3246','Liberty NB @ Church',43.911453,-78.680556
@@ -2103,7 +2097,7 @@
 3295,'3295','Rossland EB @ Seggar',43.877187,-79.038698
 3296,'3296','Rossland WB @ Harkins',43.872131,-79.058372
 3299,'3299','Audley NB @ Rossland',43.884488,-79.003162
-3300,'3300','Hwy 7A WB @ Smart Centres Port Perry',44.093711,-78.963408
+3300,'3300','Hwy 7A WB @ SmartCentres Port Perry',44.093711,-78.963408
 3301,'3301','Victoria EB @ Toronto St (Markham Stouffville Hosp Uxbridge Site)',44.103261,-79.126115
 3302,'3302','Rossland EB @ Woodcock',43.878356,-79.0334
 3303,'3303','Victoria WB @ Toronto St (Markham Stouffville Hosp Uxbridge Site)',44.103289,-79.125936
@@ -2167,10 +2161,10 @@
 3375,'3375','Brock Rd NB @ Whitevale',43.901678,-79.096665
 3376,'3376','NB @ Brock Rd & Hwy 407 Pk And Ride',43.91165,-79.095405
 3377,'3377','SB @ Brock Rd & Hwy 407 Pk And Ride',43.911729,-79.095781
-3378,'3378','Hwy 7 EB @ Mowbray',43.918968,-79.105507
-3379,'3379','Hwy 7 WB @ Mowbray',43.91886,-79.10638
-3380,'3380','Mowbray NB @ Brougham Rd',43.92544,-79.10854
-3381,'3381','Mowbray SB @ Brougham Rd',43.92534,-79.10869
+3378,'3378','Hwy 7 EB @ Mowbray (Brougham)',43.918968,-79.105507
+3379,'3379','Hwy 7 WB @ Mowbray (Brougham)',43.91886,-79.10638
+3380,'3380','Mowbray NB @ Brougham Rd (Brougham)',43.92544,-79.10854
+3381,'3381','Mowbray SB @ Brougham Rd (Brougham)',43.92534,-79.10869
 3382,'3382','Old Brock NB @ Brock',43.96638,-79.12748
 3383,'3383','Old Brock SB @ Brock',43.96647,-79.1278
 3384,'3384','Old Brock SB @ Acorn',43.968471,-79.128845
@@ -2182,8 +2176,8 @@
 3392,'3392','Old Brock SB @ Bundy',43.9811797,-79.1320134
 3393,'3393','Old Brock SB @ Hoxton',43.98419,-79.13168
 3394,'3394','Old Brock NB @ Hoxton',43.98432,-79.13152
-3401,'3401','Brock Rd NB @ Goodwood',44.046017,-79.147409
-3402,'3402','Brock Rd SB @ Goodwood',44.045767,-79.147477
+3401,'3401','Brock Rd NB @ Goodwood (Coppins Corners)',44.046017,-79.147409
+3402,'3402','Brock Rd SB @ Goodwood (Coppins Corners)',44.045767,-79.147477
 3403,'3403','Brock Rd SB @ Wyndance',44.048705,-79.14882
 3404,'3404','Brock Rd NB @ Wyndance',44.048268,-79.14837
 3407,'3407','Hwy 47 SB @ Parratt',44.082982,-79.153662
@@ -2241,7 +2235,7 @@
 90016,'90016','WB @ 1766 Pickering Pkwy',43.843273,-79.067939
 90017,'90017','Fairport SB @ Glenanna',43.836612,-79.112492
 90019,'90019','McKinney SB @ Burwell',43.922096,-78.955022
-90020,'90020','McKinney SB @ Broadleaf',43.91983,-78.953979
+90020,'90020','McKinney SB @ Broadleaf (McKinney Ctr)',43.91983,-78.953979
 90021,'90021','SB @ 358 Mckinney',43.91857,-78.953484
 90022,'90022','McKinney SB @ Taunton',43.916752,-78.952496
 90025,'90025','Stevens EB @ Clarington Blvd',43.911956,-78.709252
@@ -2383,9 +2377,6 @@
 93085,'93085','Wilmot Crk Wheelhouse',43.89934,-78.61656
 93086,'93086','Simcoe NB @ Eastwood',43.942297,-78.887801
 93087,'93087','Burns WB @ Kendalwood',43.87857,-78.89809
-93088,'93088','Country Ln SB @ Vineyard',43.90921,-78.975
-93089,'93089','Country Ln SB @ Medland',43.90722,-78.97351
-93090,'93090','Country Ln SB @ Presley',43.90463,-78.97242
 93091,'93091','Country Ln NB @ Shenandoah',43.90503,-78.97245
 93092,'93092','Country Ln NB @ Vineyard',43.90927,-78.97491
 93093,'93093','Reach WB @ Hwy 7 / 12',44.10319,-78.99335
@@ -2725,7 +2716,7 @@
 93525,'93525','Highview WB @ Amberlea',43.833175,-79.12457
 93526,'93526','Highview EB @ Amberlea',43.832965,-79.124936
 93527,'93527','Wentworth WB @ Boundary (East Side Stop)',43.862159,-78.885536
-93528,'93528','Hwy 12 NB @ Regional Rd 15',44.428117,-79.123933
+93528,'93528','Hwy 12 NB @ Beaver',44.428117,-79.123933
 93529,'93529','Main WB @ Franklin',44.433201,-79.148648
 93530,'93530','Main WB @ Mara',44.431192,-79.154255
 93531,'93531','Mary NB @ Ormond',43.935467,-78.873539
@@ -2740,7 +2731,7 @@
 93542,'93542','Kingston EB @ Liverpool',43.835853,-79.090061
 93546,'93546','Main SB @ Dallas',44.11425,-79.1227
 93547,'93547','Brock St WB @ Quaker Vlg',44.105252,-79.138577
-93549,'93549','Cameron SB @ Ann',44.349989,-79.039932
+93549,'93549','Cameron SB @ Ann (Cannington)',44.349989,-79.039932
 93551,'93551','Stevenson SB @ Creighton',43.895586,-78.884573
 93552,'93552','Harmony NB @ Capri',43.901366,-78.832565
 93553,'93553','Winchester WB @ Cachet',43.959011,-78.936321
