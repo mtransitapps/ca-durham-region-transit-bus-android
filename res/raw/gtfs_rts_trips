@@ -1,27 +1,27 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10300,0,'Pickering Pkwy Terminal',103
-10301,0,'Rouge Hl Sta',103
-10700,0,'Pickering Sta',107
-10701,0,'Rougemount',107
+10301,0,'Pickering Pkwy Terminal',103
+10300,0,'Rouge Hl Sta',103
+10701,0,'Pickering Sta',107
+10700,0,'Rougemount',107
 11001,0,'Pickering Sta',110
 11101,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
 11201,0,'Zents',112
-12001,0,'Pickering Sta',120
-12000,0,'Sunbird Trl',120
+12000,0,'Pickering Sta',120
+12001,0,'Sunbird Trl',120
 21501,0,'Ajax Sta',215
 21500,0,'Taunton',215
-21601,0,'Ajax Sta',216
-21600,0,'Taunton',216
+21600,0,'Ajax Sta',216
+21601,0,'Taunton',216
 21700,0,'Ajax Sta',217
 21701,0,'Dreyer & Pickering Beach',217
 21803,0,'Ajax Sta',218
 21804,0,'Harwood',218
 21904,0,'Ajax Sta',219
 21903,0,'Taunton',219
-22300,0,'Dreyer',223
-22301,0,'Glenanna',223
+22301,0,'Dreyer',223
+22300,0,'Glenanna',223
 22402,0,'Ajax Sta',224
 22401,0,'Kerrison',224
 22504,0,'Ajax Sta',225
@@ -32,8 +32,8 @@
 23203,0,'Strickland',232
 29101,0,'Pickering Town Ctr',291
 29100,0,'Westwood',291
-29200,0,'Pickering Town Ctr',292
-29201,0,'Westwood',292
+29201,0,'Pickering Town Ctr',292
+29200,0,'Westwood',292
 30103,0,'Taunton',301
 30104,0,'Whitby Sta',301
 30203,0,'Brooklin',302
@@ -50,30 +50,30 @@
 31000,0,'UOIT / DC North Campus',310
 31201,0,'Oshawa Ctr Terminal',312
 31202,0,'Whitby',312
-40101,0,'Lakeview Pk',401
-40100,0,'UOIT / DC North Campus',401
+40100,0,'Lakeview Pk',401
+40101,0,'UOIT / DC North Campus',401
 40201,0,'Courtice Rd',402
 40200,0,'Oshawa Ctr Terminal',402
-40300,0,'Oshawa Ctr Terminal',403
-40301,0,'Oshawa Sta',403
-40500,0,'Harmony Terminal',405
-40501,0,'Oshawa Sta',405
-40701,0,'Colonel Sam',407
-40700,0,'Harmony Terminal',407
+40301,0,'Oshawa Ctr Terminal',403
+40300,0,'Oshawa Sta',403
+40501,0,'Harmony Terminal',405
+40500,0,'Oshawa Sta',405
+40700,0,'Colonel Sam',407
+40701,0,'Harmony Terminal',407
 40800,0,'Oshawa Ctr Terminal',408
 40801,0,'Taunton',408
-40900,0,'Oshawa Ctr Terminal',409
-40901,0,'Taunton',409
+40901,0,'Oshawa Ctr Terminal',409
+40900,0,'Taunton',409
 41001,0,'Harmony Terminal',410
 41000,0,'Oshawa Ctr Terminal',410
 41100,0,'Courtice Rd',411
 41101,0,'Oshawa Ctr Terminal',411
-41200,0,'Courtice Rd',412
-41201,0,'Oshawa Ctr Terminal',412
+41201,0,'Courtice Rd',412
+41200,0,'Oshawa Ctr Terminal',412
 41403,0,'Nonquon',414
 41404,0,'Oshawa Ctr Terminal',414
-41600,0,'Harmony Terminal',416
-41601,0,'UOIT / DC North Campus',416
+41601,0,'Harmony Terminal',416
+41600,0,'UOIT / DC North Campus',416
 41700,0,'Harmony Terminal',417
 41701,0,'UOIT / DC North Campus',417
 42000,0,'Britannia Ave & Kentucky Derby',420
@@ -92,16 +92,16 @@
 65303,0,'Orillia',653
 65402,0,'Cannington',654
 65401,0,'Lindsay',654
-90000,0,'Oshawa',900
-90001,0,'UofT Scarborough',900
+90001,0,'Oshawa',900
+90000,0,'UofT Scarborough',900
 91003,0,'Durham College UOIT',910
 91004,0,'Whitby Sta',910
 91500,0,'Ajax Sta',915
 91501,0,'UOIT / DC North Campus',915
 91600,0,'Harmony Terminal',916
 91601,0,'Pickering Pkwy Terminal',916
-92200,0,'Harmony Terminal',922
-92201,0,'Whitby Sta',922
+92201,0,'Harmony Terminal',922
+92200,0,'Whitby Sta',922
 95000,0,'UOIT / DC North Campus',950
 95001,0,'Uxbridge',950
 96001,0,'Davis Dr & HWY 404 Pk & Ride',960
@@ -110,21 +110,21 @@
 1011001,0,'Pickering Pkwy Terminal',10110
 1011101,0,'Pickering Pkwy Terminal',10111
 1019301,0,'Pickering Town Ctr',10193
-2010300,0,'Pickering Sta',20103
-2010301,0,'Rosebank',20103
-2011000,0,'Pickering Pkwy Terminal',20110
-2011001,0,'Sheppard & Whites',20110
+2010301,0,'Pickering Sta',20103
+2010300,0,'Rosebank',20103
+2011000,0,'Kingston & Whites',20110
+2011001,0,'Pickering Pkwy Terminal',20110
 2019301,0,'Pickering Town Ctr',20193
-2040101,0,'King',20401
-2040100,0,'UOIT / DC North Campus',20401
+2040100,0,'King',20401
+2040101,0,'UOIT / DC North Campus',20401
 3021900,0,'Ajax Sta',30219
 3021901,0,'Taunton',30219
-3022301,0,'Ajax Sta',30223
-3022300,0,'Shoal Pt',30223
+3022300,0,'Ajax Sta',30223
+3022301,0,'Shoal Pt',30223
 3030804,0,'Ontario Shrs',30308
 3030803,0,'Whitby Sta',30308
-3040101,0,'Oshawa Sta',30401
-3040100,0,'UOIT / DC North Campus',30401
+3040100,0,'Oshawa Sta',30401
+3040101,0,'UOIT / DC North Campus',30401
 3040701,0,'Harmony Terminal',30407
 19022601,0,'Bayly & Burcher',190226
 19040701,0,'Harmony Terminal',190407
