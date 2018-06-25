@@ -1,7 +1,7 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10301,0,'Pickering Pkwy Terminal',103
-10300,0,'Rouge Hl Sta',103
+10300,0,'Pickering Pkwy Terminal',103
+10301,0,'Rouge Hl Sta',103
 10701,0,'Pickering Sta',107
 10700,0,'Rougemount',107
 11001,0,'Pickering Sta',110
@@ -32,8 +32,8 @@
 23203,0,'Strickland',232
 29101,0,'Pickering Town Ctr',291
 29100,0,'Westwood',291
-29200,0,'Pickering Town Ctr',292
-29201,0,'Westwood',292
+29201,0,'Pickering Town Ctr',292
+29200,0,'Westwood',292
 30103,0,'Taunton',301
 30104,0,'Whitby Sta',301
 30203,0,'Brooklin',302
@@ -64,8 +64,8 @@
 40801,0,'Taunton',408
 40901,0,'Oshawa Ctr Terminal',409
 40900,0,'Taunton',409
-41000,0,'Harmony Terminal',410
-41001,0,'Oshawa Ctr Terminal',410
+41001,0,'Harmony Terminal',410
+41000,0,'Oshawa Ctr Terminal',410
 41100,0,'Courtice Rd',411
 41101,0,'Oshawa Ctr Terminal',411
 41200,0,'Courtice Rd',412
@@ -76,8 +76,8 @@
 41600,0,'UOIT / DC North Campus',416
 41701,0,'Harmony Terminal',417
 41700,0,'UOIT / DC North Campus',417
-42000,0,'Britannia Ave & Kentucky Derby',420
-42001,0,'UOIT / DC North Campus',420
+42003,0,'Britannia Ave & Kentucky Derby',420
+42004,0,'UOIT / DC North Campus',420
 50102,0,'Bowmanville P&R',501
 50101,0,'Liberty',501
 50202,0,'Brookhill',502
@@ -86,26 +86,26 @@
 50602,0,'Orono',506
 60103,0,'Beaverton',601
 60104,0,'Uxbridge',601
-60301,0,'Pickering Pkwy Terminal',603
-60300,0,'Uxbridge',603
+60304,0,'Pickering Pkwy Terminal',603
+60303,0,'Uxbridge',603
 65304,0,'Beaverton',653
 65303,0,'Orillia',653
 65402,0,'Cannington',654
 65401,0,'Lindsay',654
 90001,0,'Oshawa',900
 90000,0,'UofT Scarborough',900
-91003,0,'Durham College UOIT',910
+91003,0,'UOIT / DC North Campus',910
 91004,0,'Whitby Sta',910
-91501,0,'Ajax Sta',915
-91500,0,'UOIT / DC North Campus',915
+91504,0,'Ajax Sta',915
+91503,0,'UOIT / DC North Campus',915
 91600,0,'Harmony Terminal',916
 91601,0,'Pickering Pkwy Terminal',916
-92201,0,'Harmony Terminal',922
-92200,0,'Whitby Sta',922
+92204,0,'Harmony Terminal',922
+92203,0,'Whitby Sta',922
 95001,0,'UOIT / DC North Campus',950
 95000,0,'Uxbridge',950
-96000,0,'Davis Dr & HWY 404 Pk & Ride',960
-96001,0,'Uxbridge',960
+96001,0,'Davis Dr & HWY 404 Pk & Ride',960
+96000,0,'Uxbridge',960
 1010101,0,'Pickering Sta',10101
 1011001,0,'Pickering Pkwy Terminal',10110
 1011101,0,'Pickering Pkwy Terminal',10111
@@ -117,8 +117,8 @@
 2019301,0,'Pickering Town Ctr',20193
 2040100,0,'King',20401
 2040101,0,'UOIT / DC North Campus',20401
-3021900,0,'Ajax Sta',30219
-3021901,0,'Taunton',30219
+3021901,0,'Ajax Sta',30219
+3021900,0,'Taunton',30219
 3022300,0,'Ajax Sta',30223
 3022301,0,'Shoal Pt',30223
 3030804,0,'Ontario Shrs',30308
