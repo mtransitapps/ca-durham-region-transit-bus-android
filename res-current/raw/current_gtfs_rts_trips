@@ -1,15 +1,15 @@
 10101,0,'Montgomery Pk Rd',101
 10100,0,'Pickering Sta',101
-10300,0,'Pickering Pkwy Terminal',103
-10301,0,'Rouge Hl Sta',103
+10301,0,'Pickering Pkwy Terminal',103
+10300,0,'Rouge Hl Sta',103
 10701,0,'Pickering Sta',107
 10700,0,'Rougemount',107
 11001,0,'Pickering Sta',110
 11101,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
 11201,0,'Zents',112
-12001,0,'Pickering Sta',120
-12000,0,'Sunbird Trl',120
+12000,0,'Pickering Sta',120
+12001,0,'Sunbird Trl',120
 21500,0,'Ajax Sta',215
 21501,0,'Taunton',215
 21600,0,'Ajax Sta',216
@@ -30,8 +30,8 @@
 22604,0,'Harwood',226
 23204,0,'Ajax Sta',232
 23203,0,'Strickland',232
-29101,0,'Pickering Town Ctr',291
-29100,0,'Westwood',291
+29100,0,'Pickering Town Ctr',291
+29101,0,'Westwood',291
 29201,0,'Pickering Town Ctr',292
 29200,0,'Westwood',292
 30103,0,'Taunton',301
@@ -72,10 +72,8 @@
 41201,0,'Oshawa Ctr Terminal',412
 41403,0,'Nonquon',414
 41404,0,'Oshawa Ctr Terminal',414
-41601,0,'Harmony Terminal',416
-41600,0,'UOIT / DC North Campus',416
-41701,0,'Harmony Terminal',417
-41700,0,'UOIT / DC North Campus',417
+41700,0,'Harmony Terminal',417
+41701,0,'UOIT / DC North Campus',417
 42003,0,'Britannia Ave & Kentucky Derby',420
 42004,0,'UOIT / DC North Campus',420
 50102,0,'Bowmanville P&R',501
@@ -98,36 +96,27 @@
 91004,0,'Whitby Sta',910
 91504,0,'Ajax Sta',915
 91503,0,'UOIT / DC North Campus',915
-91600,0,'Harmony Terminal',916
-91601,0,'Pickering Pkwy Terminal',916
+91601,0,'Harmony Terminal',916
+91600,0,'Pickering Pkwy Terminal',916
 92204,0,'Harmony Terminal',922
 92203,0,'Whitby Sta',922
 95001,0,'UOIT / DC North Campus',950
 95000,0,'Uxbridge',950
-96001,0,'Davis Dr & HWY 404 Pk & Ride',960
-96000,0,'Uxbridge',960
-1010101,0,'Pickering Sta',10101
-1011001,0,'Pickering Pkwy Terminal',10110
-1011101,0,'Pickering Pkwy Terminal',10111
-1019301,0,'Pickering Town Ctr',10193
-2010301,0,'Pickering Sta',20103
-2010300,0,'Rosebank',20103
+96000,0,'Davis Dr & HWY 404 Pk & Ride',960
+96001,0,'Uxbridge',960
+1010101,0,'A - Pickering Sta',10101
+1011001,0,'A - Pickering Pkwy Terminal',10110
+1011101,0,'A - Pickering Pkwy Terminal',10111
+1019301,0,'A - Pickering Town Ctr',10193
 2011000,0,'Kingston & Whites',20110
 2011001,0,'Pickering Pkwy Terminal',20110
-2019301,0,'Pickering Town Ctr',20193
+2019301,0,'B - Pickering Town Ctr',20193
 2040100,0,'King',20401
 2040101,0,'UOIT / DC North Campus',20401
-3021901,0,'Ajax Sta',30219
-3021900,0,'Taunton',30219
-3022300,0,'Ajax Sta',30223
-3022301,0,'Shoal Pt',30223
+3022300,0,'C - Ajax Sta',30223
+3022301,0,'C - Shoal Pt',30223
 3030804,0,'Ontario Shrs',30308
 3030803,0,'Whitby Sta',30308
 3040100,0,'Oshawa Sta',30401
 3040101,0,'UOIT / DC North Campus',30401
-3040701,0,'Harmony Terminal',30407
-19022601,0,'Bayly & Burcher',190226
-19040701,0,'Harmony Terminal',190407
-19041101,0,'Townline & Bloor',190411
-308040701,0,'Harmony Terminal',3080407
-308041201,0,'Adelaide & Harmony',3080412
+3040701,0,'C - Harmony Terminal',30407
