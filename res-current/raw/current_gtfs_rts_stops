@@ -504,7 +504,6 @@
 605,'605','Simcoe NB @ Rossland',43.915536,-78.871221
 608,'608','EB @ 161 Athol',43.897913,-78.857131
 609,'609','Athol EB @ Drew',43.898288,-78.855575
-618,'618','Central Pk NB @ Mayfair',43.920599,-78.859332
 619,'619','Central Pk NB @ Hackney',43.922318,-78.860101
 620,'620','Central Pk NB @ Carnaby',43.924148,-78.860871
 621,'621','Central Pk NB @ Charrington',43.926283,-78.861867
@@ -577,7 +576,6 @@
 695,'695','Simcoe NB @ Selleck',43.940856,-78.88569
 697,'697','Simcoe NB @ Taylorwood',43.944095,-78.890382
 698,'698','UOIT / Durham College North Campus',43.943641,-78.895505
-703,'703','Commencement EB @ Simcoe',43.944726,-78.893166
 705,'705','Simcoe NB @ Northern Dancer',43.952855,-78.89823
 706,'706','Simcoe SB @ Niagara (North Stop)',43.942789,-78.888789
 707,'707','SB @ 1700 Simcoe',43.94159,-78.887073
@@ -1912,7 +1910,6 @@
 3109,'3109','Ritson SB @ Bloor',43.883063,-78.84632
 3110,'3110','Ritson SB @ Conant',43.87956,-78.844802
 3111,'3111','Ritson SB @ Wolfe',43.877689,-78.844014
-3112,'3112','Ritson SB @ Wentworth',43.87567,-78.843167
 3113,'3113','Colonel Sam WB @ Farewell',43.87933,-78.82801
 3114,'3114','Farewell NB @ Raleigh',43.882025,-78.829371
 3115,'3115','SB @ 206 Ritson',43.9039406,-78.8557913
@@ -2074,7 +2071,6 @@
 3307,'3307','Albert NB @ Bruce',43.896096,-78.860723
 3308,'3308','Celina SB @ Bruce',43.895698,-78.861658
 3309,'3309','Elm WB @ Simcoe',43.890656,-78.8601
-3311,'3311','Conant EB @ Douglas',43.878805,-78.847239
 3312,'3312','Harkins SB @ Card',43.870562,-79.058116
 3314,'3314','Rossland EB @ Harwood',43.879698,-79.027378
 3315,'3315','Rossland WB @ Harwood',43.880023,-79.026765
@@ -2094,8 +2090,6 @@
 3332,'3332','Harwood Plz WB',43.846469,-79.021094
 3333,'3333','First Ave NB @ Brock',44.109995,-79.119091
 3334,'3334','Main SB @ Brock',44.109928,-79.120795
-3335,'3335','Bolton WB @ Quaker Vlg',44.112197,-79.139502
-3336,'3336','Bolton EB @ Quaker Vlg',44.112219,-79.139024
 3337,'3337','Quaker Vlg NB @ Widdifield',44.106209,-79.139215
 3338,'3338','Quaker Vlg SB @ Harman',44.106133,-79.139391
 3339,'3339','Queen WB @ Simcoe',44.103727,-78.947011
@@ -2168,7 +2162,6 @@
 3428,'3428','Angeline NB @ Kent (Ross Memorial Hosp)',44.353285,-78.751985
 3429,'3429','Angeline SB @ Kent (Ross Memorial Hosp)',44.352583,-78.751861
 3430,'3430','Rossland EB @ Church',43.8709498,-79.0630705
-3431,'3431','Rossland EB @ Shell',43.870787,-79.068303
 3432,'3432','Rossland WB @ Shell',43.870936,-79.06836
 3433,'3433','Rossland WB @ Stannardville',43.870491,-79.070806
 3434,'3434','Rossland EB @ Stannardville',43.870202,-79.07128
@@ -2227,7 +2220,22 @@
 3557,'3557','Simcoe NB @ Britannia',43.95583,-78.89949
 3558,'3558','Wilmot Trl EB @ Eastbank',43.89897,-78.62691
 3560,'3560','Brock Rd NB @ Finch',43.849848,-79.075155
-3561,'3561','Ontario Shrs (East Entrance)',43.849199,-78.944591
+3561,'3561','Ontario Shrs (East Entrance)',43.87901,-78.833554
+3562,'3562','Wentworth WB @ Wilson',43.87795,-78.832953
+3563,'3563','Wentworth WB @ Nelson',43.876669,-78.837602
+3564,'3564','Wentworth EB @ Nelson',43.876379,-78.838196
+3565,'3565','Wentworth WB @ Ritson',43.875698,-78.841968
+3566,'3566','Wentworth EB @ Ritson',43.87551,-78.841977
+3567,'3567','Simcoe SB @ Erie',43.878204,-78.853061
+3569,'3569','Simcoe SB @ Whiting',43.876637,-78.849958
+3570,'3570','Simcoe SB @ Wentworth',43.873879,-78.844625
+3579,'3579','Britannia EB @ Kentucky Derby',43.9545412,-78.9057703
+3580,'3580','Britannia WB @ Windfields Farms',43.9537361,-78.9106833
+3581,'3581','William EB @ Ctr',43.899765,-78.866359
+3582,'3582','William EB @ Simcoe',43.900103,-78.864866
+3583,'3583','William EB @ Mary',43.900789,-78.8619
+3584,'3584','Gordon SB @ Whitby Shrs Greenway',43.858684,-78.94381
+3585,'3585','SB @ 300 Gordon (Lakeridge Health Whitby)',43.856727,-78.942974
 7698,'7698','Ellesmere EB @ Military Trl',43.786474,-79.188581
 9473,'9473','Ellesmere WB @ Military Trl',43.786777,-79.187778
 33069,'33069','Range Line EB @ Cherry',43.829985,-78.99477
@@ -2263,7 +2271,6 @@
 90055,'90055','Wilson SB @ Larry',43.940237,-78.860584
 90056,'90056','Wilson SB @ Taunton',43.937886,-78.859533
 90057,'90057','SB @ 1310 Wilson',43.935634,-78.858629
-90058,'90058','Hillcroft EB @ Ritson',43.913181,-78.859097
 90059,'90059','Hillcroft EB @ Central Pk',43.912818,-78.855301
 90060,'90060','Hillcroft WB @ Central Pk',43.91282,-78.85443
 90061,'90061','Hillcroft EB @ Crestwood',43.913118,-78.850552
