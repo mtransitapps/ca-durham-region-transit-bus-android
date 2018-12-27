@@ -1,5 +1,4 @@
 1,'1','Gdn NB @ Hyland',43.873976,-78.928758
-2,'2','NB @ 55 Gdn',43.8762,-78.929844
 3,'3','Gdn NB @ Colette',43.87774454,-78.930391
 5,'5','Gdn NB @ Dundas (North Side Stop)',43.882599,-78.932383
 6,'6','Gdn NB @ Mary',43.884442,-78.933099
@@ -33,7 +32,6 @@
 35,'35','Gdn SB @ Mary',43.884541,-78.933401
 36,'36','Gdn SB @ Dundas (South Side Stop)',43.8815,-78.932248
 37,'37','Gdn SB @ Colette',43.877201,-78.93037115
-38,'38','Gdn SB @ Hyland',43.876249,-78.929931
 39,'39','Gdn SB @ Reynolds',43.874853,-78.929357
 40,'40','Gdn SB @ Burns',43.87256,-78.928356
 41,'41','Gdn SB @ Irwin',43.870376,-78.928759
@@ -49,7 +47,6 @@
 59,'59','EB @ 701 Gordon',43.851033,-78.94084
 60,'60','NB @ 300 Gordon (Lakeridge Health Whitby)',43.85644,-78.94272
 61,'61','Gordon NB @ Whitby Shrs Greenway',43.858527,-78.943604
-62,'62','EB @ 547 Victoria',43.860659,-78.941784
 63,'63','Victoria EB @ Henry',43.861301,-78.938893
 64,'64','Victoria EB @ Charles',43.861691,-78.937137
 65,'65','Brock St SB @ Victoria',43.8617445,-78.9344462
@@ -440,7 +437,6 @@
 536,'536','Gibb EB @ Tipperary',43.883049,-78.892157
 537,'537','Gibb WB @ Tipperary',43.8833,-78.891938
 539,'539','Thornton NB @ Donegal',43.885866,-78.890887
-540,'540','Thornton NB @ Arklow',43.887043,-78.89143
 541,'541','Thornton NB @ Monaghan (Trent University Oshawa)',43.88805,-78.891815
 542,'542','Thornton NB @ King',43.8913759,-78.8933631
 543,'543','Thornton NB @ Castlegrove',43.89427409,-78.894577
@@ -734,9 +730,7 @@
 940,'940','Stevenson NB @ Phillip Murray',43.856126,-78.867067
 941,'941','Stevenson NB @ Laval',43.879998,-78.877266
 942,'942','Stevenson NB @ Gibb',43.885744,-78.879867
-943,'943','Stevenson NB @ Cartier (South Side Stop)',43.888123,-78.881025
 944,'944','Stevenson NB @ Cartier (North Side Stop)',43.88983507,-78.881804
-945,'945','Stevenson NB @ Montcalm',43.892039,-78.882817
 952,'952','Stevenson SB @ Marion',43.907006,-78.889543
 953,'953','Stevenson SB @ King',43.893374,-78.883644
 955,'955','SB @ 104 Stevenson',43.89017014,-78.882155
@@ -1161,7 +1155,6 @@
 1586,'1586','Strouds Ln WB @ Whites (West Side Stop)',43.829426,-79.121337
 1587,'1587','Kingston WB @ Audley',43.868228,-78.995249
 1588,'1588','Kingston WB @ Alexanders Xing',43.86702,-79.00077
-1589,'1589','Kingston WB @ Galea',43.865168,-79.008601
 1590,'1590','Kingston WB @ Wicks',43.8643554,-79.0125542
 1591,'1591','Kingston WB @ Salem',43.8634084,-79.0168413
 1593,'1593','WB @ 84 Kingston',43.862111,-79.022563
@@ -1299,7 +1292,6 @@
 1792,'1792','Finch WB @ Vly Farm',43.847733,-79.085486
 1793,'1793','Bushmill WB @ Liverpool',43.8476088,-79.0965041
 1794,'1794','Bushmill WB @ Maple Rdg',43.846822,-79.099921
-1795,'1795','Maple Rdg WB @ Fieldstone Cir',43.847368,-79.101446
 1796,'1796','Maple Rdg WB @ Maple Gt',43.847182,-79.102488
 1803,'1803','Dixie SB @ Colonial',43.84596906,-79.106132
 1804,'1804','Dixie SB @ Finch',43.843789,-79.105054
@@ -1790,7 +1782,6 @@
 2728,'2728','Taunton EB @ Grainger',43.894509,-79.045472
 2729,'2729','Taunton EB @ Harwood',43.895089,-79.042882
 2730,'2730','Taunton WB @ Harwood',43.8952726,-79.0431068
-2731,'2731','Taunton WB @ Grainger',43.894673,-79.045518
 2732,'2732','Rouge Hl Sta',43.780749,-79.130423
 2733,'2733','Simcoe NB @ Greenway',44.09167138,-78.94143037
 2734,'2734','Simcoe NB @ Vanedward',44.09453,-78.942667
@@ -2035,7 +2026,6 @@
 3264,'3264','Athol WB @ Mary',43.8974706,-78.8595075
 3265,'3265','Salem NB @ Achilles',43.85314,-79.009521
 3266,'3266','Salem SB @ Achilles',43.853647,-79.010465
-3267,'3267','Liverpool NB @ Finch',43.846478,-79.095357
 3269,'3269','Ritson NB @ Beatrice (North Stop)',43.930147,-78.866844
 3270,'3270','Ritson NB @ Pentland',43.93206,-78.867734
 3271,'3271','Ritson NB @ Taunton',43.934727,-78.868826
@@ -2232,9 +2222,6 @@
 3581,'3581','William EB @ Ctr',43.89987026,-78.86575289
 3582,'3582','William EB @ Simcoe',43.900103,-78.864866
 3583,'3583','William EB @ Mary',43.900789,-78.8619
-3584,'3584','Gordon SB @ Whitby Shrs Greenway',43.858684,-78.94381
-3585,'3585','SB @ 300 Gordon (Lakeridge Health Whitby)',43.856727,-78.942974
-3588,'3588','Ontario Shrs (East Entrance)',43.849182,-78.944596
 7698,'7698','Ellesmere EB @ Military Trl',43.7865,-79.188451
 9473,'9473','Ellesmere WB @ Military Trl',43.7866837,-79.188152
 33069,'33069','Range Line EB @ Cherry',43.829985,-78.99477
@@ -2522,8 +2509,6 @@
 93269,'93269','Reach WB @ Scugog Line 8',44.10086,-79.06161
 93270,'93270','Reach EB @ Scugog Line 8',44.10074,-79.06177
 93271,'93271','EB @ 416 Manning',43.8947179,-78.9367338
-93274,'93274','Stevenson SB @ Montcalm',43.891613,-78.882813
-93275,'93275','SB @ 178 Stevenson',43.88819,-78.88121
 93276,'93276','Champlain WB @ Fox',43.876345,-78.878626
 93277,'93277','EB @ 1559 Nichol',43.882415,-78.912172
 93278,'93278','Cochrane NB @ White Ash',43.8913108,-78.9577
