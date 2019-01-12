@@ -1,24 +1,26 @@
+10100,0,'A - Pickering Sta',101
 10101,0,'Pickering Sta',101
-10300,0,'Pickering Pkwy Terminal',103
-10301,0,'Rouge Hl Sta',103
-10700,0,'Pickering Sta',107
-10701,0,'Rougemount',107
+10301,0,'Pickering Pkwy Terminal',103
+10300,0,'Rouge Hl Sta',103
+10701,0,'Pickering Sta',107
+10700,0,'Rougemount',107
 11001,0,'Pickering Sta',110
-11101,0,'Pickering Pkwy Terminal',111
+11101,0,'A - Pickering Pkwy Terminal',111
+11100,0,'Pickering Pkwy Terminal',111
 11200,0,'Pickering Sta',112
 11201,0,'Zents',112
 12000,0,'Pickering Sta',120
 12001,0,'Sunbird Trl',120
 18101,0,'Pickering',181
 18201,0,'East Pickering',182
-21500,0,'Ajax Sta',215
-21501,0,'Taunton',215
-21601,0,'Ajax Sta',216
-21600,0,'Taunton',216
-21701,0,'Ajax Sta',217
-21700,0,'Dreyer & Pickering Beach',217
-21801,0,'Ajax Sta',218
-21800,0,'Dreyer',218
+21501,0,'Ajax Sta',215
+21500,0,'Taunton',215
+21600,0,'Ajax Sta',216
+21601,0,'Taunton',216
+21700,0,'Ajax Sta',217
+21701,0,'Dreyer & Pickering Beach',217
+21800,0,'Ajax Sta',218
+21801,0,'Dreyer',218
 21901,0,'Ajax Sta',219
 21900,0,'Taunton',219
 22301,0,'Dreyer',223
@@ -29,8 +31,8 @@
 22501,0,'Taunton',225
 22601,0,'Ajax Sta',226
 22600,0,'Harwood',226
-23201,0,'Ajax Sta',232
-23200,0,'Rossland',232
+23200,0,'Ajax Sta',232
+23201,0,'Rossland',232
 28301,0,'North Ajax',283
 28401,0,'South Ajax',284
 29100,0,'Pickering Town Ctr',291
@@ -45,12 +47,12 @@
 30304,0,'Whitby Sta',303
 30403,0,'Taunton',304
 30404,0,'Whitby Sta',304
-30500,0,'Taunton',305
-30501,0,'Whitby Sta',305
+30501,0,'Taunton',305
+30500,0,'Whitby Sta',305
 30804,0,'Ontario Shrs',308
 30803,0,'Whitby Sta',308
-31001,0,'Brooklin',310
-31000,0,'UOIT / DC North Campus',310
+31000,0,'Brooklin',310
+31001,0,'UOIT / DC North Campus',310
 31201,0,'Oshawa Ctr Terminal',312
 31202,0,'Taunton',312
 38501,0,'Whitby',385
@@ -60,14 +62,14 @@
 40201,0,'Oshawa Ctr Terminal',402
 40300,0,'Oshawa Ctr Terminal',403
 40301,0,'Oshawa Sta',403
-40500,0,'Harmony Terminal',405
-40501,0,'Oshawa Sta',405
-40601,0,'Farewell & Raleigh',406
-40600,0,'Oshawa Ctr Terminal',406
+40501,0,'Harmony Terminal',405
+40500,0,'Oshawa Sta',405
+40600,0,'Farewell & Raleigh',406
+40601,0,'Oshawa Ctr Terminal',406
 40701,0,'Colonel Sam',407
 40700,0,'Harmony Terminal',407
-40801,0,'Oshawa Ctr Terminal',408
-40800,0,'Taunton',408
+40800,0,'Oshawa Ctr Terminal',408
+40801,0,'Taunton',408
 40900,0,'Oshawa Ctr Terminal',409
 40901,0,'Taunton',409
 41000,0,'Harmony Terminal',410
@@ -80,14 +82,14 @@
 41404,0,'Oshawa Ctr Terminal',414
 41701,0,'Harmony Terminal',417
 41700,0,'UOIT / DC North Campus',417
-42000,0,'Britannia Ave & Windfield Farm Dr',420
-42001,0,'UOIT / DC North Campus',420
+42001,0,'Britannia Ave & Windfield Farm Dr',420
+42000,0,'UOIT / DC North Campus',420
 50102,0,'Bowmanville P&R',501
 50101,0,'Liberty',501
 50202,0,'Brookhill',502
 50201,0,'Liberty',502
-50600,0,'Bowmanville',506
-50601,0,'Orono',506
+50601,0,'Bowmanville',506
+50600,0,'Orono',506
 60101,0,'Beaverton',601
 60100,0,'Uxbridge',601
 60301,0,'Pickering Pkwy Terminal',603
@@ -96,8 +98,8 @@
 65303,0,'Orillia',653
 65402,0,'Cannington',654
 65401,0,'Lindsay',654
-90001,0,'Oshawa',900
-90000,0,'UofT Scarborough',900
+90000,0,'Oshawa',900
+90001,0,'Scarborough',900
 91001,0,'UOIT / DC North Campus',910
 91000,0,'Whitby Sta',910
 91500,0,'Ajax Sta',915
@@ -110,18 +112,9 @@
 95000,0,'Uxbridge',950
 96001,0,'Davis Dr & HWY 404 Pk & Ride',960
 96000,0,'Uxbridge',960
-1010101,0,'A - Pickering Sta',10101
 1011001,0,'A - Pickering Pkwy Terminal',10110
-1011101,0,'A - Pickering Pkwy Terminal',10111
 1019301,0,'A - Pickering Town Ctr',10193
-2011000,0,'B - Kingston & Whites',20110
-2011001,0,'B - Pickering Pkwy Terminal',20110
+2011001,0,'B - Kingston & Whites',20110
+2011000,0,'B - Pickering Pkwy Terminal',20110
 2019301,0,'B - Pickering Town Ctr',20193
-2040101,0,'Lakeview Pk',20401
-2040100,0,'UOIT / DC North Campus',20401
-3022301,0,'C - Ajax Sta',30223
-3022300,0,'C - Shoal Pt',30223
-3040101,0,'C - Oshawa Sta',30401
-3040100,0,'UOIT / DC North Campus',30401
-3040701,0,'C - Harmony Terminal',30407
 308041201,0,'S - Adelaide & Harmony',3080412
