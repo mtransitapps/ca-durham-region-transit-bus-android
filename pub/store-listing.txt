@@ -5,7 +5,7 @@ Durham Region Transit (DRT) Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from December 10, 2018 to April 7, 2019.
+Schedule from January 7, 2019 to April 7, 2019.
 Tweets from @Durham_Transit.
 ----------
 Full description:
