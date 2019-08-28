@@ -433,7 +433,7 @@
 513,'513','Vipond EB @ Ferguson',43.9560241,-78.9694672
 514,'514','Vipond EB @ Sabrina',43.9550968,-78.9735875
 519,'519','Winchester WB @ Thickson',43.957493,-78.943253
-520,'520','Winchester WB @ Watford',43.956667,-78.946909
+520,'520','Winchester WB @ Watford',43.956463,-78.947972
 521,'521','Winchester WB @ Queen',43.955469,-78.952674
 522,'522','Winchester WB @ Simcoe',43.954881,-78.955546
 523,'523','Winchester WB @ Durham',43.953888,-78.960063
@@ -576,7 +576,7 @@
 694,'694','NB @ 1601 Simcoe',43.939289,-78.883533
 695,'695','Simcoe NB @ Selleck',43.940856,-78.88569
 697,'697','Simcoe NB @ Taylorwood',43.9442523,-78.8905194
-698,'698','UOIT / Durham College North Campus',43.943641,-78.895505
+698,'698','Ontario Tech / Durham College North Campus',43.943641,-78.895505
 705,'705','Simcoe NB @ Northern Dancer',43.952855,-78.89823
 706,'706','Simcoe SB @ Niagara (North Stop)',43.9430838868,-78.8891914227
 708,'708','Simcoe SB @ Niagara (South Stop)',43.9409719552,-78.8862254747
@@ -633,7 +633,7 @@
 767,'767','Townline SB @ Beatrice',43.935563,-78.826185
 768,'768','Townline SB @ Maddock',43.93086,-78.824092
 769,'769','Townline SB @ Pebblestone',43.926232,-78.822029
-770,'770','Townline SB @ Kettering',43.9240495793,-78.8210638293
+770,'770','Townline SB @ Kettering',43.9240701276,-78.821087965
 771,'771','Townline SB @ Kilmaurs',43.919041,-78.818864
 772,'772','Townline SB @ Adelaide',43.917331,-78.81822
 773,'773','Townline SB @ Lawson',43.915533,-78.817411
@@ -1360,7 +1360,7 @@
 1905,'1905','Fieldlight EB @ Vly Farm',43.844996,-79.084102
 1906,'1906','Vly Farm SB @ Pickering Pkwy',43.836713,-79.080233
 1907,'1907','Vly Farm NB @ Avonmore',43.840287,-79.081769
-1909,'1909','Pickering Town Ctr',43.835239,-79.084431
+1909,'1909','Pickering Town Ctr',43.833675,-79.084751
 1911,'1911','NB @ 1869 Glenanna',43.835759,-79.082959
 1912,'1912','Glenanna NB @ The Esplanade',43.837527,-79.08438
 1915,'1915','Glenanna SB @ The Esplanade (South Side Stop)',43.83744,-79.084563
@@ -1742,9 +1742,9 @@
 2529,'2529','Albert NB @ Hwy 7 / 12 (Sunderland)',44.253582,-79.065464
 2530,'2530','Albert NB @ River (Sunderland)',44.262508,-79.066245
 2531,'2531','EB @ 1590 Regional Rd 12 (Brock High School)',44.343709,-79.067339
-2532,'2532','Cameron EB @ Prince (Cannington)',44.348837,-79.04452
+2532,'2532','Cameron EB @ Queen (Cannington)',44.349301,-79.042432
 2533,'2533','Cameron EB @ Ann (Cannington)',44.349824,-79.040202
-2534,'2534','Cameron WB @ Country Ln (Cannington)',44.349029,-79.044017
+2534,'2534','Cameron WB @ Country Ln (Cannington)',44.34929,-79.043027
 2535,'2535','WB @ 1603 Regional Rd 12 (Brock High School)',44.34382,-79.067188
 2536,'2536','Simcoe SB @ Mara',44.429695,-79.15444
 2537,'2537','Simcoe SB @ John',44.429118,-79.152487
@@ -2055,14 +2055,14 @@
 3324,'3324','1792 Liverpool',43.832882,-79.0911063
 3325,'3325','SB @ 1910 Faylee',43.840747,-79.091862
 3327,'3327','Harwood Plz EB',43.846366,-79.0210798
-3328,'3328','Lakeridge Health Ajax Pickering',43.837056,-79.017931
+3328,'3328','Kitney @ Lakeridge Health Ajax Pickering',43.836622,-79.018864
 3329,'3329','SB @ 40 Kitney',43.841898,-79.020169
 3330,'3330','Ajax Community Ctr',43.839531,-79.020066
 3332,'3332','Harwood Plz WB',43.8464652,-79.0210868
 3334,'3334','Main SB @ Brock',44.109928,-79.120795
 3337,'3337','Quaker Vlg NB @ Widdifield',44.106209,-79.139215
 3338,'3338','Quaker Vlg SB @ Harman',44.106133,-79.139391
-3339,'3339','Queen SB @ Simcoe',44.1036400286,-78.9473086148
+3339,'3339','Simcoe SB @ Queen',44.1036400286,-78.9473086148
 3340,'3340','Simcoe NB @ Queen',44.1035182782,-78.947096678
 3341,'3341','Wilson NB @ Ter',43.9226613,-78.852739
 3342,'3342','Wilson SB @ Ter',43.922588,-78.852865
@@ -2211,7 +2211,7 @@
 3586,'3586','Pk SB @ Hillside',43.882051,-78.868142
 3587,'3587','Pk NB @ Hillside',43.881571,-78.868386
 3588,'3588','Ontario Shrs (East Entrance)',43.849206,-78.944599
-3589,'3589','Centennial Cir',43.7874988,-79.1912845
+3589,'3589','Centennial Cir',43.787494,-79.190831
 3590,'3590','Kingston WB @ Delta',43.820127,-79.114142
 3591,'3591','Windfields Farm EB @ Thoroughbred',43.962738,-78.90513
 3592,'3592','Windfields Farm WB @ Kentucky Derby',43.962037,-78.909043
@@ -2227,7 +2227,7 @@
 3608,'3608','Simcoe NB @ Founders',43.946668,-78.894075
 3612,'3612','Salem NB @ Taunton',43.897754,-79.030634
 3613,'3613','Richmond EB @ Ontario',43.899683,-78.862568
-7698,'7698','Ellesmere EB @ Military Trl',43.78681137,-79.18729946
+7698,'7698','Ellesmere EB @ Military Trl',43.786768,-79.187251
 9473,'9473','Ellesmere WB @ Military Trl',43.7866837,-79.188152
 10000,'10000','Vly WB @ Simcoe',43.866014,-78.830644
 10001,'10001','Vly WB @ Ritson',43.864173,-78.8380709
@@ -2707,7 +2707,7 @@
 93525,'93525','Highview WB @ Amberlea',43.833175,-79.12457
 93526,'93526','Highview EB @ Amberlea',43.832965,-79.124936
 93527,'93527','Wentworth WB @ Boundary (East Side Stop)',43.86224717,-78.885536
-93528,'93528','Hwy 12 NB @ Beaver',44.428117,-79.123933
+93528,'93528','Hwy 12 NB @ Beaver',44.427115,-79.125471
 93529,'93529','Main WB @ Franklin',44.433201,-79.148648
 93530,'93530','Main WB @ Mara',44.431192,-79.154255
 93531,'93531','Mary NB @ Ormond',43.935467,-78.873539
@@ -2722,7 +2722,7 @@
 93542,'93542','Kingston EB @ Liverpool',43.835851,-79.09007
 93546,'93546','Main SB @ Dallas',44.11425,-79.1227
 93547,'93547','Brock St WB @ Quaker Vlg',44.105252,-79.138577
-93549,'93549','Cameron SB @ Ann (Cannington)',44.349989,-79.039932
+93549,'93549','Cameron WB @ Ann (Cannington)',44.349989,-79.039932
 93551,'93551','Stevenson SB @ Creighton',43.89565665,-78.884573
 93552,'93552','Harmony NB @ Capri',43.901366,-78.832565
 93553,'93553','Winchester WB @ Cachet',43.9590025,-78.9364068
