@@ -1,14 +1,3 @@
-Title: Durham Region Transit Bus - M…
-----------
-Short description:
-Durham Region Transit (DRT) Bus for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from September 2, 2019 to December 8, 2019.
-Tweets from @Durham_Transit.
-----------
-Full description:
 This app adds Durham Region Transit (DRT) buses information to MonTransit.
 
 This app provides the buses schedule as well as the latest news from @Durham_Transit on Twitter.
@@ -17,7 +6,7 @@ DRT buses serve the Durham Region in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,18 +20,3 @@ This app is not related with Durham Region Transit (DRT) or the Region of Durham
 
 Permissions:
 - Other: required to news from Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-durham-region-transit-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone:
-----------
-Privacy Policy:
-----------
