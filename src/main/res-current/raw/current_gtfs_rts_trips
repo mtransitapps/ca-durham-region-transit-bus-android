@@ -1,20 +1,20 @@
 10100,0,'A - Pickering Sta',101
 10101,0,'Pickering Sta',101
-10301,0,'Pickering Pkwy Terminal',103
-10300,0,'Rouge Hl Sta',103
-10701,0,'Pickering Sta',107
-10700,0,'Rougemount',107
+10300,0,'Pickering Pkwy Terminal',103
+10301,0,'Rouge Hl Sta',103
+10700,0,'Pickering Sta',107
+10701,0,'Rougemount',107
 11001,0,'Pickering Sta',110
-11100,0,'A - Pickering Pkwy Terminal',111
-11101,0,'Pickering Pkwy Terminal',111
-11201,0,'Pickering Sta',112
-11200,0,'Zents',112
-12001,0,'Pickering Sta',120
-12000,0,'Sunbird Trl',120
-21501,0,'Ajax Sta',215
-21500,0,'Taunton',215
-21601,0,'Ajax Sta',216
-21600,0,'Taunton',216
+11101,0,'A - Pickering Pkwy Terminal',111
+11100,0,'Pickering Pkwy Terminal',111
+11200,0,'Pickering Sta',112
+11201,0,'Zents',112
+12000,0,'Pickering Sta',120
+12001,0,'Sunbird Trl',120
+21500,0,'Ajax Sta',215
+21501,0,'Taunton',215
+21600,0,'Ajax Sta',216
+21601,0,'Taunton',216
 21701,0,'Ajax Sta',217
 21700,0,'Dreyer & Pickering Beach',217
 21900,0,'Ajax Sta',219
@@ -25,20 +25,20 @@
 22401,0,'Taunton',224
 22501,0,'Ajax Sta',225
 22500,0,'Taunton',225
-22601,0,'Ajax Sta',226
-22600,0,'Harwood',226
+22600,0,'Ajax Sta',226
+22601,0,'Harwood',226
 23200,0,'Ajax Sta',232
 23201,0,'Rossland',232
-29101,0,'Pickering Town Ctr',291
-29100,0,'Westwood',291
+29100,0,'Pickering Town Ctr',291
+29101,0,'Westwood',291
 30100,0,'Taunton',301
 30101,0,'Whitby Sta',301
-30200,0,'Brooklin',302
-30201,0,'Whitby Sta',302
+30201,0,'Brooklin',302
+30200,0,'Whitby Sta',302
 30301,0,'Taunton',303
 30300,0,'Whitby Sta',303
-30400,0,'Ontario Tech / DC North Campus',304
-30401,0,'Whitby Sta',304
+30401,0,'Ontario Tech / DC North Campus',304
+30400,0,'Whitby Sta',304
 30501,0,'Taunton',305
 30500,0,'Whitby Sta',305
 30800,0,'Ontario Shrs',308
@@ -51,60 +51,54 @@
 40200,0,'Oshawa Ctr Terminal',402
 40300,0,'Oshawa Ctr Terminal',403
 40301,0,'Oshawa Sta',403
-40500,0,'Harmony Terminal',405
-40501,0,'Oshawa Sta',405
-40600,0,'Farewell & Raleigh',406
-40601,0,'Oshawa Ctr Terminal',406
-40700,0,'Colonel Sam',407
-40701,0,'Harmony Terminal',407
+40501,0,'Harmony Terminal',405
+40500,0,'Oshawa Sta',405
+40601,0,'Farewell & Raleigh',406
+40600,0,'Oshawa Ctr Terminal',406
+40701,0,'Colonel Sam',407
+40700,0,'Harmony Terminal',407
 40800,0,'Oshawa Sta',408
 40801,0,'Taunton',408
-40900,0,'Oshawa Ctr Terminal',409
-40901,0,'Taunton',409
+40901,0,'Oshawa Ctr Terminal',409
+40900,0,'Taunton',409
 41001,0,'Harmony Terminal',410
 41000,0,'Oshawa Ctr Terminal',410
 41100,0,'Courtice Rd',411
 41101,0,'Oshawa Ctr Terminal',411
-41200,0,'Courtice Rd',412
-41201,0,'Oshawa Ctr Terminal',412
+41201,0,'Courtice Rd',412
+41200,0,'Oshawa Ctr Terminal',412
 41400,0,'Oshawa Ctr Terminal',414
 41401,0,'Ritson & Ormond',414
-41701,0,'Harmony Terminal',417
-41700,0,'Ontario Tech / DC North Campus',417
+41700,0,'Harmony Terminal',417
+41701,0,'Ontario Tech / DC North Campus',417
 42001,0,'Simcoe & Founders',420
 42000,0,'Windfields Farm & Simcoe',420
-42200,0,'Oshawa Sta',422
-42201,0,'Simcoe & Windfields Farm Dr',422
+42201,0,'Oshawa Sta',422
+42200,0,'Simcoe & Windfields Farm Dr',422
 50101,0,'Church & Temperance',501
 50102,0,'Highway 2',501
 50202,0,'Church & Temperance',502
 50201,0,'Longworth & Liberty',502
 50600,0,'Bowmanville',506
 50601,0,'Orono',506
-60100,0,'Beaverton',601
-60101,0,'Uxbridge',601
-60300,0,'Pickering Pkwy Terminal',603
-60301,0,'Port Perry',603
 65303,0,'Orillia',653
 65304,0,'Port Perry',653
 65401,0,'Lindsay',654
 65402,0,'Port Perry',654
-90000,0,'Oshawa',900
-90001,0,'Scarborough',900
-91001,0,'Ontario Tech / DC North Campus',910
-91000,0,'Whitby Sta',910
+90001,0,'Oshawa',900
+90000,0,'Scarborough',900
+91000,0,'Ontario Tech / DC North Campus',910
+91001,0,'Whitby Sta',910
 91501,0,'Ajax Sta',915
 91500,0,'UOIT / DC North Campus',915
-91600,0,'Harmony Terminal',916
-91601,0,'Pickering Pkwy Terminal',916
+91601,0,'Harmony Terminal',916
+91600,0,'Pickering Pkwy Terminal',916
 92201,0,'Harmony Terminal',922
 92200,0,'Whitby Sta',922
 95000,0,'Ontario Tech / DC North Campus',950
 95001,0,'Uxbridge',950
-96000,0,'Davis Dr & HWY 404 Pk & Ride',960
-96001,0,'Uxbridge',960
 1011001,0,'A - Pickering Pkwy Terminal',10110
 1019301,0,'A - Pickering Town Ctr',10193
-2011001,0,'B - Kingston & Whites',20110
-2011000,0,'B - Pickering Pkwy Terminal',20110
+2011000,0,'B - Kingston & Whites',20110
+2011001,0,'B - Pickering Pkwy Terminal',20110
 2019301,0,'B - Pickering Town Ctr',20193

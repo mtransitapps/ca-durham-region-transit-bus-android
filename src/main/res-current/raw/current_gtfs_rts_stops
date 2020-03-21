@@ -211,7 +211,6 @@
 238,'238','Anderson NB @ Kilbride',43.917257,-78.93689999999998
 239,'239','Anderson NB @ Taunton',43.918752,-78.93715
 240,'240','Anderson NB @ Fawcett',43.921265,-78.93811599999998
-241,'241','Lazio NB @ Samandria',43.9259614,-78.93838599999998
 242,'242','Anderson SB @ Juneau',43.92292900000001,-78.939088
 243,'243','Anderson SB @ Fawcett',43.92168,-78.938486
 244,'244','Anderson SB @ Taunton',43.919984,-78.937744
@@ -1656,7 +1655,6 @@
 2405,'2405','Taunton WB @ Warner',43.9015153,-79.01660699999998
 2406,'2406','Taunton WB @ Salem',43.8979268,-79.0315523
 2407,'2407','Taunton WB @ Middlecote',43.8972765,-79.0342846
-2410,'2410','Brock Rd NB @ Acorn',43.968556,-79.12876
 2416,'2416','EB @ 6 Welwood',44.087782,-79.1330801
 2417,'2417','Plz NB @ Welwood',44.089648,-79.131489
 2418,'2418','Toronto NB @ Douglas',44.09199000000001,-79.132073
@@ -1713,8 +1711,6 @@
 2477,'2477','Old Simcoe SB @ Barber',44.086558,-78.95506899999998
 2478,'2478','King EB @ Old Simcoe',44.083946,-78.953711
 2491,'2491','Curts EB @ Port Perry Terminal',44.10227900000001,-78.938356
-2493,'2493','Water NB @ Queen',44.105376,-78.942283
-2498,'2498','WB @ 451 Paxton (Lakeridge Health Port Perry)',44.104589,-78.954168
 2500,'2500','Simcoe SB @ Kellett',44.110346,-78.950117
 2501,'2501','Simcoe SB @ Balsam',44.107337,-78.94889
 2503,'2503','Scugog WB @ Simcoe',44.099916,-78.945102
@@ -1944,14 +1940,6 @@
 3191,'3191','Simcoe SB @ Hwy 7 (Manilla)',44.309149,-78.989572
 3192,'3192','Simcoe NB @ Hwy 7 (Manilla)',44.309302,-78.98941
 3193,'3193','Albert SB @ Jones (Sunderland)',44.261313,-79.066342
-3194,'3194','Regional Rd 1 NB @ Ravenshoe (Udora)',44.256316,-79.18331499999998
-3195,'3195','Regional Rd 1 SB @ Ravenshoe (Udora)',44.256174,-79.183397
-3196,'3196','Regional Rd 1 NB @ Regional Rd 13 (Leaskdale)',44.204609,-79.161275
-3197,'3197','Regional Rd 1 SB @ Regional Rd 13 (Leaskdale)',44.204431,-79.161359
-3198,'3198','Regional Rd 1 NB @ Harrison (Leaskdale)',44.202225,-79.160263
-3199,'3199','Regional Rd 1 SB @ Harrison (Leaskdale)',44.2025,-79.160487
-3200,'3200','Regional Rd 1 NB @ Davis',44.133423,-79.130982
-3201,'3201','Regional Rd 1 SB @ Davis',44.133761,-79.131293
 3206,'3206','Brock St WB @ Cedar',44.107573,-79.128448
 3207,'3207','Brock St EB @ South Cedar',44.107412,-79.12875699999998
 3208,'3208','Brock St WB @ Ctr',44.106666,-79.132558
@@ -1971,9 +1959,6 @@
 3230,'3230','Doric WB @ Harwood',43.857172,-79.022779
 3231,'3231','Harwood NB @ Dreyer',43.830787,-79.014381
 3236,'3236','Main EB @ Simcoe',44.430364,-79.158278
-3237,'3237','Regional Rd 8 WB @ Mill Run Gt (Siloam)',44.085234,-79.228035
-3238,'3238','Regional Rd 8 EB @ Mill Run Gt (Siloam)',44.085074,-79.228333
-3241,'3241','Davis Dr & Hwy 404 Pk And Ride',44.06749700000001,-79.42231099999998
 3244,'3244','Grn NB @ Mcbride',43.900276,-78.708095
 3246,'3246','Liberty NB @ Church',43.911453,-78.680556
 3247,'3247','Brookhill EB @ Meachin Gt',43.913376,-78.71623
@@ -2062,34 +2047,6 @@
 3366,'3366','Britannia WB @ Kentucky Derby',43.95470000000001,-78.905928
 3367,'3367','Brock Rd SB @ Major Oaks',43.85522000000001,-79.077861
 3368,'3368','Brock Rd SB @ Dersan',43.874489,-79.085714
-3369,'3369','Brock Rd NB @ William Jackson',43.87551,-79.085892
-3370,'3370','Brock Rd SB @ Zents',43.879318,-79.087806
-3371,'3371','Brock Rd NB @ Rex Heath',43.880117,-79.08790999999998
-3372,'3372','Brock Rd NB @ Taunton',43.886751,-79.090765
-3373,'3373','Brock Rd SB @ Taunton',43.887423,-79.09139
-3374,'3374','Brock Rd SB @ Whitevale',43.901601,-79.09702799999998
-3375,'3375','Brock Rd NB @ Whitevale',43.901678,-79.096665
-3376,'3376','Brock Rd & Hwy 407 Pk And Ride Platform 6',43.91295,-79.09748999999998
-3377,'3377','Brock Rd & Hwy 407 Pk And Ride Platform 5',43.91291,-79.09717999999998
-3378,'3378','Brock Rd SB @ Hwy 7',43.92110000000001,-79.10154
-3379,'3379','Brock Rd NB @ Hwy 7',43.92095,-79.10087
-3382,'3382','Old Brock NB @ Brock',43.96638,-79.12748
-3383,'3383','Old Brock SB @ Brock',43.96647,-79.12779999999998
-3384,'3384','Old Brock SB @ Acorn',43.968471,-79.128845
-3385,'3385','Old Brock NB @ Central',43.97265500000001,-79.130619
-3386,'3386','Old Brock SB @ Central',43.972559,-79.130751
-3389,'3389','Old Brock NB @ Ln',43.97592,-79.13206
-3390,'3390','Old Brock SB @ William',43.9763,-79.13233
-3391,'3391','Old Brock NB @ Bundy',43.9811944,-79.1319149
-3392,'3392','Old Brock SB @ Bundy',43.9811797,-79.1320134
-3393,'3393','Old Brock SB @ Hoxton',43.98419,-79.13168
-3394,'3394','Old Brock NB @ Hoxton',43.98432,-79.13151999999998
-3401,'3401','Brock Rd NB @ Goodwood (Coppins Corners)',44.046017,-79.147409
-3402,'3402','Brock Rd SB @ Goodwood (Coppins Corners)',44.045767,-79.14747699999998
-3403,'3403','Brock Rd SB @ Wyndance',44.048705,-79.14882
-3404,'3404','Brock Rd NB @ Wyndance',44.048268,-79.14837
-3407,'3407','Hwy 47 SB @ Parratt',44.082982,-79.153662
-3408,'3408','Hwy 47 NB @ Parratt',44.082784,-79.153586
 3409,'3409','Dryden WB @ Thickson',43.9143679,-78.92400139999998
 3410,'3410','Thickson SB @ Winterberry',43.908294,-78.922324
 3411,'3411','Thickson SB @ Rossland',43.903673,-78.920314
@@ -2118,17 +2075,8 @@
 3435,'3435','Rossland EB @ Southcott',43.868324,-79.079724
 3436,'3436','1990 Whites Rd',43.838166,-79.125331
 3437,'3437','1201 Saint Martins Dr',43.824174,-79.091712
-3502,'3502','Bay WB @ Cochrane',44.10785700000001,-78.952239
-3503,'3503','Bay EB @ Cochrane',44.108026,-78.951936
-3504,'3504','Old Simcoe NB @ Bay',44.1064436,-78.9563351
-3505,'3505','Old Simcoe SB @ Chimney Hl',44.10662,-78.956497
-3506,'3506','EB @ 462 Paxton (Lakeridge Health Port Perry)',44.10448190000001,-78.9542876
-3507,'3507','Paxton EB @ Cochrane',44.105177,-78.951278
-3508,'3508','Paxton WB @ Cochrane',44.105392,-78.950709
 3509,'3509','Audley SB @ Moynahan',43.83875,-78.9851889
 3510,'3510','Rossland WB @ Southcott',43.868662,-79.079043
-3512,'3512','Lk Rdg EB @ Concession 7 (Vallentyne)',44.261334,-79.136245
-3513,'3513','Lk Rdg NB @ Concession 7 (Vallentyne)',44.261186,-79.135493
 3514,'3514','Cochrane NB @ Medland',43.908605,-78.965474
 3515,'3515','Altona NB @ Shadow',43.832899,-79.143338
 3516,'3516','Altona SB @ Shadow',43.83375,-79.143877
@@ -2186,8 +2134,6 @@
 3581,'3581','William EB @ Ctr',43.89992189705412,-78.865388224436
 3582,'3582','William EB @ Simcoe',43.900103,-78.864866
 3583,'3583','William EB @ Mary',43.90078900000001,-78.8619
-3584,'3584','Gordon SB @ Whitby Shrs Greenway',43.858684,-78.94381
-3585,'3585','SB @ 300 Gordon (Lakeridge Health Whitby)',43.856727,-78.942974
 3586,'3586','Pk SB @ Hillside',43.882051,-78.868142
 3587,'3587','Pk NB @ Hillside',43.881571,-78.868386
 3588,'3588','Ontario Shrs (East Entrance)',43.849206,-78.944599
@@ -2209,7 +2155,6 @@
 3611,'3611','Anderson SB @ Solmar',43.925987,-78.940431
 3612,'3612','Salem NB @ Taunton',43.897754,-79.030634
 3613,'3613','Richmond EB @ Ontario',43.89968300000001,-78.862568
-3614,'3614','Water SB @ Queen',44.1060501,-78.9426674
 3615,'3615','Lakeridge Health Ajax Pickering East Entrance',43.837188,-79.016527
 3617,'3617','Thickson NB @ Winchester',43.958227,-78.94370499999998
 3618,'3618','Thickson NB @ Blackfriar',43.961855,-78.945277
@@ -2228,7 +2173,6 @@
 3632,'3632','Winchester EB @ St Thomas',43.9554,-78.95263
 3633,'3633','Simcoe NB @ Windfields Farm',43.963248,-78.902719
 3634,'3634','Albert EB @ Auk Trl (Lindsay Recreation Complex)',44.34179000000001,-78.74302299999998
-3635,'3635','Brock EB @ Main',44.109315,-79.12059499999998
 3636,'3636','Harmony SB @ Olive',43.895486,-78.830067
 3637,'3637','Grandview NB @ Esterbrook',43.952059,-78.844133
 7698,'7698','Ellesmere EB @ Military Trl',43.786768,-79.187251
@@ -2393,7 +2337,6 @@
 93103,'93103','Athol EB @ Charles',43.89739817,-78.85914993
 93104,'93104','Ravenscroft NB @ Dent',43.874876,-79.053306
 93106,'93106','Scugog EB @ High',44.10026,-78.94311
-93109,'93109','Lazio NB @ Toscana',43.9237259,-78.9373734
 93111,'93111','Hwy 2 EB @ Sandringham',43.9094692,-78.79465159999998
 93112,'93112','Pickering Pkwy Terminal',43.832968,-79.0851
 93115,'93115','Victoria EB @ Gordon (Abilities Ctr)',43.8600147,-78.9446226
@@ -2447,7 +2390,6 @@
 93184,'93184','Stevens EB @ Grn',43.911121,-78.712604
 93185,'93185','NB @ 3193 Thickson',43.906341,-78.921216
 93186,'93186','Thickson NB @ Winterberry',43.9084673,-78.92209579999998
-93187,'93187','Toronto NB @ Welwood',44.088676,-79.134437
 93188,'93188','Thornton SB @ Arklow',43.88768000000001,-78.891874
 93189,'93189','WB @ 944 Colonel Sam',43.880828,-78.821307
 93190,'93190','Finch EB @ Brock Rd',43.849907,-79.07541399999998
