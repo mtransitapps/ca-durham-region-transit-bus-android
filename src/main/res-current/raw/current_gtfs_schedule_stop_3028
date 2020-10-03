@@ -1,2 +1,4 @@
-'Contingency Weekday 2',22401,60500,,'',10000,,'',10000,,''
-'Contingency Weekend 2',22401,70500,,''
+'Saturday',22401,54500,,''
+'Sunday',22401,54500,,''
+'Weekday',22400,191500,0,'B - Kerrison',31500,0,'B - Kerrison'
+'Weekday',22401,52300,,'',3000,,'',5500,,'',3000,,''
