@@ -323,6 +323,7 @@
 810,'810','Harmony NB @ Taunton (North Side Stop)',43.940279,-78.849628
 812,'812','Harmony Terminal',43.942102,-78.848752
 815,'815','Harmony Terminal SB @ Taunton',43.940333,-78.847847
+817,'817','Delpark Homes Ctr',43.947501,-78.850743
 823,'823','Taunton WB @ Harmony',43.939344,-78.850735
 824,'824','Taunton WB @ Clearbrook',43.9384,-78.854926
 825,'825','Taunton WB @ Wilson (East Side Stop)',43.937589,-78.858528
@@ -545,7 +546,6 @@
 1224,'1224','Hwy 2 EB @ Darlington Blvd',43.906907,-78.808273
 1225,'1225','Hwy 2 EB @ Old Kingston',43.907393,-78.803827
 1242,'1242','King EB @ Simcoe',43.897623,-78.863176
-1243,'1243','King EB @ Charles',43.898673,-78.858612
 1244,'1244','Hwy 2 EB @ Prestonvale',43.908429,-78.797456
 1245,'1245','Hwy 2 EB @ Trulls',43.910829,-78.787906
 1257,'1257','Olive WB @ Elmridge',43.895107,-78.831268
@@ -602,6 +602,7 @@
 1480,'1480','Church EB @ Temperance',43.913138,-78.688545
 1498,'1498','Simpson NB @ King',43.911329,-78.675014
 1499,'1499','Prince EB @ Liberty (Lakeridge Health Bowmanville)',43.908346,-78.678921
+1504,'1504','Clarington Blvd SB @ Prince William',43.908456,-78.70716
 1587,'1587','Kingston WB @ Audley',43.868228,-78.995249
 1588,'1588','Kingston WB @ Alexanders Xing',43.86702,-79.00077
 1590,'1590','Kingston WB @ Wicks',43.8643554,-79.0125542
