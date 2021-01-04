@@ -4,13 +4,13 @@
 12000,0,'Sunbird Trl',120
 21601,0,'Ajax Sta',216
 21600,0,'Taunton',216
+22400,0,'A Taunton',224
 22401,0,'Ajax Sta',224
-22400,0,'Taunton',224
 29100,0,'Clover Rdg',291
 29101,0,'Pickering Town Ctr',291
 30200,0,'Brooklin',302
 30201,0,'Whitby Sta',302
-40300,0,'Oshawa Ctr Term',403
+40300,0,'C King St & Harmony Rd',403
 40301,0,'Oshawa Sta',403
 40500,0,'Harmony Term',405
 40501,0,'Oshawa Ctr Term',405
@@ -32,3 +32,4 @@
 91601,0,'Pickering Pkwy Term',916
 91700,0,'Oshawa Ctr Term',917
 91701,0,'Pickering Pkwy Term',917
+98001,0,'Kingston Rd & Westney Rd',980
