@@ -1,6 +1,8 @@
 10100,0,'A Pickering Pkwy Term',101
 10101,0,'Pickering Pkwy Term',101
-12001,0,'Pickering Pkwy Term',120
+11000,0,'Pickering Pkwy Term',110
+11001,0,'Sunbird Trl',110
+12001,0,'Pickering Sta',120
 12000,0,'Sunbird Trl',120
 21601,0,'Ajax Sta',216
 21600,0,'Taunton',216
@@ -30,6 +32,6 @@
 91500,0,'Harmony Term',915
 91600,0,'Harmony Term',916
 91601,0,'Pickering Pkwy Term',916
-91700,0,'Oshawa Ctr Term',917
-91701,0,'Pickering Pkwy Term',917
+91700,0,'Z Oshawa Ctr Term',917
+91701,0,'Z Toronto Zoo & Rouge Pk',917
 98001,0,'Kingston Rd & Westney Rd',980
