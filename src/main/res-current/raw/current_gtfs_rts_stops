@@ -11,11 +11,6 @@
 59,'59','EB @ 701 Gordon',43.851033,-78.94084
 63,'63','Victoria EB @ Henry',43.8611122697,-78.9398437149
 64,'64','Victoria EB @ Charles',43.861691,-78.937137
-67,'67','Brock St SB @ Front',43.857811,-78.932752
-68,'68','Water SB @ Brock St',43.852405,-78.927286
-69,'69','EB @ 495 Water',43.85174,-78.923049
-72,'72','NB @ 201 S Blair',43.857188,-78.921558
-73,'73','S Blair NB @ Watson',43.860376,-78.922891
 100,'100','McQuay NB @ Dundas',43.87593224,-78.961715
 101,'101','McQuay NB @ Moonstone',43.878431,-78.963146
 102,'102','McQuay NB @ Kennett',43.879593,-78.965224
@@ -1682,10 +1677,5 @@
 94097,'94097','Adelaide EB @ Gibbons',43.899898,-78.881242
 94098,'94098','Adelaide EB @ Pk',43.90105,-78.876259
 94099,'94099','Adelaide WB @ Stevenson',43.899015,-78.885722
+94100,'94100','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018
 94104,'94104','Conlin EB @ Ritson (E Side Stop)',43.9524,-78.87569
-1681367230,'','Whitby Sta - S Side',43.86419,-78.93882
-1681369152,'','Watson WB @ Port Whitby Marina',43.8592,-78.93747
-1681369183,'','Watson EB @ Port Whitby Marina',43.85896,-78.93738
-1681369214,'','Watson EB @ Brock St',43.85953,-78.93393
-1681369245,'','Watson WB @ Brock St',43.86002,-78.93324
-1681392123,'','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018

@@ -11,11 +11,6 @@
 59,'59','EB @ 701 Gordon',43.851033,-78.94084
 63,'63','Victoria EB @ Henry',43.8611122697,-78.9398437149
 64,'64','Victoria EB @ Charles',43.861691,-78.937137
-67,'67','Brock St SB @ Front',43.857811,-78.932752
-68,'68','Water SB @ Brock St',43.852405,-78.927286
-69,'69','EB @ 495 Water',43.85174,-78.923049
-72,'72','NB @ 201 S Blair',43.857188,-78.921558
-73,'73','S Blair NB @ Watson',43.860376,-78.922891
 100,'100','McQuay NB @ Dundas',43.87593224,-78.961715
 101,'101','McQuay NB @ Moonstone',43.878431,-78.963146
 102,'102','McQuay NB @ Kennett',43.879593,-78.965224
@@ -238,6 +233,7 @@
 512,'512','Vipond EB @ Montgomery',43.9569741,-78.9653316
 513,'513','Vipond EB @ Ferguson',43.9560241,-78.9694672
 514,'514','Vipond EB @ Sabrina',43.9550968,-78.9735875
+533,'533','Thickson SB @ Blackfriar',43.96218,-78.945648
 535,'535','Baldwin SB @ Roybrook',43.950765,-78.961834
 539,'539','Thornton NB @ Donegal',43.885866,-78.890887
 541,'541','Thornton NB @ Monaghan (Trent U Oshawa)',43.88805,-78.891815
@@ -1690,21 +1686,15 @@
 94097,'94097','Adelaide EB @ Gibbons',43.899898,-78.881242
 94098,'94098','Adelaide EB @ Pk',43.90105,-78.876259
 94099,'94099','Adelaide WB @ Stevenson',43.899015,-78.885722
+94100,'94100','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018
 94104,'94104','Conlin EB @ Ritson (E Side Stop)',43.9524,-78.87569
-1629564,'','Thickson SB @ Blackfriar',43.96218,-78.945648
-1681367230,'','Whitby Sta - S Side',43.86419,-78.93882
-1681369152,'','Watson WB @ Port Whitby Marina',43.8592,-78.93747
-1681369183,'','Watson EB @ Port Whitby Marina',43.85896,-78.93738
-1681369214,'','Watson EB @ Brock St',43.85953,-78.93393
-1681369245,'','Watson WB @ Brock St',43.86002,-78.93324
-1681392123,'','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018
-1681392278,'','Baldwin-Hwy 407 P&R',43.94436,-78.95963
-1681392340,'','Vipond WB @ Montgomery',43.957026,-78.965508
-1681392371,'','Vipond WB @ Ferguson',43.956074,-78.969778
-1681392402,'','Vipond WB @ Darrius Harns',43.955498,-78.972343
-1681393084,'','Carnwith EB @ Darius Harns',43.961669,-78.974259
-1681393115,'','Carnwith EB @ Bayern',43.962107,-78.972338
-1681393146,'','Carnwith EB @ Montgomery',43.962238,-78.967677
-1681393177,'','Carnwith EB @ Way',43.962954,-78.964356
-1681393208,'','Carnwith EB @ Leithridge',43.964939,-78.961692
-1681393239,'','Britannia EB @ Windfields Farm',43.95367,-78.9102
+94105,'94105','Baldwin-Hwy 407 P&R',43.94436,-78.95963
+94107,'94107','Vipond WB @ Montgomery',43.957026,-78.965508
+94108,'94108','Vipond WB @ Ferguson',43.956074,-78.969778
+94109,'94109','Vipond WB @ Darrius Harns',43.955498,-78.972343
+94110,'94110','Carnwith EB @ Darius Harns',43.961669,-78.974259
+94111,'94111','Carnwith EB @ Bayern',43.962107,-78.972338
+94112,'94112','Carnwith EB @ Montgomery',43.962238,-78.967677
+94113,'94113','Carnwith EB @ Way',43.962954,-78.964356
+94114,'94114','Carnwith EB @ Leithridge',43.964939,-78.961692
+94115,'94115','Britannia EB @ Windfields Farm',43.95367,-78.9102
