@@ -224,6 +224,7 @@
 488,'488','Rossland EB @ William Davidson',43.9072446,-78.9069581
 490,'490','Baldwin NB @ Roybrook',43.951339,-78.961822
 491,'491','Baldwin NB @ Winchester',43.953127,-78.962199
+492,'492','Baldwin NB @ Cassels',43.955803,-78.961218
 497,'497','Winchester EB @ Anderson',43.956651,-78.946403
 505,'505','Carnwith WB @ Thickson',43.968094,-78.948934
 506,'506','Carnwith WB @ Croxall',43.9673515,-78.9528905
@@ -232,6 +233,7 @@
 512,'512','Vipond EB @ Montgomery',43.9569741,-78.9653316
 513,'513','Vipond EB @ Ferguson',43.9560241,-78.9694672
 514,'514','Vipond EB @ Sabrina',43.9550968,-78.9735875
+533,'533','Thickson SB @ Blackfriar',43.96218,-78.945648
 535,'535','Baldwin SB @ Roybrook',43.950765,-78.961834
 539,'539','Thornton NB @ Donegal',43.885866,-78.890887
 541,'541','Thornton NB @ Monaghan (Trent U Oshawa)',43.88805,-78.891815
@@ -1237,6 +1239,7 @@
 3420,'3420','Dryden WB @ Bakerville',43.91571,-78.91904
 3421,'3421','Dryden WB @ Waller',43.91489,-78.92186
 3422,'3422','Britannia WB @ Thoroughbred',43.9557,-78.90185
+3423,'3423','Britannia EB @ Thoroughbred',43.9555,-78.90163
 3430,'3430','Rossland EB @ Church',43.8709498,-79.0630705
 3431,'3431','Rossland EB @ Shell',43.870787,-79.068303
 3432,'3432','Rossland WB @ Shell',43.870936,-79.068386
@@ -1277,6 +1280,7 @@
 3570,'3570','Simcoe SB @ Wentworth',43.873879,-78.844625
 3572,'3572','Zents WB @ Tillings',43.878735,-79.092628
 3573,'3573','Tillings SB @ Scenic Ln',43.874998,-79.09145
+3579,'3579','Britannia EB @ Kentucky Derby',43.9545412,-78.9057703
 3580,'3580','Britannia WB @ Windfields Farms',43.9537361,-78.9106833
 3586,'3586','Pk SB @ Hillside',43.882051,-78.868142
 3587,'3587','Pk NB @ Hillside',43.881571,-78.868386
@@ -1284,15 +1288,17 @@
 3589,'3589','Centennial Cir',43.787494,-79.190831
 3590,'3590','Kingston WB @ Delta',43.820127,-79.114142
 3591,'3591','Windfields Farm EB @ Thoroughbred',43.962738,-78.90513
+3592,'3592','Windfields Farm WB @ Kentucky Derby',43.962037,-78.909043
 3600,'3600','Windfields Farm EB @ Kentucky Derby',43.961779,-78.909473
 3601,'3601','Windfields Farm NB @ Bandsman',43.959762,-78.914635
 3602,'3602','Windfields Farm NB @ Equestrian',43.956693,-78.913442
+3603,'3603','Windfields Farm WB @ Thoroughbred',43.963141,-78.904278
+3604,'3604','Windfields Farm SB @ Stallion',43.96031,-78.914539
+3605,'3605','Windfields Farm SB @ Dress Cir',43.956586,-78.913582
 3608,'3608','Simcoe NB @ Founders',43.946668,-78.894075
 3615,'3615','Lakeridge Health Ajax Pickering E Entrance',43.837188,-79.016527
 3617,'3617','Thickson NB @ Winchester',43.958227,-78.943705
 3618,'3618','Thickson NB @ Blackfriar',43.961855,-78.945277
-3625,'3625','Baldwin SB @ N',43.964478,-78.957925
-3626,'3626','Baldwin SB @ Colston',43.96023,-78.959512
 3627,'3627','Baldwin SB @ Cassels',43.955959,-78.961368
 3630,'3630','Winchester EB @ Chelmsford',43.95386,-78.95961
 3631,'3631','Winchester EB @ Simcoe',43.9549931281,-78.9545788076
@@ -1517,6 +1523,9 @@
 93464,'93464','Wentworth WB @ Thornton',43.863046,-78.881491
 93465,'93465','Wentworth EB @ Thornton',43.862945,-78.881117
 93466,'93466','Townline SB @ Down',43.888891,-78.805747
+93482,'93482','Carnwith EB @ Baldwin',43.9668955,-78.9578328
+93484,'93484','Carnwith EB @ Watford',43.967258,-78.951755
+93485,'93485','Carnwith EB @ Thickson',43.9679088,-78.9488879
 93492,'93492','Townline NB @ Bloor (S Side Stop)',43.8908141,-78.8064094
 93493,'93493','Coldstream EB @ Wilson',43.945803,-78.863295
 93495,'93495','Brock Rd SB @ Orangebrook',43.83056,-79.066528
@@ -1679,3 +1688,13 @@
 94099,'94099','Adelaide WB @ Stevenson',43.899015,-78.885722
 94100,'94100','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018
 94104,'94104','Conlin EB @ Ritson (E Side Stop)',43.9524,-78.87569
+94105,'94105','Baldwin-Hwy 407 P&R',43.94436,-78.95963
+94107,'94107','Vipond WB @ Montgomery',43.957026,-78.965508
+94108,'94108','Vipond WB @ Ferguson',43.956074,-78.969778
+94109,'94109','Vipond WB @ Darrius Harns',43.955498,-78.972343
+94110,'94110','Carnwith EB @ Darius Harns',43.961669,-78.974259
+94111,'94111','Carnwith EB @ Bayern',43.962107,-78.972338
+94112,'94112','Carnwith EB @ Montgomery',43.962238,-78.967677
+94113,'94113','Carnwith EB @ Way',43.962954,-78.964356
+94114,'94114','Carnwith EB @ Leithridge',43.964939,-78.961692
+94115,'94115','Britannia EB @ Windfields Farm',43.95367,-78.9102
