@@ -259,7 +259,7 @@
 577,'577','Rossland EB @ Central Pk',43.918411,-78.856553
 579,'579','Ter NB @ Mayfair',43.920654,-78.854051
 580,'580','Ter EB @ Wilson',43.922151,-78.853065
-581,'581','Rossland EB @ Wilson',43.919845,-78.85053
+581,'581','Rossland EB @ Wilson',43.919467,-78.852082
 582,'582','Rossland EB @ Camelot',43.92071,-78.84681
 583,'583','Rossland EB @ Harmony',43.92152,-78.843256
 584,'584','Harmony NB @ Rossland (S Side Stop)',43.921583,-78.841479
@@ -733,6 +733,7 @@
 1732,'1732','Liverpool NB @ Glenanna',43.839378,-79.091944
 1733,'1733','NB @ 1917 Liverpool',43.840787,-79.092623
 1734,'1734','Liverpool NB @ Anton Sq',43.842877,-79.093507
+1740,'1740','Liverpool SB @ Kingston (S Side Stop)',43.83457,-79.090142
 1741,'1741','Liverpool SB @ Pickering Pkwy',43.832976,-79.089382
 1742,'1742','Kingston WB @ Whites',43.818764,-79.115943
 1743,'1743','Whites NB @ Sheppard',43.821974,-79.116675
@@ -811,7 +812,8 @@
 1893,'1893','Finch EB @ Forest Pk',43.846007,-79.092982
 1894,'1894','Finch EB @ Rosefield',43.8466086,-79.0900957
 1895,'1895','Finch EB @ Vly Farm',43.847673,-79.08531
-1909,'1909','Pickering Town Ctr',43.833439,-79.084465
+1911,'1911','NB @ 1869 Glenanna',43.835759,-79.082959
+1912,'1912','Glenanna NB @ The Esplanade',43.83753,-79.08439
 1915,'1915','Glenanna SB @ The Esplanade (S Side Stop)',43.83744,-79.084563
 1920,'1920','Glenanna WB @ Glendale',43.838509,-79.093254
 1921,'1921','Glenanna WB @ Bronte',43.83803,-79.095309
@@ -831,12 +833,6 @@
 1935,'1935','Glenanna EB @ Glendale',43.838287,-79.093668
 1936,'1936','Glenanna SB @ Kingston',43.8390289,-79.0881538
 1940,'1940','Walmart WB @ Kingston',43.866833,-79.013503
-1941,'1941','Bainbridge SB @ Kingston',43.849848,-79.070113
-1942,'1942','NB @ 1802 Bainbridge',43.84941,-79.069849
-1943,'1943','Bainbridge EB @ Burnside',43.847531,-79.068619
-1944,'1944','Bainbridge EB @ Fairfield',43.848043,-79.066569
-1945,'1945','Marshcourt SB @ Beechlawn',43.8466244,-79.0646544
-1946,'1946','Marshcourt SB @ Ashford',43.8448944,-79.0636586
 1947,'1947','Pickering Pkwy WB @ Beechlawn',43.843901,-79.065168
 1949,'1949','WB @ 1738 Pickering Pkwy',43.8436022,-79.0698917
 1960,'1960','Pickering Pkwy EB @ Vly Farm',43.836906,-79.078013
@@ -846,10 +842,6 @@
 1964,'1964','EB @ 1733 Pickering Pkwy',43.843629,-79.070464
 1965,'1965','EB @ 1755 Pickering Pkwy',43.8431731,-79.0678524
 1966,'1966','Pickering Pkwy EB @ Beechlawn',43.843819,-79.065034
-1967,'1967','Marshcourt NB @ Ashford',43.8450351,-79.0635992
-1969,'1969','Marshcourt NB @ Bainbridge',43.848133,-79.065265
-1970,'1970','Bainbridge WB @ Fairfield',43.848146,-79.066524
-1971,'1971','Bainbridge WB @ Burnside',43.847684,-79.06826
 1982,'1982','Fairport SB @ Voyager',43.835113,-79.111872
 1983,'1983','Fairport SB @ Strouds',43.83288182,-79.111001
 1984,'1984','Fairport NB @ Bonita',43.833996,-79.111275
@@ -1179,14 +1171,12 @@
 3126,'3126','Wilson NB @ Hillcroft',43.913236,-78.848778
 3127,'3127','Britannia EB @ Steeplechase',43.956275,-78.896619
 3128,'3128','Britannia EB @ Bridle',43.955878,-78.893451
-3131,'3131','Conlin EB @ Wilson',43.954353,-78.867182
 3132,'3132','Conlin EB @ Harmony',43.956653,-78.857426
 3133,'3133','Grandview SB @ Woodstream',43.956073,-78.846023
 3134,'3134','Grandview SB @ Salmers',43.950011,-78.843457
 3135,'3135','Grandview NB @ Salmers',43.949878,-78.843025
 3136,'3136','Grandview NB @ Woodstream',43.955852,-78.845803
 3137,'3137','Conlin WB @ Harmony',43.956986,-78.856803
-3138,'3138','Conlin WB @ Wilson',43.954559,-78.86666
 3165,'3165','Grn SB @ S Of Hwy 2',43.908213,-78.711662
 3172,'3172','Grn SB @ Boswell',43.905223,-78.710404
 3178,'3178','Wilson NB @ Attersley',43.925753,-78.854111
@@ -1390,7 +1380,7 @@
 93102,'93102','Old Simcoe NB @ Victoria',44.093677,-78.955418
 93106,'93106','Scugog EB @ High',44.10026,-78.94311
 93111,'93111','Hwy 2 EB @ Sandringham',43.9094692,-78.7946516
-93112,'93112','Pickering Pkwy Term',43.832968,-79.0851
+93112,'93112','Pickering Pkwy Term P:B12',43.832968,-79.0851
 93115,'93115','Victoria EB @ Gordon (Abilities Ctr)',43.8600147,-78.9446226
 93121,'93121','Sta WB @ Harwood',43.851311,-79.022762
 93122,'93122','Sta WB @ Mills',43.85056,-79.02586
@@ -1402,8 +1392,8 @@
 93141,'93141','Harwood NB @ Haskell',43.8911583,-79.0385343
 93142,'93142','Harwood SB @ Williamson',43.8885767,-79.0376546
 93143,'93143','Rossland WB @ Westney',43.876133,-79.044178
-93145,'93145','SB @ 964 Salem',43.879163,-79.017714
-93146,'93146','NB @ 967 Salem',43.87883,-79.017271
+93145,'93145','SB @ 800 Salem',43.879163,-79.017714
+93146,'93146','NB @ 789 Salem',43.87883,-79.017271
 93147,'93147','Salem SB @ Kerrison',43.8711003,-79.0177387
 93148,'93148','Salem NB @ Kerrison',43.8704308,-79.0177597
 93149,'93149','Salem SB @ Ringer',43.8671137,-79.0176202
@@ -1687,7 +1677,6 @@
 94098,'94098','Adelaide EB @ Pk',43.90105,-78.876259
 94099,'94099','Adelaide WB @ Stevenson',43.899015,-78.885722
 94100,'94100','Whites SB @ Strouds (S Side Stop)',43.829,-79.12018
-94104,'94104','Conlin EB @ Ritson (E Side Stop)',43.9524,-78.87569
 94105,'94105','Baldwin-Hwy 407 P&R',43.94436,-78.95963
 94107,'94107','Vipond WB @ Montgomery',43.957026,-78.965508
 94108,'94108','Vipond WB @ Ferguson',43.956074,-78.969778
@@ -1698,3 +1687,4 @@
 94113,'94113','Carnwith EB @ Way',43.962954,-78.964356
 94114,'94114','Carnwith EB @ Leithridge',43.964939,-78.961692
 94115,'94115','Britannia EB @ Windfields Farm',43.95367,-78.9102
+94125,'94125','Pickering Pkwy Term P:B13',43.83272,-79.08561
