@@ -14,7 +14,7 @@
 22400,0,'Taunton',224
 29100,0,'Clover Rdg',291
 29101,0,'Pickering Sta',291
-30200,0,'B Ontario Tech / Durham College North Campus',302
+30200,0,'Brooklin',302
 30201,0,'Whitby Sta',302
 39201,0,'Ontario Shrs',392
 39200,0,'Oshawa Ctr Term',392
@@ -41,15 +41,15 @@
 90101,0,'Lakeview Pk',901
 90100,0,'Windfields Farm & Thoroughbred',901
 90201,0,'A Oshawa Sta',902
-90200,0,'A Simpson Ave',902
-90500,0,'B Uxbridge',905
+90200,0,'Simpson Ave / Trulls Rd',902
+90500,0,'Harmony Term / Uxbridge',905
 90501,0,'Whitby Sta',905
 91501,0,'Ajax Sta',915
 91500,0,'Harmony Term',915
 91600,0,'Harmony Term',916
 91601,0,'Pickering Pkwy Term',916
-91700,0,'Z Oshawa Ctr Term',917
-91701,0,'Z Toronto Zoo & Rouge Pk',917
+91700,0,'Oshawa Ctr Term',917
+91701,0,'Pickering Pkwy Term',917
 92000,0,'Harmony Term',920
 92001,0,'McCowan Sta',920
 1400000101,0,'Centennial Cir',14000001
