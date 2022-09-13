@@ -27,8 +27,10 @@
 40301,0,'Oshawa Sta',403
 40500,0,'Harmony Term',405
 40501,0,'Oshawa Ctr Term',405
+40701,0,'Farewell & Raleigh',407
 40700,0,'Harmony Term',407
-40701,0,'Raleigh',407
+40901,0,'B McLaughlin',409
+40900,0,'McLaughlin',409
 41000,0,'Harmony Term',410
 41001,0,'Oshawa Ctr Term',410
 41100,0,'Courtice',411
@@ -41,8 +43,8 @@
 90001,0,'Scarborough',900
 90101,0,'Lakeview Pk',901
 90100,0,'Windfields Farm',901
-90200,0,'King EB @ Liberty',902
-90201,0,'Oshawa Sta',902
+90201,0,'A Oshawa Sta',902
+90200,0,'Bowmanville / Courtice',902
 90500,0,'Harmony Term / Uxbridge',905
 90501,0,'Whitby Sta',905
 91501,0,'Ajax Sta',915
@@ -53,7 +55,8 @@
 91701,0,'Pickering Pkwy Term',917
 92000,0,'Harmony Term',920
 92001,0,'McCowan Sta',920
-1400000100,0,'N1 Harmony Term',14000001
-1400000101,0,'N1 Scarborough',14000001
-1400000201,0,'N2 Bloor',14000002
-1400000200,0,'N2 Windfields Farm',14000002
+20041100,0,'C Grandview',200411
+1400000100,0,'Harmony Term',14000001
+1400000101,0,'Scarborough',14000001
+1400000201,0,'Bloor',14000002
+1400000200,0,'Windfields Farm',14000002
