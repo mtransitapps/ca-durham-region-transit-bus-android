@@ -160,7 +160,6 @@
 344,'344','Kendalwood NB @ Broadview',43.8818189,-78.8998565
 345,'345','Kendalwood NB @ Northview',43.88518710000001,-78.9014091
 346,'346','Garrard NB @ Burnage',43.892441,-78.904566
-347,'','Garrard @ Springsyde N Ns',43.893807,-78.905165
 348,'348','Garrard NB @ Manning',43.896954,-78.906543
 349,'349','Garrard NB @ Forest',43.899542,-78.907678
 350,'350','Garrard NB @ Westwood',43.901785,-78.908666
@@ -243,7 +242,6 @@
 462,'462','Rossland WB @ Gdn (Durham Region Headquarters)',43.899906,-78.939886
 464,'464','Rossland WB @ Civic Ctr Dr',43.898832,-78.944604
 465,'465','Rossland WB @ Brock St',43.8976792,-78.94921909999998
-466,'466','Rossland WB @ Harvest',43.89703234000001,-78.952654
 467,'467','Rossland WB @ Whitburn',43.89627,-78.956033
 468,'468','Rossland WB @ Cochrane',43.895555,-78.95936399999998
 469,'469','Rossland WB @ Country Ln',43.89427381,-78.964817
@@ -252,7 +250,6 @@
 472,'472','Rossland EB @ Country Ln',43.89412,-78.96458
 473,'473','Rossland EB @ Cochrane',43.895243,-78.959856
 474,'474','Rossland EB @ Redoak',43.89609699482188,-78.95613126641868
-475,'475','Rossland EB @ Ctr',43.89687291,-78.952685
 476,'476','Rossland EB @ Brock St',43.897253,-78.950126
 477,'477','Rossland EB @ Civic Ctr Dr',43.898728,-78.944498
 480,'480','Rossland EB @ Gdn (Durham Region Headquarters)',43.899581,-78.940539
@@ -440,7 +437,7 @@
 847,'847','Taunton EB @ Clearbrook',43.938297,-78.854571
 848,'848','Taunton EB @ Harmony',43.938789,-78.85238699999998
 852,'852','Conlin EB @ Walreg',43.948702,-78.892484
-853,'853','Conlin EB @ Avalon',43.95037052,-78.88479
+853,'853','Conlin EB @ Avalon',43.950158,-78.885597
 854,'854','Conlin EB @ Mnr',43.95115100000001,-78.881227
 855,'855','Conlin EB @ Ritson',43.951962,-78.877706
 859,'859','Ritson SB @ Ormond',43.937122,-78.869981
@@ -470,7 +467,7 @@
 892,'892','Ritson NB @ Ormond',43.93767900000001,-78.870106
 896,'896','Conlin WB @ Ritson',43.95187700000001,-78.878549
 897,'897','Conlin WB @ Mnr',43.951264,-78.881159
-898,'898','Conlin WB @ Avalon',43.95046,-78.884698
+898,'898','Conlin WB @ Avalon',43.95035,-78.88532
 910,'910','Coldstream WB @ Northfield',43.945257,-78.868727
 911,'911','Harmony SB @ Taunton',43.93885,-78.849298
 912,'912','Harmony SB @ Grand Rdg',43.935314,-78.84771499999998
@@ -1862,6 +1859,7 @@
 94184,'94184','Hopkins SB @ Warren',43.87747,-78.91967
 94185,'94185','Hopkins NB @ Nichol',43.88255,-78.92167999999998
 94186,'94186','Hopkins SB @ Nichol',43.88242000000001,-78.92194
+94991,'','Thickson NB @ Rossland (N Side Stop)',43.905014,-78.920609
 938011,'','Scugog @ Concession 3 N Ns',43.933913,-78.701053
 941261,'','Liberty SB @ King',43.910968,-78.680541
 941271,'','Northglen EB @ Kenneth Cole',43.936771,-78.711204
@@ -1880,13 +1878,15 @@
 941421,'','Mearns SB @ Elephant Hl',43.928678,-78.677319
 941431,'','Mearns SB @ Apple Blossom',43.92479500000001,-78.675549
 941441,'','Mearns SB @ Concession',43.921414,-78.673993
-941451,'','Concession WB @ Mann',43.919525,-78.678331
+941451,'','Concession WB @ Mann',43.919858,-78.676874
 941461,'','Liberty SB @ Concession',43.917681,-78.68347799999998
 941471,'','Liberty SB @ Wellington',43.914013,-78.68187399999998
 941481,'','Adelaide WB @ Vega',43.916446,-78.819526
 941491,'','Adelaide EB @ Vega',43.916608,-78.818197
 941821,'','Hopkins SB @ Ind',43.87335,-78.91785
-941871,'','Simcoe SB @ Taunton (N Side Stop)',43.932941,-78.878439
+941871,'','Simcoe SB @ Taunton (N Side Stop)',43.933393,-78.879221
 941881,'','Simcoe NB @ Taunton (S Side Stop)',43.932763,-78.878746
 941891,'','Simcoe SB @ Commencement',43.945083,-78.89219799999998
-941901,'','Strouds Eatbound @ Whites',43.82983,-79.11896299999998
+941901,'','Strouds @ Whites E Fs',43.82983,-79.11896299999998
+941941,'','Coldstream EB @ 1224 Coldstream',43.945712,-78.846137
+941951,'','Coldstream WB @ 1224 Coldstream',43.945809,-78.846577

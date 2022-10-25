@@ -1,5 +1,5 @@
-'Weekday',21100,61520,0,'C Ajax Stn',3000,0,'C Ajax Stn',7000,0,'C Ajax Stn',3000,0,'C Ajax Stn',7000,0,'C Ajax Stn',3000,0,'C Ajax Stn'
-'Weekday',21101,162900,0,'C Pickering Pkwy',3000,0,'C Pickering Pkwy',7000,0,'C Pickering Pkwy',3000,0,'C Pickering Pkwy',7000,0,'C Pickering Pkwy',3000,0,'C Pickering Pkwy'
+'Weekday',21100,61520,,'',3000,,'',7000,,'',3000,,'',7000,,'',3000,,''
+'Weekday',21101,162900,,'',3000,,'',7000,,'',3000,,'',7000,,'',3000,,''
 'Late Night Sat',91501,292700,,''
 'Late Night Sun',91501,292700,,''
 'Late Night Wkdy',91501,292700,,''
