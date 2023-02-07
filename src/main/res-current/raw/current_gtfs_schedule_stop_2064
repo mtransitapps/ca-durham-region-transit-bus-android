@@ -1,4 +1,4 @@
-'WeekdayReg',22401,61440,0,'A Duffins Bay',3000,0,'A Duffins Bay',7000,0,'A Duffins Bay',3000,0,'A Duffins Bay',7000,0,'A Duffins Bay',3000,0,'A Duffins Bay',7000,0,'A Duffins Bay'
-'Saturday',29101,95120,,'',20000,,'',19700,,'',19500,0,'S Drop Off Only'
-'Sunday',29101,95120,,'',20000,,'',19700,,'',19500,0,'S Drop Off Only'
-'Weekday',29101,95120,,'',20000,,'',19700,,'',19500,0,'S Drop Off Only'
+'WeekdayReg',22401,61440,0,'A Duffins Bay',1,3000,0,'A Duffins Bay',1,7000,0,'A Duffins Bay',1,3000,0,'A Duffins Bay',1,7000,0,'A Duffins Bay',1,3000,0,'A Duffins Bay',1,7000,0,'A Duffins Bay',1
+'Saturday',29101,95120,,'',1,20000,,'',1,19700,,'',1,19500,0,'S Drop Off Only',1
+'Sunday',29101,95120,,'',1,20000,,'',1,19700,,'',1,19500,0,'S Drop Off Only',1
+'Weekday',29101,95120,,'',1,20000,,'',1,19700,,'',1,19500,0,'S Drop Off Only',1
