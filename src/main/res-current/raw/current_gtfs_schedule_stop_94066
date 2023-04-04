@@ -1,14 +1,14 @@
-'Late Night Satmerged999983',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Late Night Satmerged999983',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Late Night Sunmerged999990',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Late Night Sunmerged999990',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Late Night Wkdymerged999988',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Late Night Wkdymerged999988',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Overnight All Daysmerged999981',1400000100,24940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Overnight All Daysmerged999981',1400000101,40540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Saturdaymerged999984',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Saturdaymerged999984',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Sundaymerged999985',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Sundaymerged999985',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
-'Weekdaymerged999986',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
-'Weekdaymerged999986',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Late Night Sat',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Late Night Sat',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Late Night Sun',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Late Night Sun',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Late Night Wkdy',1400000100,264940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Late Night Wkdy',1400000101,280540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Overnight All Days',1400000100,24940,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Overnight All Days',1400000101,40540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Saturday',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Saturday',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Sunday',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Sunday',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
+'Weekday',1400000100,231940,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1,3000,0,'Drop Off Only',1,7000,0,'Drop Off Only',1
+'Weekday',1400000101,240540,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1,7000,4,'',1,3000,4,'',1
