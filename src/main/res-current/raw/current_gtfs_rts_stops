@@ -47,7 +47,7 @@
 174,'174:1','Brock St NB @ Chestnut',43.88521,-78.944286,2
 175,'175:1','Brock St NB @ Maple',43.886266,-78.944746,2
 176,'176:1','NB @ 807 Brock St',43.89055,-78.94666,1
-177,'177:1','Brock St NB @ Manning',43.891901,-78.947176,1
+177,'177:1','Brock St NB @ Manning',43.89226,-78.94736,1
 179,'179:1','Brock St NB @ Wallace',43.8946592,-78.9483474,1
 180,'180:1','Brock St NB @ Rossland',43.896874,-78.949308,1
 181,'181:1','Brock St NB @ Kenneth Hobbs',43.900152,-78.950988,2
@@ -71,8 +71,8 @@
 200,'200:1','Brock St SB @ James Rowe',43.903602,-78.952735,2
 201,'201:1','Brock St SB @ McCartney',43.900605,-78.951449,2
 202,'202:1','Brock St SB @ Rossland',43.897776,-78.950113,1
-203,'203:1','Brock St SB @ Palmerston',43.8943729,-78.9484346,1
-204,'204:1','Brock St SB @ Starr (N Side Stop)',43.892863,-78.947754,1
+203,'203:1','Brock St SB @ Palmerston',43.89499,-78.94865,1
+204,'204:1','Brock St SB @ Starr (N Side Stop)',43.89251,-78.94755,1
 205,'205:1','Brock St SB @ Starr (S Side Stop)',43.89159,-78.947226,1
 206,'206:1','SB @ 814 Brock St',43.8904162,-78.9467193,1
 207,'207:1','Brock St SB @ Maple',43.886977,-78.945274,2
@@ -241,7 +241,7 @@
 461,'461:1','Rossland WB @ Bassett',43.9009439,-78.9353815,1
 462,'462:1','Rossland WB @ Gdn (Durham Region Headquarters)',43.899906,-78.939886,1
 464,'464:1','Rossland WB @ Civic Ctr Dr',43.898832,-78.944604,1
-465,'465:1','Rossland WB @ Brock St',43.8976792,-78.9492191,1
+465,'465:1','Rossland WB @ Brock St',43.89741,-78.95003,1
 467,'467:1','Rossland WB @ Whitburn',43.89627,-78.956033,1
 468,'468:1','Rossland WB @ Cochrane',43.895555,-78.959364,1
 469,'469:1','Rossland WB @ Country Ln',43.89427381,-78.964817,1
@@ -250,7 +250,7 @@
 472,'472:1','Rossland EB @ Country Ln',43.89412,-78.96458,1
 473,'473:1','Rossland EB @ Cochrane',43.895243,-78.959856,1
 474,'474:1','Rossland EB @ Redoak',43.8960969948,-78.9561312664,2
-476,'476:1','Rossland EB @ Brock St',43.897253,-78.950126,1
+476,'476:1','Rossland EB @ Brock St',43.89743,-78.94953,1
 477,'477:1','Rossland EB @ Civic Ctr Dr',43.898728,-78.944498,1
 480,'480:1','Rossland EB @ Gdn (Durham Region Headquarters)',43.899581,-78.940539,1
 481,'481:1','Rossland EB @ Bassett',43.9006827,-78.9356953,1
@@ -264,7 +264,6 @@
 490,'490:1','Baldwin NB @ Roybrook',43.951339,-78.961822,1
 491,'491:1','Baldwin NB @ Winchester',43.953127,-78.962199,2
 492,'492:1','Baldwin NB @ Cassels',43.955803,-78.961218,2
-497,'497:1','Winchester EB @ Anderson',43.956651,-78.946403,2
 505,'505:1','Carnwith WB @ Thickson',43.968094,-78.948934,1
 506,'506:1','Carnwith WB @ Croxall',43.9673515,-78.9528905,1
 507,'507:1','Carnwith WB @ Downey',43.967171,-78.956391,1
@@ -1330,7 +1329,7 @@
 3430,'3430:1','Rossland EB @ Church',43.8709498,-79.0630705,2
 3431,'3431:1','Rossland EB @ Shell',43.870787,-79.068303,2
 3432,'3432:1','Rossland WB @ Shell',43.870936,-79.068386,2
-3433,'3433:1','Rossland WB @ Stannardville',43.870491,-79.070806,2
+3433,'3433:1','Rossland WB @ Seagrave',43.870129,-79.072756,2
 3434,'3434:1','Rossland EB @ Stannardville',43.869703,-79.073729,2
 3435,'3435:1','Rossland EB @ Southcott',43.868324,-79.079724,1
 3509,'3509:1','Audley SB @ Moynahan',43.83875,-78.9851889,2
@@ -1393,9 +1392,6 @@
 3617,'36171','Thickson NB @ Winchester',43.958227,-78.943705,2
 3618,'36181','Thickson NB @ Blackfriar',43.961855,-78.945277,2
 3627,'36271','Baldwin SB @ Cassels',43.955959,-78.961368,2
-3630,'36301','Winchester EB @ Chelmsford',43.95386,-78.95961,2
-3631,'36311','Winchester EB @ Simcoe',43.9549931281,-78.9545788076,2
-3632,'36321','Winchester EB @ St Thomas',43.9554,-78.95263,2
 3633,'36331','Simcoe NB @ Windfields Farm',43.963248,-78.902719,2
 3635,'36351','Brock EB @ Main',44.109315,-79.120595,2
 3636,'36361','Harmony SB @ Olive',43.895486,-78.830067,2
@@ -1825,6 +1821,7 @@
 94114,'941141','Carnwith EB @ Leithridge',43.964939,-78.961692,2
 94115,'941151','Britannia EB @ Windfields Farm',43.95367,-78.9102,2
 94125,'941251','Pickering Pkwy Term P:B13',43.83272,-79.08561,1
+94127,'94127','Northglen EB @ Kenneth Cole',43.936771,-78.711204,2
 94150,'941501','Adelaide Ave WB @ Fleetwood Dr',43.91442,-78.82482,2
 94151,'941511','Gibb St EB @ Ctr St',43.88991,-78.86271,2
 94152,'941521','Gord Vinson EB @ Fenning Dr',43.88993,-78.80185,2
@@ -1862,7 +1859,6 @@
 94186,'941861','Hopkins SB @ Nichol',43.88242,-78.92194,2
 931841,'931841','Stevens EB @ Grn',43.911262,-78.712186,2
 938011,'938011','Scugog @ Concession 3 N Ns',43.933913,-78.701053,2
-938101,'938101','Northglen EB @ Kenneth Cole',43.936771,-78.711204,2
 941261,'941261','Liberty SB @ King',43.910968,-78.680541,2
 941281,'941281','Middle SB @ Northglen',43.937716,-78.703229,2
 941291,'941291','Middle SB @ Concession 3',43.934469,-78.701693,2
@@ -1899,3 +1895,5 @@
 942011,'942011','Thickson SB @ Dryden',43.914213,-78.924996,2
 942081,'942081','Woodview SB @ Finch',43.832835,-79.15152,2
 942091,'942091','Altona NB @ Pine Grv',43.827958,-79.141168,2
+942101,'942101','Conlin EB @ Simcoe',43.948164,-78.895029,2
+942111,'942111','Conlin WB @ Simcoe',43.947863,-78.897454,2

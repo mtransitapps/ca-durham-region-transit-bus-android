@@ -17,7 +17,7 @@
 22400,0,'Taunton',224
 29100,0,'Harwood',291
 29101,0,'Pickering Sta',291
-30200,0,'Carnwith',302
+30200,0,'North Campus',302
 30201,0,'Whitby Sta',302
 31900,0,'Taunton',319
 31901,0,'Whitby Sta',319
@@ -55,7 +55,7 @@
 91701,0,'Pickering Pkwy Term',917
 92000,0,'Harmony Term',920
 92001,0,'McCowan Sta',920
-1400000100,0,'Harmony',14000001
+1400000100,0,'Pickering',14000001
 1400000101,0,'Scarborough',14000001
 1400000201,0,'Bloor',14000002
 1400000200,0,'Windfields Farm',14000002
