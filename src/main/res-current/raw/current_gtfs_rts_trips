@@ -1,7 +1,7 @@
 10100,0,'A Bay Rdgs',101
 10101,0,'Bay Rdgs',101
-10301,0,'Altona',103
-10300,0,'Pickering Pkwy',103
+10301,0,'Altona & Pine Grv',103
+10300,0,'Pickering Pkwy Term',103
 11000,0,'Pickering Pkwy Term',110
 11001,0,'Sunbird',110
 11201,0,'Pickering Pkwy Term',112
@@ -22,29 +22,29 @@
 31900,0,'Taunton',319
 31901,0,'Whitby Sta',319
 39201,0,'Ontario Shrs',392
-39200,0,'Oshawa Ctr Term',392
+39200,0,'Whitby Sta',392
 40300,0,'Oshawa Ctr Term',403
 40301,0,'Oshawa Sta',403
 40500,0,'Harmony Term',405
 40501,0,'Oshawa Ctr Term',405
-40701,0,'Farewell & Raleigh',407
 40700,0,'Harmony Term',407
+40701,0,'Raleigh',407
 40901,0,'Oshawa Ctr Term',409
-40900,0,'Taunton EB @ Thickson',409
+40900,0,'Taunton',409
 41000,0,'Harmony Term',410
 41001,0,'Oshawa Ctr Term',410
 41100,0,'Courtice',411
 41101,0,'Oshawa Ctr Term',411
 42300,0,'Harmony Term',423
 42301,0,'Oshawa Ctr Term',423
-50201,0,'Prince William Blvd',502
-50200,0,'Temperance',502
+50201,0,'Prince William',502
+50200,0,'Simpson',502
 90000,0,'Oshawa',900
 90001,0,'Scarborough',900
-90101,0,'Lakeview Pk',901
-90100,0,'Windfields Farm',901
-90201,0,'A Oshawa Sta',902
-90200,0,'Bowmanville / Courtice',902
+90101,0,'Lakeview Pk WB @ Ritson',901
+90100,0,'Simcoe SB @ Windfields Farm',901
+90200,0,'Bowmanville',902
+90201,0,'Oshawa Sta',902
 90500,0,'Harmony Term / Uxbridge',905
 90501,0,'Whitby Sta',905
 91501,0,'Ajax Sta',915
@@ -55,7 +55,7 @@
 91701,0,'Pickering Pkwy Term',917
 92000,0,'Harmony Term',920
 92001,0,'McCowan Sta',920
-1400000100,0,'Pickering',14000001
+1400000100,0,'Harmony',14000001
 1400000101,0,'Scarborough',14000001
 1400000201,0,'Bloor',14000002
 1400000200,0,'Windfields Farm',14000002
