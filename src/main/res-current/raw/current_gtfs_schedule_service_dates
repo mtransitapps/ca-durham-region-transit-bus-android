@@ -1,144 +1,144 @@
-'All Days',20240102
-'Weekdaymerged999983',20240102
-'WeekdayRegmerged999982',20240102
-'All Days',20240103
-'Weekdaymerged999983',20240103
-'WeekdayRegmerged999982',20240103
-'All Days',20240104
-'Weekdaymerged999983',20240104
-'WeekdayRegmerged999982',20240104
-'All Days',20240105
-'Weekdaymerged999983',20240105
-'WeekdayRegmerged999982',20240105
-'All Days',20240106
-'Saturday',20240106
-'SaturdayReg',20240106
-'All Days',20240107
-'Saturday',20240107
-'SaturdayReg',20240107
-'All Days',20240108
-'Weekdaymerged999983',20240108
-'WeekdayRegmerged999982',20240108
-'All Days',20240109
-'Weekdaymerged999983',20240109
-'WeekdayRegmerged999982',20240109
-'All Days',20240110
-'Weekdaymerged999983',20240110
-'WeekdayRegmerged999982',20240110
-'All Days',20240111
-'Weekdaymerged999983',20240111
-'WeekdayRegmerged999982',20240111
-'All Days',20240112
-'Weekdaymerged999983',20240112
-'WeekdayRegmerged999982',20240112
-'All Days',20240113
-'Saturday',20240113
-'SaturdayReg',20240113
-'All Days',20240114
-'Saturday',20240114
-'SaturdayReg',20240114
-'All Days',20240115
-'Weekdaymerged999983',20240115
-'WeekdayRegmerged999982',20240115
-'All Days',20240116
-'Weekdaymerged999983',20240116
-'WeekdayRegmerged999982',20240116
-'All Days',20240117
-'Weekdaymerged999983',20240117
-'WeekdayRegmerged999982',20240117
-'All Days',20240118
-'Weekdaymerged999983',20240118
-'WeekdayRegmerged999982',20240118
-'All Days',20240119
-'Weekdaymerged999983',20240119
-'WeekdayRegmerged999982',20240119
-'All Days',20240120
-'Saturday',20240120
-'SaturdayReg',20240120
-'All Days',20240121
-'Saturday',20240121
-'SaturdayReg',20240121
-'All Days',20240122
-'Weekdaymerged999983',20240122
-'WeekdayRegmerged999982',20240122
-'All Days',20240123
-'Weekdaymerged999983',20240123
-'WeekdayRegmerged999982',20240123
-'All Days',20240124
-'Weekdaymerged999983',20240124
-'WeekdayRegmerged999982',20240124
-'All Days',20240125
-'Weekdaymerged999983',20240125
-'WeekdayRegmerged999982',20240125
-'All Days',20240126
-'Weekdaymerged999983',20240126
-'WeekdayRegmerged999982',20240126
-'All Days',20240127
-'Saturday',20240127
-'SaturdayReg',20240127
-'All Days',20240128
-'Saturday',20240128
-'SaturdayReg',20240128
-'All Days',20240129
-'Weekdaymerged999983',20240129
-'WeekdayRegmerged999982',20240129
-'All Days',20240130
-'Weekdaymerged999983',20240130
-'WeekdayRegmerged999982',20240130
-'All Days',20240131
-'Weekdaymerged999983',20240131
-'WeekdayRegmerged999982',20240131
-'All Days',20240201
-'Weekdaymerged999983',20240201
-'WeekdayRegmerged999982',20240201
-'All Days',20240202
-'Weekdaymerged999983',20240202
-'WeekdayRegmerged999982',20240202
-'All Days',20240203
-'Saturday',20240203
-'SaturdayReg',20240203
-'All Days',20240204
-'Saturday',20240204
-'SaturdayReg',20240204
-'All Days',20240205
-'Weekdaymerged999983',20240205
-'WeekdayRegmerged999982',20240205
-'All Days',20240206
-'Weekdaymerged999983',20240206
-'WeekdayRegmerged999982',20240206
-'All Days',20240207
-'Weekdaymerged999983',20240207
-'WeekdayRegmerged999982',20240207
-'All Days',20240208
-'Weekdaymerged999983',20240208
-'WeekdayRegmerged999982',20240208
-'All Days',20240209
-'Weekdaymerged999983',20240209
-'WeekdayRegmerged999982',20240209
-'All Days',20240210
-'Saturday',20240210
-'SaturdayReg',20240210
-'All Days',20240211
-'Saturday',20240211
-'SaturdayReg',20240211
-'All Days',20240212
-'Weekdaymerged999983',20240212
-'WeekdayRegmerged999982',20240212
-'All Days',20240213
-'Weekdaymerged999983',20240213
-'WeekdayRegmerged999982',20240213
-'All Days',20240214
-'Weekdaymerged999983',20240214
-'WeekdayRegmerged999982',20240214
-'All Days',20240215
-'Weekdaymerged999983',20240215
-'WeekdayRegmerged999982',20240215
-'All Days',20240216
-'Weekdaymerged999983',20240216
-'WeekdayRegmerged999982',20240216
-'All Days',20240217
-'Saturday',20240217
-'SaturdayReg',20240217
-'All Days',20240218
-'Saturday',20240218
-'SaturdayReg',20240218
+'All Days',20240102,0
+'Weekday',20240102,0
+'WeekdayReg',20240102,0
+'All Days',20240103,0
+'Weekday',20240103,0
+'WeekdayReg',20240103,0
+'All Days',20240104,0
+'Weekday',20240104,0
+'WeekdayReg',20240104,0
+'All Days',20240105,0
+'Weekday',20240105,0
+'WeekdayReg',20240105,0
+'All Days',20240106,0
+'Saturday',20240106,0
+'SaturdayReg',20240106,0
+'All Days',20240107,0
+'Saturday',20240107,0
+'SaturdayReg',20240107,0
+'All Days',20240108,0
+'Weekday',20240108,0
+'WeekdayReg',20240108,0
+'All Days',20240109,0
+'Weekday',20240109,0
+'WeekdayReg',20240109,0
+'All Days',20240110,0
+'Weekday',20240110,0
+'WeekdayReg',20240110,0
+'All Days',20240111,0
+'Weekday',20240111,0
+'WeekdayReg',20240111,0
+'All Days',20240112,0
+'Weekday',20240112,0
+'WeekdayReg',20240112,0
+'All Days',20240113,0
+'Saturday',20240113,0
+'SaturdayReg',20240113,0
+'All Days',20240114,0
+'Saturday',20240114,0
+'SaturdayReg',20240114,0
+'All Days',20240115,0
+'Weekday',20240115,0
+'WeekdayReg',20240115,0
+'All Days',20240116,0
+'Weekday',20240116,0
+'WeekdayReg',20240116,0
+'All Days',20240117,0
+'Weekday',20240117,0
+'WeekdayReg',20240117,0
+'All Days',20240118,0
+'Weekday',20240118,0
+'WeekdayReg',20240118,0
+'All Days',20240119,0
+'Weekday',20240119,0
+'WeekdayReg',20240119,0
+'All Days',20240120,0
+'Saturday',20240120,0
+'SaturdayReg',20240120,0
+'All Days',20240121,0
+'Saturday',20240121,0
+'SaturdayReg',20240121,0
+'All Days',20240122,0
+'Weekday',20240122,0
+'WeekdayReg',20240122,0
+'All Days',20240123,0
+'Weekday',20240123,0
+'WeekdayReg',20240123,0
+'All Days',20240124,0
+'Weekday',20240124,0
+'WeekdayReg',20240124,0
+'All Days',20240125,0
+'Weekday',20240125,0
+'WeekdayReg',20240125,0
+'All Days',20240126,0
+'Weekday',20240126,0
+'WeekdayReg',20240126,0
+'All Days',20240127,0
+'Saturday',20240127,0
+'SaturdayReg',20240127,0
+'All Days',20240128,0
+'Saturday',20240128,0
+'SaturdayReg',20240128,0
+'All Days',20240129,0
+'Weekday',20240129,0
+'WeekdayReg',20240129,0
+'All Days',20240130,0
+'Weekday',20240130,0
+'WeekdayReg',20240130,0
+'All Days',20240131,0
+'Weekday',20240131,0
+'WeekdayReg',20240131,0
+'All Days',20240201,0
+'Weekday',20240201,0
+'WeekdayReg',20240201,0
+'All Days',20240202,0
+'Weekday',20240202,0
+'WeekdayReg',20240202,0
+'All Days',20240203,0
+'Saturday',20240203,0
+'SaturdayReg',20240203,0
+'All Days',20240204,0
+'Saturday',20240204,0
+'SaturdayReg',20240204,0
+'All Days',20240205,0
+'Weekday',20240205,0
+'WeekdayReg',20240205,0
+'All Days',20240206,0
+'Weekday',20240206,0
+'WeekdayReg',20240206,0
+'All Days',20240207,0
+'Weekday',20240207,0
+'WeekdayReg',20240207,0
+'All Days',20240208,0
+'Weekday',20240208,0
+'WeekdayReg',20240208,0
+'All Days',20240209,0
+'Weekday',20240209,0
+'WeekdayReg',20240209,0
+'All Days',20240210,0
+'Saturday',20240210,0
+'SaturdayReg',20240210,0
+'All Days',20240211,0
+'Saturday',20240211,0
+'SaturdayReg',20240211,0
+'All Days',20240212,0
+'Weekday',20240212,0
+'WeekdayReg',20240212,0
+'All Days',20240213,0
+'Weekday',20240213,0
+'WeekdayReg',20240213,0
+'All Days',20240214,0
+'Weekday',20240214,0
+'WeekdayReg',20240214,0
+'All Days',20240215,0
+'Weekday',20240215,0
+'WeekdayReg',20240215,0
+'All Days',20240216,0
+'Weekday',20240216,0
+'WeekdayReg',20240216,0
+'All Days',20240217,0
+'Saturday',20240217,0
+'SaturdayReg',20240217,0
+'All Days',20240218,0
+'Saturday',20240218,0
+'SaturdayReg',20240218,0
