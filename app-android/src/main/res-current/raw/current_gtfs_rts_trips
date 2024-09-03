@@ -1,16 +1,18 @@
-10000,0,'Pickering Pkwy Term',100
-10001,0,'Waterfront',100
 10100,0,'A Bay Rdgs',101
 10101,0,'Bay Rdgs',101
 11200,0,'C Taunton',112
 11201,0,'Pickering Pkwy Term',112
+11801,0,'Pickering Pkwy Term',118
+11800,0,'Taunton',118
 12100,0,'Pickering Pkwy Term',121
 12101,0,'Pickering Sta',121
+21100,0,'Ajax Sta',211
+21101,0,'Pickering Pkwy Term',211
 21601,0,'Ajax Sta',216
 21600,0,'Taunton',216
 22401,0,'Ajax Sta',224
 22400,0,'Taunton',224
-22700,0,'Ajax Sta',227
+22700,0,'A South Ajax',227
 22701,0,'South Ajax',227
 30100,0,'Taunton',301
 30101,0,'Whitby Sta',301
@@ -43,10 +45,6 @@
 50700,0,'Orono',507
 50701,0,'Simpson',507
 60500,0,'Uxbridge',605
-75001,0,'Kinsmen Pk',750
-75000,0,'Pickering Sta',750
-75201,0,'Lakeview Pk',752
-75200,0,'Oshawa Ctr Term',752
 90000,0,'Oshawa',900
 90001,0,'Scarborough',900
 90101,0,'Lakeview Pk / Oshawa Ctr Term',901
@@ -63,6 +61,8 @@
 91701,0,'Pickering Pkwy Term',917
 92000,0,'Harmony Term',920
 92001,0,'Scarborough Ctr',920
+92100,0,'Harmony Term',921
+92101,0,'Scarborough Ctr',921
 1400000100,0,'Conlin',14000001
 1400000101,0,'Scarborough',14000001
 1400000201,0,'Bloor',14000002
