@@ -9,7 +9,7 @@
     <string-array name="rrs_file_cleaning_regex" />
     <string-array name="rrs_file_cleaning_replacement" />
     <string-array name="rss_feeds">
-        <item>https://www.durhamregiontransit.com/Modules/News/rss.aspx</item>
+        <!-- <item>https://www.durhamregiontransit.com/Modules/News/rss.aspx</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.durhamregiontransit.com/Common/favicon.ico</item>
