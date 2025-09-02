@@ -1,9 +1,7 @@
-10000,0,'Pickering Pkwy Term',100
-10001,0,'Waterfront',100
 10100,0,'A Bay Rdgs',101
 10101,0,'B Bay Rdgs',101
-11201,0,'Pickering Pkwy Term',112
-11200,0,'Taunton',112
+11200,0,'Burkholder SB @ Belcourt',112
+11201,0,'Pickering Pkwy Term P:B12',112
 11801,0,'Pickering Pkwy Term',118
 11800,0,'Taunton',118
 12100,0,'Pickering Pkwy Term',121
@@ -22,6 +20,7 @@
 30201,0,'Whitby Sta',302
 30600,0,'A Whitby Sta',306
 30601,0,'B Whitby Sta',306
+31501,0,'Whitby Sta',315
 31900,0,'Taunton',319
 31901,0,'Whitby Sta',319
 39201,0,'Ontario Shrs',392
@@ -46,6 +45,8 @@
 42301,0,'Oshawa Ctr Term',423
 50201,0,'Clarington Blvd',502
 50200,0,'Simpson',502
+50500,0,'Port Darlington',505
+50501,0,'Temperance',505
 50700,0,'Orono',507
 50701,0,'Simpson',507
 60500,0,'Uxbridge',605
