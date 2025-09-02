@@ -13,7 +13,7 @@ import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
-import org.mtransit.parser.mt.data.MTrip;
+import org.mtransit.parser.mt.data.MDirection;
 
 import java.util.regex.Pattern;
 
@@ -28,11 +28,6 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
-	@Override
 	public boolean excludeRoute(@NotNull GRoute gRoute) {
 		if (gRoute.getRouteShortName().startsWith("copy of")) {
 			return EXCLUDE;
@@ -44,6 +39,11 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getRouteIdCleanupRegex() {
+		return ""; // using CleanUtils.cleanMergedID in cleanRouteOriginalId()
 	}
 
 	@NotNull
@@ -76,8 +76,13 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getRouteShortName(@NotNull GRoute gRoute) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return cleanRouteOriginalId(gRoute.getRouteId()); // used by GTFS-RT
+	}
+
+	@Override
+	public @Nullable String getStopIdCleanupRegex() {
+		return ""; // using CleanUtils.cleanMergedID in cleanStopOriginalId()
 	}
 
 	@NotNull
@@ -124,7 +129,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		final boolean startsWithLetter1 = STARTS_WITH_LETTER.matcher(headSign1).find();
 		final boolean startsWithLetter2 = STARTS_WITH_LETTER.matcher(headSign2).find();
 		if (startsWithLetter1 && startsWithLetter2) {
-			return MTrip.mergeHeadsignValue(
+			return MDirection.mergeHeadsignValue(
 					headSign1.substring(2),
 					headSign2.substring(2)
 			);
@@ -134,7 +139,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern DASH_ = Pattern.compile("( - | -|- )", Pattern.CASE_INSENSITIVE);
 
-	private static final Pattern START_WITH_RSN = Pattern.compile("(^[\\d]+)", Pattern.CASE_INSENSITIVE);
+	private static final Pattern START_WITH_RSN = Pattern.compile("(^\\d+)", Pattern.CASE_INSENSITIVE);
 
 	private static final Pattern STARTS_WITH_LETTER_ = Pattern.compile("(^([A-Z])\\s?-\\s?)");
 	private static final String STARTS_WITH_LETTER_REPLACEMENT = "$2 ";
@@ -155,7 +160,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.CLEAN_AND.matcher(tripHeadsign).replaceAll(CleanUtils.CLEAN_AND_REPLACEMENT);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	@NotNull
@@ -172,7 +177,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanSlashes(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	private static final Pattern ENDS_WITH_DASH_1_ = Pattern.compile("(:1$)", Pattern.CASE_INSENSITIVE);
@@ -184,7 +189,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 				&& CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // use stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		String stopId = CleanUtils.cleanMergedID(gStop.getStopId());
 		stopId = ENDS_WITH_DASH_1_.matcher(stopId).replaceAll(EMPTY);
 		if (!StringUtils.isEmpty(stopId)
@@ -197,7 +202,7 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String getStopCode(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		String stopId = CleanUtils.cleanMergedID(gStop.getStopId()); // used by GTFS-RT
 		if (!StringUtils.isEmpty(stopId)) {
 			return stopId;
