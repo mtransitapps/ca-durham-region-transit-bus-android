@@ -5,13 +5,10 @@ import static org.mtransit.commons.Constants.SPACE_;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
-import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 import org.mtransit.parser.mt.data.MDirection;
 
@@ -42,15 +39,13 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public @Nullable String getRouteIdCleanupRegex() {
-		return ""; // using CleanUtils.cleanMergedID in cleanRouteOriginalId()
+	public boolean cleanMergedServiceIds() {
+		return true;
 	}
 
-	@NotNull
 	@Override
-	public String cleanRouteOriginalId(@NotNull String gRouteId) {
-		gRouteId = CleanUtils.cleanMergedID(gRouteId);
-		return gRouteId;
+	public boolean cleanMergedRouteIds() {
+		return true;
 	}
 
 	@Override
@@ -78,18 +73,6 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 	public String getRouteShortName(@NotNull GRoute gRoute) {
 		//noinspection DiscouragedApi
 		return cleanRouteOriginalId(gRoute.getRouteId()); // used by GTFS-RT
-	}
-
-	@Override
-	public @Nullable String getStopIdCleanupRegex() {
-		return ""; // using CleanUtils.cleanMergedID in cleanStopOriginalId()
-	}
-
-	@NotNull
-	@Override
-	public String cleanStopOriginalId(@NotNull String gStopId) {
-		gStopId = CleanUtils.cleanMergedID(gStopId);
-		return gStopId;
 	}
 
 	@Override
@@ -180,33 +163,8 @@ public class DurhamRegionTransitBusAgencyTools extends DefaultAgencyTools {
 		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
-	private static final Pattern ENDS_WITH_DASH_1_ = Pattern.compile("(:1$)", Pattern.CASE_INSENSITIVE);
-
 	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		final String stopCode = gStop.getStopCode();
-		if (!StringUtils.isEmpty(stopCode)
-				&& CharUtils.isDigitsOnly(stopCode)) {
-			return Integer.parseInt(stopCode); // use stop code as stop ID
-		}
-		//noinspection DiscouragedApi
-		String stopId = CleanUtils.cleanMergedID(gStop.getStopId());
-		stopId = ENDS_WITH_DASH_1_.matcher(stopId).replaceAll(EMPTY);
-		if (!StringUtils.isEmpty(stopId)
-				&& CharUtils.isDigitsOnly(stopId)) {
-			return Integer.parseInt(stopId);
-		}
-		throw new MTLog.Fatal("Unexpected stop ID '%s' for %s!", stopId, gStop.toStringPlus(true));
-	}
-
-	@NotNull
-	@Override
-	public String getStopCode(@NotNull GStop gStop) {
-		//noinspection DiscouragedApi
-		String stopId = CleanUtils.cleanMergedID(gStop.getStopId()); // used by GTFS-RT
-		if (!StringUtils.isEmpty(stopId)) {
-			return stopId;
-		}
-		throw new MTLog.Fatal("Unexpected stop code '%s' for %s!", stopId, gStop.toStringPlus(true));
+	public boolean cleanMergedStopIds() {
+		return true;
 	}
 }
