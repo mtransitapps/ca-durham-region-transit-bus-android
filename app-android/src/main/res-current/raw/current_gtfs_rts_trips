@@ -1,23 +1,23 @@
 10100,0,'A Bay Rdgs',101
 10101,0,'B Bay Rdgs',101
-11201,0,'Pickering Pkwy',112
+11201,0,'A Pickering Pkwy',112
 11200,0,'Taunton',112
 11801,0,'Pickering Pkwy Term',118
 11800,0,'Taunton',118
-12100,0,'Pickering Pkwy Term',121
-12101,0,'Pickering Sta',121
+12100,0,'A Pickering Pkwy / Pickering Pkwy Term',121
+12101,0,'A Pickering Sta / B West Shr',121
 21100,0,'Ajax Sta',211
-21101,0,'Pickering Pkwy Term',211
+21101,0,'Church / Pickering Pkwy Term',211
 21601,0,'Ajax Sta',216
-21600,0,'Taunton',216
-22401,0,'Ajax Sta',224
+21600,0,'C Audley / Taunton',216
+22401,0,'Ajax Sta / B Kingston',224
 22400,0,'Taunton',224
 22700,0,'A South Ajax',227
 22701,0,'B South Ajax',227
 30100,0,'Taunton',301
 30101,0,'Whitby Sta',301
-30200,0,'North Campus',302
-30201,0,'Whitby Sta',302
+30200,0,'B Anderson / C North Campus',302
+30201,0,'C Whitby Sta',302
 30600,0,'A Whitby Sta',306
 30601,0,'B Whitby Sta',306
 31501,0,'Port Whitby',315
@@ -25,49 +25,49 @@
 31901,0,'Whitby Sta',319
 39201,0,'Ontario Shrs',392
 39200,0,'Whitby Sta',392
+40301,0,'B Phillip Murray / Oshawa Sta',403
 40300,0,'Oshawa Ctr Term',403
-40301,0,'Oshawa Sta',403
 40500,0,'Delpark Homes Ctr',405
 40501,0,'Oshawa Ctr Term',405
-40700,0,'North Campus',407
-40701,0,'Raleigh',407
-40901,0,'Oshawa Ctr Term',409
-40900,0,'Windfields Farm',409
+40701,0,'A Raleigh',407
+40700,0,'B Delpark Homes Ctr / C Delpark Homes Ctr / D North Campus',407
+40901,0,'A Oshawa Ctr Term / C Oshawa Ctr Term',409
+40900,0,'C Windfields Farm',409
 41000,0,'Harmony Term',410
 41001,0,'Oshawa Ctr Term',410
+41100,0,'B Raleigh / Trulls',411
 41101,0,'Oshawa Ctr Term',411
-41100,0,'Trulls',411
 41900,0,'Harmony Term',419
 41901,0,'Windfields Farm',419
-42101,0,'Oshawa Sta',421
-42100,0,'Trulls',421
+42101,0,'A Oshawa Sta',421
+42100,0,'A Trulls / C Trulls / B Raleigh',421
 42300,0,'Harmony Term',423
 42301,0,'Oshawa Ctr Term',423
-50201,0,'Clarington Blvd',502
-50200,0,'Simpson',502
+50201,0,'C Baseline / Clarington Blvd',502
+50200,0,'C Simpson / Clarington Blvd',502
 50500,0,'Port Darlington',505
-50501,0,'Temperance',505
+50501,0,'Port Darlington / Temperance',505
 50700,0,'Orono',507
 50701,0,'Simpson',507
 60500,0,'Uxbridge',605
+61801,0,'A Commencement / Port Perry',618
 61800,0,'Beaverton',618
-61801,0,'Port Perry',618
-90001,0,'Centennial Cir',900
+90001,0,'B Pickering Pkwy Term / Centennial Cir',900
 90000,0,'Ritson',900
-90101,0,'Lakeview Pk / Oshawa Ctr Term',901
-90100,0,'Windfields Farm',901
-90201,0,'Oshawa Sta',902
-90200,0,'Simpson',902
-90500,0,'Uxbridge / Windfields Farm',905
+90101,0,'A Lakeview Pk / C Oshawa Ctr Term',901
+90100,0,'B North Campus Term / Windfields Farm / Drop Off Only',901
+90200,0,'B Trulls / Simpson',902
+90201,0,'C Oshawa Ctr Term / Oshawa Sta',902
+90500,0,'A Windfields Farm / C Uxbridge',905
 90501,0,'Whitby Sta',905
 91501,0,'Ajax Sta',915
 91500,0,'Conlin',915
 91600,0,'Conlin',916
 91601,0,'Pickering Pkwy Term',916
-91700,0,'Oshawa Ctr Term',917
-91701,0,'Pickering Pkwy Term',917
+91700,0,'A Ajax Sta / Oshawa Ctr Term',917
+91701,0,'A Ajax Sta / Pickering Pkwy Term',917
+92001,0,'B Pickering Pkwy Term / Scarborough Ctr',920
 92000,0,'North Campus',920
-92001,0,'Scarborough Ctr',920
 92100,0,'North Campus',921
 92101,0,'Scarborough Ctr',921
 1400000101,0,'Centennial Cir',14000001
