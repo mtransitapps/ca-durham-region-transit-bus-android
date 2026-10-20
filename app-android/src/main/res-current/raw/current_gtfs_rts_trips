@@ -1,9 +1,9 @@
 10100,0,'A Bay Rdgs',101
 10101,0,'B Bay Rdgs',101
+11200,0,'Brock Rd & Hwy 407 Stn',112
 11201,0,'Pickering Pkwy',112
-11200,0,'Taunton',112
+11800,0,'Brock & Hwy 407 Sta',118
 11801,0,'Pickering Pkwy Term',118
-11800,0,'Taunton',118
 12100,0,'Pickering Pkwy Term',121
 12101,0,'Pickering Sta',121
 21100,0,'Ajax Sta',211
@@ -18,8 +18,8 @@
 30101,0,'Whitby Sta',301
 30200,0,'North Campus',302
 30201,0,'Whitby Sta',302
-30600,0,'A Whitby Sta',306
-30601,0,'B Whitby Sta',306
+30600,0,'Taunton',306
+30601,0,'Whitby Sta',306
 31501,0,'Port Whitby',315
 31900,0,'Taunton',319
 31901,0,'Whitby Sta',319
